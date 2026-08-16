@@ -1,0 +1,101 @@
+rank,skill,platform,vendor,source_skillssh,slug_clawhub,match,description,description_zh,verified_by,installs_skillssh,downloads_clawhub,downloads_skillhub_cn,pop_score
+1,find-skills,skills.sh,vercel-labs,vercel-labs/skills,,single,,,skills.sh,2966935,,,1
+2,frontend-design,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,781189,,,0.998
+3,agent-browser,skills.sh,vercel-labs,vercel-labs/agent-browser,,single,,,skills.sh,680941,,,0.995
+4,github,clawhub,steipete,,github,upstream,"Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",使用 `gh` CLI 与 GitHub 交互，通过 `gh issue`、`gh pr`、`gh run` 和 `gh api` 管理议题、PR、CI 运行及高级查询。,clawhub,,195670,358615,0.995
+5,vercel-react-best-practices,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,skills.sh,634952,,,0.994
+6,tencent-docs,skillhub-cn,腾讯科技（深圳）有限公司,,,single,"腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及""新建/创建/编辑/读取/查看/搜索文档""、""保存文件""、""云文档""、""腾讯文档""、""docs.qq.com""等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(","腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及""新建/创建/编辑/读取/查看/搜索文档""、""保存文件""、""云文档""、""腾讯文档""、""docs.qq.com""等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(",skillhub,,,268340,0.991
+7,weather,clawhub,steipete,,weather,upstream,Get current weather and forecasts (no API key required).,获取当前天气和预报（无需API密钥）,clawhub,,166870,238995,0.991
+8,gog,clawhub,steipete,,gog,upstream,"Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",Google Workspace 命令行工具，支持 Gmail、日历、云端硬盘、通讯录、表格和文档。,clawhub,,191128,194302,0.989
+9,ima-skills,skillhub-cn,腾讯科技（深圳）有限公司,,,single,ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。,ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。,skillhub,,,229115,0.986
+10,nano-pdf,clawhub,steipete,,nano-pdf,upstream,Edit PDFs with natural-language instructions using the nano-pdf CLI.,使用nano-pdf CLI通过自然语言指令编辑PDF,clawhub,,120000,124355,0.979
+11,nano-banana-pro,clawhub,steipete,,nano-banana-pro,upstream,Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.,使用 Nano Banana Pro (Gemini 3 Pro Image) 生成或编辑图像。支持文生图、图生图及 1K/2K/4K 分辨率，适用于图像创建、修改及编辑请求，使用 --input-image 指定输入图像。,clawhub,,106145,125352,0.978
+12,obsidian,clawhub,steipete,,obsidian,upstream,Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.,操作 Obsidian 仓库（纯 Markdown 笔记）并通过 obsidian-cli 自动化。,clawhub,,107519,116601,0.977
+13,notion,clawhub,steipete,,notion,upstream,"Notion API for creating and managing pages, databases, and blocks.",用于创建和管理页面、数据库及块的 Notion API。,clawhub,,100922,101043,0.973
+14,web-design-guidelines,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,skills.sh,545038,,,0.973
+15,microsoft-foundry,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,531648,,,0.971
+16,azure-diagnostics,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,525912,,,0.97
+17,azure-ai,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,525641,,,0.97
+18,openai-whisper,clawhub,steipete,,openai-whisper,upstream,Local speech-to-text with the Whisper CLI (no API key).,使用 Whisper CLI 进行本地语音转文字（无需 API 密钥）,clawhub,,87108,101164,0.969
+19,azure-deploy,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,525558,,,0.969
+20,azure-prepare,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,525362,,,0.968
+21,sonoscli,clawhub,steipete,,sonoscli,upstream,Control Sonos speakers (discover/status/play/volume/group).,控制Sonos音箱（发现/状态/播放/音量/分组）,clawhub,,87974,90719,0.968
+22,azure-validate,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,525074,,,0.967
+23,azure-storage,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,524583,,,0.967
+24,entra-app-registration,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,524327,,,0.966
+25,appinsights-instrumentation,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,524097,,,0.965
+26,azure-resource-lookup,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,524009,,,0.964
+27,azure-compliance,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,523953,,,0.963
+28,azure-aigateway,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,523812,,,0.963
+29,azure-kusto,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,523733,,,0.962
+30,azure-resource-visualizer,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,523692,,,0.961
+31,azure-messaging,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,513465,,,0.96
+32,azure-rbac,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,481766,,,0.958
+33,remotion-best-practices,skills.sh,remotion-dev,remotion-dev/skills,,single,,,skills.sh,480255,,,0.957
+34,mcporter,clawhub,steipete,,mcporter,upstream,"Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",使用 mcporter CLI 直接列出、配置、认证及调用 MCP 服务器/工具（支持 HTTP 或 stdio），涵盖临时服务器、配置编辑及 CLI/类型生成功能。,clawhub,,68962,72848,0.957
+35,azure-compute,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,467544,,,0.957
+36,azure-cloud-migrate,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,457210,,,0.955
+37,brave-search,clawhub,steipete,,brave-search,upstream,"Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",通过 Brave Search API 进行网页搜索与内容提取。适用于搜索文档、事实或任何网页内容。轻量级，无需浏览器。,clawhub,,61098,71167,0.954
+38,azure-hosted-copilot-sdk,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,434744,,,0.953
+39,video-frames,clawhub,steipete,,video-frames,upstream,Extract frames or short clips from videos using ffmpeg.,使用 ffmpeg 从视频中提取帧或短片。,clawhub,,56436,58775,0.948
+40,slack,clawhub,steipete,,slack,upstream,"Use when you need to control Slack from Clawdbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",当需要通过 slack 工具从 Clawdbot 控制 Slack 时使用，包括在频道或私信中回复消息或置顶/取消置顶项目。,clawhub,,53140,53686,0.943
+41,markdown-converter,clawhub,steipete,,markdown-converter,upstream,"Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF/OCR), audio (with tran","{""answer"":""使用 markitdown 将文档和文件转换为 Markdown。用于将 PDF、Word (.docx)、PowerPoint (.pptx)、Excel (.xlsx, .xls)、HTML、CSV、JSON、XML、图片（含 EXIF/OCR）、音频（含转录）、ZIP 压缩包、YouTube 链接或 EPub 转换为 Markdown 格式，以进行 LLM 处理或文本分",clawhub,,47899,62754,0.943
+42,agently-mail,skillhub-cn,腾讯科技（深圳）有限公司,,,single,Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com,Agently Mail 是 QQ 邮箱团队为 Agent 打造的专属邮箱服务，与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。 Agently Mail 支持微信登录授权、读取邮件、搜索邮件、发送邮件、回复、转发、移动到已删除、上传和下载附件。 Agently Mail 官网 https://agent.qq.com,skillhub,,,67944,0.938
+43,blogwatcher,clawhub,steipete,,blogwatcher,upstream,Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.,使用 blogwatcher CLI 监控博客和 RSS/Atom 订阅源的更新。,clawhub,,44129,47705,0.928
+44,trello,clawhub,steipete,,trello,upstream,"Manage Trello boards, lists, and cards via the Trello REST API.",使用 Trello REST API 管理看板、列表和卡片,clawhub,,42918,45960,0.926
+45,gemini,clawhub,steipete,,gemini,upstream,"Gemini CLI for one-shot Q&A, summaries, and generation.",Gemini CLI：一键问答、摘要与生成,clawhub,,36504,56672,0.924
+46,azure-quotas,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,393792,,,0.923
+47,azure-upgrade,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,386014,,,0.922
+48,lingyi-wx-video-decomposer-plus,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号爆款短视频拆解（付费版：全能）。一键拆解爆款，把一条视频号视频拆成结构分段、爆款归因、六维评分和可借鉴策略，照着学照着抄。支持视频号分享链接和本地视频，付费全能版远端分析，1–5 分钟出 Markdown 报告。,【零一数科·出品】视频号爆款短视频拆解（付费版：全能）。一键拆解爆款，把一条视频号视频拆成结构分段、爆款归因、六维评分和可借鉴策略，照着学照着抄。支持视频号分享链接和本地视频，付费全能版远端分析，1–5 分钟出 Markdown 报告。,skillhub,,,52950,0.919
+49,discord,clawhub,steipete,,discord,upstream,"Use when you need to control Discord from Clawdbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, fetch permissions or membe",用于通过 Clawdbot 的 discord 工具控制 Discord，包括发送消息、反应、发布或上传贴纸、上传表情符号、创建投票、管理话题/置顶/搜索、获取权限/成员/角色/频道信息，或在私聊/频道中执行管理操作。,clawhub,,39395,42707,0.915
+50,azure-enterprise-infra-planner,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,360143,,,0.913
+51,model-usage,clawhub,steipete,,model-usage,upstream,"Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost d",使用 CodexBar CLI 本地成本功能汇总 Codex 或 Claude 的各模型用量，支持当前模型或全模型明细。当查询 CodexBar 模型级用量/成本数据或需要脚本化汇总时触发。,clawhub,,38841,42669,0.913
+52,azure-kubernetes,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,353260,,,0.912
+53,skill-creator,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,352714,,,0.911
+54,clawdhub,clawhub,steipete,,clawdhub,upstream,"Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or","{""answer"":""使用 ClawdHub CLI 从 clawdhub.com 搜索、安装、更新及发布智能体技能。适用于即时获取新技能、同步至最新或指定版本，或通过 npm 安装的 CLI 发布技能文件夹。""}",clawhub,,37677,41361,0.91
+55,supabase-postgres-best-practices,skills.sh,supabase,supabase/agent-skills,,single,,,skills.sh,349852,,,0.91
+56,apple-notes,clawhub,steipete,,apple-notes,upstream,"Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks Clawdbot to add a note, list notes, search notes, or manage note folde",在 macOS 上通过 `memo` CLI 管理 Apple Notes（创建、查看、编辑、删除、搜索、移动和导出备忘录）。当用户请求添加、列出、搜索备忘录或管理文件夹时使用。,clawhub,,37180,37627,0.908
+57,qmd,clawhub,steipete,,qmd,upstream,Local search/indexing CLI (BM25 + vectors + rerank) with MCP mode.,本地搜索/索引命令行工具（BM25 + 向量 + 重新排序），支持 MCP 模式,clawhub,,34929,34470,0.894
+58,azure-cost,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,328512,,,0.894
+59,cloudbase,skillhub-cn,腾讯科技（深圳）有限公司,,,single,腾讯云 CloudBase 是面向 AI Coding 的后端一体化平台，内置数据库、存储、身份认证、云函数与云托管等服务，支持快速构建小程序、Web、移动 App、管理后台与 AI 应用。,腾讯云 CloudBase 是面向 AI Coding 的后端一体化平台，内置数据库、存储、身份认证、云函数与云托管等服务，支持快速构建小程序、Web、移动 App、管理后台与 AI 应用。,skillhub,,,43102,0.891
+60,lingyi-wx-viral-script-generator,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号爆款文案生成（体验版）。免费免登录出脚本，给创作目的、行业、受众、选题就按爆款结构（Hook-中段-CTA、节奏标签）产出口播脚本，信息不全也能按爆款潜质兜底。本地运行、无需 Key，零成本上手。,【零一数科·出品】视频号爆款文案生成（体验版）。免费免登录出脚本，给创作目的、行业、受众、选题就按爆款结构（Hook-中段-CTA、节奏标签）产出口播脚本，信息不全也能按爆款潜质兜底。本地运行、无需 Key，零成本上手。,skillhub,,,43101,0.89
+61,1password,clawhub,steipete,,1password,upstream,"Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op.",设置和使用 1Password CLI (op)。适用于：安装 CLI、启用桌面应用集成、登录（单/多账户）、通过 op 读取/注入/运行密钥。,clawhub,,33505,33005,0.888
+62,vercel-composition-patterns,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,skills.sh,290434,,,0.882
+63,airunway-aks-setup,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,272676,,,0.88
+64,tmux,clawhub,steipete,,tmux,upstream,Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.,通过发送按键并抓取面板输出，远程控制 tmux 会话，实现交互式命令行。,clawhub,,31658,31239,0.879
+65,lingyi-wx-video-decomposer-exp,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号爆款短视频拆解（免费版：需本地上传视频）。免费看视频拆爆款，把本地视频按视频号带货/流量逻辑拆成结构分段、脚本类型、爆款归因和六维评分报告，照着学照着抄。素材全程本地提取，不传视频不传帧，免登录免 Key；仅支持本地视频上传，暂不支持视频号链接。,【零一数科·出品】视频号爆款短视频拆解（免费版：需本地上传视频）。免费看视频拆爆款，把本地视频按视频号带货/流量逻辑拆成结构分段、脚本类型、爆款归因和六维评分报告，照着学照着抄。素材全程本地提取，不传视频不传帧，免登录免 Key；仅支持本地视频上传，暂不支持视频号链接。,skillhub,,,37302,0.877
+66,peekaboo,clawhub,steipete,,peekaboo,upstream,Capture and automate macOS UI with the Peekaboo CLI.,使用 Peekaboo CLI 捕获并自动化 macOS 界面。,clawhub,,31255,31277,0.877
+67,apple-reminders,clawhub,steipete,,apple-reminders,upstream,"Manage Apple Reminders via the `remindctl` CLI on macOS (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",通过 macOS 上的 `remindctl` CLI 管理 Apple 提醒事项（列出、添加、编辑、完成、删除），支持列表、日期筛选及 JSON/纯文本输出。,clawhub,,30741,30282,0.87
+68,entra-agent-id,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,246856,,,0.866
+69,sag,clawhub,steipete,,sag,upstream,ElevenLabs text-to-speech with mac-style say UX.,具有 Mac 风格 say 交互的 ElevenLabs 语音合成。,clawhub,,28407,28050,0.86
+70,openai-image-gen,clawhub,steipete,,openai-image-gen,upstream,Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.,通过 OpenAI Images API 批量生成图像。支持随机提示词采样，并提供 index.html 图库展示。,clawhub,,25786,30316,0.857
+71,spotify-player,clawhub,steipete,,spotify-player,upstream,Terminal Spotify playback/search via spogo (preferred) or spotify_player.,通过 spogo（首选）或 spotify_player 在终端进行 Spotify播放/搜索。,clawhub,,27806,27535,0.856
+72,supabase,skills.sh,supabase,supabase/agent-skills,,single,,,skills.sh,219791,,,0.854
+73,openai-whisper-api,clawhub,steipete,,openai-whisper-api,upstream,Transcribe audio via OpenAI Audio Transcriptions API (Whisper).,使用 OpenAI 音频转录 API（Whisper）进行音频转录。,clawhub,,27265,26961,0.852
+74,azure-cost-optimization,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,209113,,,0.846
+75,azure-reliability,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,206093,,,0.843
+76,pptx,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,202327,,,0.841
+77,vercel-react-native-skills,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,skills.sh,188153,,,0.836
+78,goplaces,clawhub,steipete,,goplaces,upstream,"Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",通过 goplaces CLI 调用 Google Places API（新版），支持文本搜索、地点详情、解析及评论。适用于人性化的地点查询或脚本 JSON 输出。,clawhub,,24251,24034,0.833
+79,prisma-database-setup,skills.sh,prisma,prisma/skills,,single,,,skills.sh,183303,,,0.832
+80,prisma-client-api,skills.sh,prisma,prisma/skills,,single,,,skills.sh,182621,,,0.831
+81,prisma-cli,skills.sh,prisma,prisma/skills,,single,,,skills.sh,180638,,,0.829
+82,pdf,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,179444,,,0.829
+83,prisma-postgres,skills.sh,prisma,prisma/skills,,single,,,skills.sh,177025,,,0.826
+84,prisma-driver-adapter-implementation,skills.sh,prisma,prisma/skills,,single,,,skills.sh,172843,,,0.825
+85,prisma-upgrade-v7,skills.sh,prisma,prisma/skills,,single,,,skills.sh,172723,,,0.824
+86,docx,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,172085,,,0.823
+87,lingyi-content-quality-check,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】：爆款内容预检。发前先测会不会违规、能不能爆、人群买不买——把发布从赌运气变成心里有底。视频号/公众号文案一键过三关：① 敏感词+广告法违禁词合规检测，命中词直接给替换建议；② 模拟目标人群真实观看反应与评论区原声；③ 爆款概率预测，逐维度打分说清依据。合规要准、爆款看依据，发出去前帮你把最后一道关。触发词：内容质检、敏感词检测、广告法检测、违禁词扫描、发布前审核、爆款预测、人群,【零一数科·出品】：爆款内容预检。发前先测会不会违规、能不能爆、人群买不买——把发布从赌运气变成心里有底。视频号/公众号文案一键过三关：① 敏感词+广告法违禁词合规检测，命中词直接给替换建议；② 模拟目标人群真实观看反应与评论区原声；③ 爆款概率预测，逐维度打分说清依据。合规要准、爆款看依据，发出去前帮你把最后一道关。触发词：内容质检、敏感词检测、广告法检测、违禁词扫描、发布前审核、爆款预测、人群,skillhub,,,29413,0.823
+88,prisma-postgres-setup,skills.sh,prisma,prisma/skills,,single,,,skills.sh,171483,,,0.821
+89,prisma-compute,skills.sh,prisma,prisma/skills,,single,,,skills.sh,168149,,,0.819
+90,prisma-mongodb-upgrade,skills.sh,prisma,prisma/skills,,single,,,skills.sh,166951,,,0.816
+91,xlsx,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,153177,,,0.811
+92,lingyi-wx-video-script-creator-plus,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号挂车爆单短视频脚本生成（付费版）。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的挂车脚本，或按方向/目的/商品原创多条口播脚本（含分段表、口播全文、六维质检评分），付费版远端生成。,【零一数科·出品】视频号挂车爆单短视频脚本生成（付费版）。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的挂车脚本，或按方向/目的/商品原创多条口播脚本（含分段表、口播全文、六维质检评分），付费版远端生成。,skillhub,,,26401,0.803
+93,webapp-testing,skills.sh,anthropics,anthropics/skills,,single,,,skills.sh,133260,,,0.803
+94,firebase-basics,skills.sh,firebase,firebase/agent-skills,,single,,,skills.sh,131169,,,0.801
+95,firebase-auth-basics,skills.sh,firebase,firebase/agent-skills,,single,,,skills.sh,130154,,,0.8
+96,python-appservice-deploy,skills.sh,microsoft,microsoft/azure-skills,,single,,,skills.sh,129618,,,0.799
+97,firebase-hosting-basics,skills.sh,firebase,firebase/agent-skills,,single,,,skills.sh,126888,,,0.796
+98,firebase-app-hosting-basics,skills.sh,firebase,firebase/agent-skills,,single,,,skills.sh,126441,,,0.795
+99,firebase-data-connect,skills.sh,firebase,firebase/agent-skills,,single,,,skills.sh,125708,,,0.794
+100,playwright-cli,skills.sh,microsoft,microsoft/playwright-cli,,single,,,skills.sh,120674,,,0.792

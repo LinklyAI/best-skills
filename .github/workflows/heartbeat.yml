@@ -1,0 +1,54 @@
+# Did today's data actually land?
+#
+# The pipeline lives in LinklyAI/best-skills-runner and alerts on its own failures,
+# but it cannot alert when it never ran at all — a scheduled run GitHub silently
+# skipped, a hung job, a disabled workflow. This check lives here, in a separate
+# repository, precisely so it survives those cases.
+name: heartbeat
+
+on:
+  schedule:
+    - cron: "41 5 * * *" # ~4h after the pipeline is due
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Is today's data folder here?
+        id: check
+        run: |
+          TODAY=$(date -u +%F)
+          CODE=$(curl -s -o /dev/null -w '%{http_code}' \
+            -H "Authorization: Bearer ${{ github.token }}" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/data/$TODAY")
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+          echo "code=$CODE"   >> "$GITHUB_OUTPUT"
+          echo "data/$TODAY -> HTTP $CODE"
+
+      - name: Alert if missing
+        if: steps.check.outputs.code != '200'
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_TO: ${{ vars.ALERT_TO }}
+          TODAY: ${{ steps.check.outputs.today }}
+          CODE: ${{ steps.check.outputs.code }}
+        run: |
+          if [ -z "$RESEND_API_KEY" ] || [ -z "$ALERT_TO" ]; then
+            echo "RESEND_API_KEY or ALERT_TO not configured — cannot alert"
+            exit 1
+          fi
+          TEXT=$(printf 'data/%s is missing (HTTP %s).\n\nThe daily pipeline may have been skipped, hung, blocked by validation, or disabled.\n\n%s\n' \
+            "$TODAY" "$CODE" "https://github.com/LinklyAI/best-skills-runner/actions")
+          jq -n --arg from "Best Skills Bot <noreply@updates.linkly.ai>" \
+                --arg to "$ALERT_TO" \
+                --arg s "[best-skills] no data for $TODAY" \
+                --arg t "$TEXT" \
+                '{from:$from,to:[$to],subject:$s,text:$t,reply_to:"kane@linkly.ai"}' \
+          | curl -sSf -X POST https://api.resend.com/emails \
+              -H "Authorization: Bearer $RESEND_API_KEY" \
+              -H "Content-Type: application/json" --data-binary @-

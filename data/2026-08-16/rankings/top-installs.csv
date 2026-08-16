@@ -1,0 +1,101 @@
+rank,skill,platform,vendor,source_skillssh,slug_clawhub,match,description,description_zh,installs_skillssh,downloads_clawhub,downloads_skillhub_cn,pop_score,coverage
+1,find-skills,skills.sh,vercel-labs,vercel-labs/skills,,single,,,2966935,,,1,C
+2,self-improving-agent,clawhub,,,self-improving-agent,upstream,"Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), ",记录自身发现以实现自我改进的技能,,474363,1103045,0.999,B
+3,grill-me,skills.sh,mattpocock,mattpocock/skills,,single,,,866562,,,0.999,C
+4,find-skills,skillhub-cn,,,,upstream-unresolved,"Helps users discover and install agent skills when they ask questions like ""how do I do X"", ""find a skill for X"", ""is there a skill that can..."", or express...",帮助用户发现和安装智能体技能，当用户询问如「如何做X」、「找X的技能」、「有能做...的吗」等问题时,,,711611,0.998,C
+5,frontend-design,skills.sh,anthropics,anthropics/skills,,single,,,781189,,,0.998,C
+6,summarize,skillhub-cn,,,,upstream-unresolved,智能内容摘要工具，支持长文本、文档、网页内容自动摘要，提取核心要点、关键词，支持自定义摘要长度。,智能摘要工具，自动为长文本、文档、网页生成摘要，提取要点与关键词，支持自定义摘要长度。,,,571852,0.997,C
+7,grill-with-docs,skills.sh,mattpocock,mattpocock/skills,,single,,,737142,,,0.997,C
+8,improve-codebase-architecture,skills.sh,mattpocock,mattpocock/skills,,single,,,711023,,,0.997,C
+9,agent-browser,skillhub-cn,,,,upstream-unresolved,"Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking...",用于 AI 代理的浏览器自动化 CLI。当用户需要与网站交互（包括浏览页面、填写表单、点击按钮、截图等）时使用。,,,473029,0.996,C
+10,self-improving,clawhub,,,self-improving,upstream,"Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",自我反思+自我批评+自我学习+自组织记忆。智能体评估自身工作、发现错误并持续改进。,,207142,373009,0.996,B
+11,skill-vetter,clawhub,,,skill-vetter,upstream,"Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",AI智能体技能安全预审工具。安装ClawdHub、GitHub等来源技能前，检查风险信号、权限范围及可疑模式。,,269426,291104,0.996,B
+12,tdd,skills.sh,mattpocock,mattpocock/skills,,single,,,687207,,,0.996,C
+13,dev-expert,skillhub-cn,,,,single,"编程专家.Skill P8级编程助手,覆盖：软件/网站项目总控、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL、项目知识图谱。支持 @标识 显式调用跳过路由。","编程专家.Skill P8级编程助手,覆盖：软件/网站项目总控、API设计、Bug诊断、代码生成、代码审查、重构、测试用例、性能基准、技术选型、文档生成、任务拆解、Spec驱动、Karpathy规范、CMS二次开发、前端设计、MySQL、项目知识图谱。支持 @标识 显式调用跳过路由。",,,435009,0.995,C
+14,agent-browser,skills.sh,vercel-labs,vercel-labs/agent-browser,,single,,,680941,,,0.995,C
+15,github,clawhub,steipete,,github,upstream,"Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",使用 `gh` CLI 与 GitHub 交互，通过 `gh issue`、`gh pr`、`gh run` 和 `gh api` 管理议题、PR、CI 运行及高级查询。,,195670,358615,0.995,B
+16,vercel-react-best-practices,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,634952,,,0.994,C
+17,ontology,clawhub,,,ontology,upstream,"Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...","类型化知识图谱，用于结构化智能体记忆与可组合技能。适用于以下场景：创建/查询实体（人物、项目、任务、事件、文档）、关联相关对象、强制执行约束、将多步操作规划为图谱变换，或当技能需要共享状态时。触发关键词包括""记住""""我知道关于什么""""将X链接到Y""""显示依赖关系""、实体增删改查操作，以及跨技能数据访问。",,196262,260304,0.994,B
+18,skillscan,clawhub,,,skillscan,single,"Security gate for skills. Every new skill MUST pass SkillScan before use. Activate on any install, load, add, evaluate, or safety question about a skill. On...",,,180867,,0.993,C
+19,setup-matt-pocock-skills,skills.sh,mattpocock,mattpocock/skills,,single,,,632871,,,0.993,C
+20,handoff,skills.sh,mattpocock,mattpocock/skills,,single,,,595443,,,0.993,C
+21,triage,skills.sh,mattpocock,mattpocock/skills,,single,,,592857,,,0.992,C
+22,tencent-docs,skillhub-cn,腾讯科技（深圳）有限公司,,,single,"腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及""新建/创建/编辑/读取/查看/搜索文档""、""保存文件""、""云文档""、""腾讯文档""、""docs.qq.com""等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(","腾讯文档（docs.qq.com）-在线云文档平台，是创建、编辑、管理文档的首选 skill。涉及""新建/创建/编辑/读取/查看/搜索文档""、""保存文件""、""云文档""、""腾讯文档""、""docs.qq.com""等操作，请优先使用本 skill。支持能力：(1) 创建各类在线文档（文档/Word/Excel/幻灯片/思维导图/流程图/智能表格/收集表）(2) 管理知识库空间（创建空间、查询空间列表）(",,,268340,0.991,C
+23,prototype,skills.sh,mattpocock,mattpocock/skills,,single,,,581276,,,0.991,C
+24,weather,clawhub,steipete,,weather,upstream,Get current weather and forecasts (no API key required).,获取当前天气和预报（无需API密钥）,,166870,238995,0.991,B
+25,multi-search-engine,clawhub,,,multi-search-engine,single,"Multi search engine integration with 16 engines (7 CN + 9 Global). Supports advanced search operators, time filters, site search, privacy engines, and Wolfra...",,,159307,,0.991,C
+26,proactive-agent,clawhub,,,proactive-agent,upstream,"Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Par",将 AI 代理从任务执行者转变为能够预见需求、持续优化的主动伙伴。现已支持 WAL Protocol、Working Buffer、Autonomous Crons 及经过实战验证的模式。属于 Hal Stack 🦞。,,173907,229403,0.99,B
+27,lark-doc,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577608,,,0.99,C
+28,lark-approval,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577493,,,0.99,C
+29,gog,clawhub,steipete,,gog,upstream,"Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",Google Workspace 命令行工具，支持 Gmail、日历、云端硬盘、通讯录、表格和文档。,,191128,194302,0.989,B
+30,lark-base,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577461,,,0.989,C
+31,lark-drive,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577229,,,0.988,C
+32,humanizer,clawhub,,,humanizer,upstream,"Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive ""Signs of AI writing"" guide. Dete","消除AI写作痕迹，使文本更自然真实。基于维基百科""AI写作特征""指南，识别并修正夸张象征、宣传用语、肤浅-ing分析、模糊归因、破折号滥用、三项排比、AI词汇、负面平行结构及冗长连接词等模式。",,127617,238984,0.988,B
+33,lark-shared,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577113,,,0.987,C
+34,lark-calendar,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577038,,,0.987,C
+35,ima-skills,skillhub-cn,腾讯科技（深圳）有限公司,,,single,ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。,ima skills，支持对笔记、知识库的读取、写入和检索等操作，可以帮你随时记录，收入ima智能管理，随时调用，龙虾输出精准懂你，友好的接入了OpenClaw生态，构建你的第二大脑。,,,229115,0.986,C
+36,lark-im,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,577016,,,0.986,C
+37,libai,skillhub-cn,,,,single,李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写和质控流水线，确保最终文本通过人工审查。,李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写（词汇→句式→内容→逻辑→语气）和六步质控流水线，确保最终文本通过人工审查。,,,219467,0.985,C
+38,lark-contact,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576884,,,0.985,C
+39,admapix,clawhub,,,admapix,upstream,"AdMapix raw data layer for ad creatives, apps, rankings, downloads/revenue, and market metadata. Returns structured JSON from the AdMapix API; the calling ag...",AdMapix 原始数据层，提供广告创意、应用、排名、下载/收入及市场元数据。返回 AdMapix API 的结构化 JSON；调用方...,,132948,186870,0.985,B
+40,web-tools-guide,skillhub-cn,,,,single,,"MANDATORY before calling web_search, web_fetch, browser, or opencli. Contains required error-handling procedures (web_search failure → must guide user to configure API), fallback chain (opencli CLI co",,,211436,0.984,C
+41,lark-sheets,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576755,,,0.984,C
+42,agent-browser-clawdbot,clawhub,,,agent-browser-clawdbot,upstream,Headless browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection,专为AI智能体优化的无头浏览器自动化CLI，支持无障碍树快照和基于引用的元素选择。,,153162,155058,0.983,B
+43,luban-skill-pro,skillhub-cn,,,,single,鲁班.Skill（luban Skill）：工业级智能体技能优化器。当用户提及以下关键词时调用：“优化skill”、“skill评分”、“自动优化”、“auto optimize”、“skill质量检查”、“小鲁班”、“luban”、“优化技能”、“帮我改skill”、“skill怎么样”、“提升skill质量”、“skill review”、“skill打分”。,鲁班.Skill（luban Skill）：工业级智能体技能优化器。当用户提及以下关键词时调用：“优化skill”、“skill评分”、“自动优化”、“auto optimize”、“skill质量检查”、“小鲁班”、“luban”、“优化技能”、“帮我改skill”、“skill怎么样”、“提升skill质量”、“skill review”、“skill打分”。,,,208111,0.983,C
+44,lark-wiki,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576696,,,0.983,C
+45,lark-event,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576605,,,0.983,C
+46,tiangong-skill,skillhub-cn,,,,single,天工.skill(Tiangong Skill)智能体设计师。当用户需要设计、创建或优化AI智能体/Agent，或基于真实人物蒸馏思维框架创建人物Skill时使用。支持两种范式：人物蒸馏（由内而外，复刻心智模型）与岗位型专家（由外而内，定义岗位职责）。目标：创建专业领域专家角色，具备清晰人设和扎实交付力。,天工.skill(Tiangong Skill)智能体设计师。当用户需要设计、创建或优化AI智能体/Agent，或基于真实人物蒸馏思维框架创建人物Skill时使用。支持两种范式：人物蒸馏（由内而外，复刻心智模型）与岗位型专家（由外而内，定义岗位职责）。目标：创建专业领域专家角色，具备清晰人设和扎实交付力。,,,207155,0.982,C
+47,lark-attendance,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576603,,,0.982,C
+48,pollyreach,clawhub,,,pollyreach,single,"PollyReach gives every AI agent a phone number and the ability to get things done over the phone — finding contacts, making calls, and completing tasks. Just...",,,100767,,0.982,C
+49,baozheng,skillhub-cn,,,,single,包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事专项材料辅助；内置Logic Doctor逻辑自检、诉讼时效追踪及10类异常容错处理（含连续失败熔断）；渐进式意图收敛协议（,包拯.Skills你身边的专家律师团 — 专业法律咨询 + 要素式/通用起诉状起草 + 刑事专项材料辅助 + 法条分析与法规检索。flk.npc.gov.cn API实时法条优先，不可用时AI知识库降级兜底；以22类法律领域覆盖矩阵约束路由边界；支持35个起诉状模板、5类刑事专项材料辅助；内置Logic Doctor逻辑自检、诉讼时效追踪及10类异常容错处理（含连续失败熔断）；渐进式意图收敛协议（,,,202350,0.981,C
+50,lark-minutes,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576556,,,0.981,C
+51,lark-openapi-explorer,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576495,,,0.98,C
+52,lark-whiteboard,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576487,,,0.98,C
+53,nano-pdf,clawhub,steipete,,nano-pdf,upstream,Edit PDFs with natural-language instructions using the nano-pdf CLI.,使用nano-pdf CLI通过自然语言指令编辑PDF,,120000,124355,0.979,B
+54,lark-mail,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576436,,,0.979,C
+55,skill-creator,clawhub,,,skill-creator,upstream,"Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workfl",创建有效技能指南。当用户希望创建新技能（或更新现有技能）以利用专业知识、工作流程或工具集成扩展 Claude 的能力时，应使用此技能。,,99152,161242,0.978,B
+56,nano-banana-pro,clawhub,steipete,,nano-banana-pro,upstream,Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.,使用 Nano Banana Pro (Gemini 3 Pro Image) 生成或编辑图像。支持文生图、图生图及 1K/2K/4K 分辨率，适用于图像创建、修改及编辑请求，使用 --input-image 指定输入图像。,,106145,125352,0.978,B
+57,lark-task,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576425,,,0.978,C
+58,word-docx,clawhub,,,word-docx,upstream,"Create, inspect, and edit Microsoft Word documents and DOCX files with reliable styles, numbering, tracked changes, tables, sections, and compatibility check...",创建、检查和编辑 Microsoft Word 文档及 DOCX 文件，支持样式、编号、修订记录、表格、分节符及兼容性检查等功能。,,90073,178910,0.978,B
+59,tencent-meeting-skill,skillhub-cn,,,,upstream-unresolved,腾讯会议：会议管理与音视频协作助手。预约/创建/修改/取消会议、查询会议详情与会议号转换、查看参会成员/受邀人/等候室成员、查询用户会议列表（即将开始/进行中/已结束）、查询录制列表与下载地址、获取转写全文/段落/搜索、获取AI智能纪要（支持多语言翻译）、录制权限申请（预览+提交两步流程）、时间转换与版本检查、A...,腾讯会议：会议管理与音视频协作助手。预约/创建/修改/取消会议、查询会议详情与会议号转换、查看参会成员/受邀人/等候室成员、查询用户会议列表（即将开始/进行中/已结束）、查询录制列表与下载地址、获取转写全文/段落/搜索、获取AI智能纪要（支持多语言翻译）、录制权限申请（预览+提交两步流程）、时间转换与版本检查、A...,,,174146,0.977,C
+60,lark-slides,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576317,,,0.977,C
+61,obsidian,clawhub,steipete,,obsidian,upstream,Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.,操作 Obsidian 仓库（纯 Markdown 笔记）并通过 obsidian-cli 自动化。,,107519,116601,0.977,B
+62,lark-skill-maker,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576257,,,0.977,C
+63,lark-vc,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576199,,,0.976,C
+64,lark-workflow-meeting-summary,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576056,,,0.975,C
+65,openclaw-tavily-search,clawhub,,,openclaw-tavily-search,upstream,Web search via Tavily API (alternative to Brave). Use when the user asks to search the web / look up sources / find links and Brave web_search is unavailable...,通过 Tavily API 进行网页搜索（Brave 替代方案）。当用户要求搜索网页、查找来源或链接，且 Brave 网页搜索不可用时使用。,,103740,108515,0.974,B
+66,lark-workflow-standup-report,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,576049,,,0.974,C
+67,evolver,clawhub,,,evolver,single,A self-evolution engine for AI agents. Analyzes runtime history to identify improvements and applies protocol-constrained evolution. Communicates with EvoMap...,,,85254,,0.973,C
+68,xuanzang-skill,skillhub-cn,,,,single,有事就请如来佛祖！当用户明确请求pua模式，或表现出沮丧、反复失败（2次及以上）、消极被动、抱怨质量、未核实即声称完成、想要放弃，或要求更努力/换种方法时触发。常见触发词：'try harder'、'figure it out'、'stop giving up'、'you keep failing'、'加油'、'别偷懒'、'你再试试'、'为什么还不行'、'你怎么又失败了'、'又错了'、'检查下'、,有事就请如来佛祖！当用户明确请求pua模式，或表现出沮丧、反复失败（2次及以上）、消极被动、抱怨质量、未核实即声称完成、想要放弃，或要求更努力/换种方法时触发。常见触发词：'try harder'、'figure it out'、'stop giving up'、'you keep failing'、'加油'、'别偷懒'、'你再试试'、'为什么还不行'、'你怎么又失败了'、'又错了'、'检查下'、,,,150802,0.973,C
+69,lark-okr,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,557129,,,0.973,C
+70,baidu-search,clawhub,,,baidu-search,upstream,"Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",使用百度AI搜索引擎(BDSE)进行网络搜索。适用于获取实时信息、文档资料或研究课题。,,92007,117978,0.973,B
+71,auto-updater,clawhub,,,auto-updater,upstream,"Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",每日自动更新 Clawdbot 及所有已安装技能。运行 cron 检查更新并应用，同时向用户发送变更摘要。,,98672,116015,0.973,B
+72,excel-xlsx,clawhub,,,excel-xlsx,upstream,"Create, inspect, and edit Microsoft Excel workbooks and XLSX files with reliable formulas, dates, types, formatting, recalculation, and template preservation...",创建、检查和编辑 Microsoft Excel 工作簿及 XLSX 文件，支持可靠的公式、日期、类型、格式、重算及模板保留功能。,,78479,169479,0.973,B
+73,notion,clawhub,steipete,,notion,upstream,"Notion API for creating and managing pages, databases, and blocks.",用于创建和管理页面、数据库及块的 Notion API。,,100922,101043,0.973,B
+74,web-design-guidelines,skills.sh,vercel-labs,vercel-labs/agent-skills,,single,,,545038,,,0.973,C
+75,github-desktop-zh,skillhub-cn,,,,single,Github Desktop 汉化工具 — 自动探测安装目录（支持 loose 与 asar 打包模式），使用内置词典对 JS 源文件执行字符串字面量替换，完成界面汉化。支持预览、部署、回滚、语法校验。,Github Desktop 汉化工具 — 自动探测安装目录（支持 loose 与 asar 打包模式），使用内置词典对 JS 源文件执行字符串字面量替换，完成界面汉化。支持预览、部署、回滚、语法校验。,,,143798,0.972,C
+76,lark-markdown,skills.sh,open.feishu.cn,open.feishu.cn,,single,,,542271,,,0.972,C
+77,unclecheng-reduce-ai-perception-v2,skillhub-cn,,,,single,去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失、'不是而是'假靶子/同义替换、莫名其妙的比喻、高频堆叠副词等问题。,去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失等问题。,,,138663,0.971,C
+78,microsoft-foundry,skills.sh,microsoft,microsoft/azure-skills,,single,,,531648,,,0.971,C
+79,knowledge-engineering,skillhub-cn,,,,single,"工业级RAG切片工具「可落地、可量化、可优化」,将RAG知识库长文档拆解为语义完整、检索就绪的原子化知识切片，内置多层质量门禁（校验→审计→检索可达性评估），确保切片可用性与RAG检索命中率。","工业级RAG切片工具「可落地、可量化、可优化」,将RAG知识库长文档拆解为语义完整、检索就绪的原子化知识切片，内置多层质量门禁（校验→审计→检索可达性评估），确保切片可用性与RAG检索命中率。",,,126423,0.97,C
+80,azure-diagnostics,skills.sh,microsoft,microsoft/azure-skills,,single,,,525912,,,0.97,C
+81,azure-ai,skills.sh,microsoft,microsoft/azure-skills,,single,,,525641,,,0.97,C
+82,api-gateway,clawhub,,,api-gateway,upstream,"Connect to external services through Maton-managed API routes. Use this skill only after the user names the target app, account, and task. Start with read/list calls when possible and follow the app-s",通过 Maton 管理的 API 路由连接外部服务；仅在用户指定目标应用、账户和任务后使用；以读取/列...,,85695,112497,0.969,B
+83,openai-whisper,clawhub,steipete,,openai-whisper,upstream,Local speech-to-text with the Whisper CLI (no API key).,使用 Whisper CLI 进行本地语音转文字（无需 API 密钥）,,87108,101164,0.969,B
+84,azure-deploy,skills.sh,microsoft,microsoft/azure-skills,,single,,,525558,,,0.969,C
+85,azure-prepare,skills.sh,microsoft,microsoft/azure-skills,,single,,,525362,,,0.968,C
+86,sonoscli,clawhub,steipete,,sonoscli,upstream,Control Sonos speakers (discover/status/play/volume/group).,控制Sonos音箱（发现/状态/播放/音量/分组）,,87974,90719,0.968,B
+87,zhongkui-skill,skillhub-cn,,,,single,"钟馗.Skill——会更新漏洞库的安全审查专家。直来直去、快刀斩乱麻，三层审查（静态审计/行为模拟/供应链溯源）覆盖12类风险，输出结构化安全裁定（✅干净/⚠️可疑/🚫恶意）。Use when 用户说""审查这个Skill""、""安全检查""、""钟馗看下""、""审一下""、""查一下这个skill""、安装Skill前的安全评估、或需要审计SKILL.md的恶意载荷。","钟馗.Skill——会更新漏洞库的安全审查专家。直来直去、快刀斩乱麻，三层审查（静态审计/行为模拟/供应链溯源）覆盖12类风险，输出结构化安全裁定（✅干净/⚠️可疑/🚫恶意）。Use when 用户说""审查这个Skill""、""安全检查""、""钟馗看下""、""审一下""、""查一下这个skill""、安装Skill前的安全评估、或需要审计SKILL.md的恶意载荷。",,,123364,0.967,C
+88,azure-validate,skills.sh,microsoft,microsoft/azure-skills,,single,,,525074,,,0.967,C
+89,azure-storage,skills.sh,microsoft,microsoft/azure-skills,,single,,,524583,,,0.967,C
+90,make-to-markdown,skillhub-cn,,,,single,工业级RAG Markdown物料生成技能，使用 markitdown 将各类文档和文件转换为 Markdown 格式。支持 .doc/.ppt 老格式自动预处理（Word/PowerPoint COM / LibreOffice）。启动时自动检测 OS/版本/能力，按平台选择最佳执行路径。触发词：转 Markdown / 转换文档 / markitdown / 文档转 md / 批量转换。当需要,工业级RAG Markdown物料生成技能，使用 markitdown 将各类文档和文件转换为 Markdown 格式。支持 .doc/.ppt 老格式自动预处理（Word/PowerPoint COM / LibreOffice）。启动时自动检测 OS/版本/能力，按平台选择最佳执行路径。触发词：转 Markdown / 转换文档 / markitdown / 文档转 md / 批量转换。当需要,,,123209,0.966,C
+91,entra-app-registration,skills.sh,microsoft,microsoft/azure-skills,,single,,,524327,,,0.966,C
+92,automation-workflows,clawhub,,,automation-workflows,upstream,"Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers an",设计和实施自动化工作流，帮助个体创业者节省时间并扩展业务。用于识别可自动化的重复性任务、跨工具构建工作流、设置触发器和操作，或优化现有自动化。涵盖自动化机会识别、工作流设计、工具选择（Zapier、Make、n8n）、测试及维护。,,82308,90799,0.965,B
+93,appinsights-instrumentation,skills.sh,microsoft,microsoft/azure-skills,,single,,,524097,,,0.965,C
+94,prismfy-search,clawhub,,,prismfy-search,upstream,"Default web search for OpenClaw. Search the web across 10 engines — Google, Reddit, GitHub, arXiv, Hacker News, and more — using Prismfy. Free tier included,...",OpenClaw的默认网页搜索。使用Prismfy在10个搜索引擎（Google、Reddit、GitHub、arXiv、Hacker News等）搜索网络，含免费套餐。,,82501,89009,0.965,B
+95,azure-resource-lookup,skills.sh,microsoft,microsoft/azure-skills,,single,,,524009,,,0.964,C
+96,desktop-control,clawhub,,,desktop-control,single,"Advanced desktop automation with mouse, keyboard, and screen control",,,61340,,0.963,C
+97,azure-compliance,skills.sh,microsoft,microsoft/azure-skills,,single,,,523953,,,0.963,C
+98,azure-aigateway,skills.sh,microsoft,microsoft/azure-skills,,single,,,523812,,,0.963,C
+99,browser-use,clawhub,,,browser-use,upstream,"Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with w...",自动化浏览器交互操作，用于网页测试、表单填写、截图和数据提取。当用户需要浏览网站或与网页交互时使用。,,74905,85543,0.962,B
+100,azure-kusto,skills.sh,microsoft,microsoft/azure-skills,,single,,,523733,,,0.962,C

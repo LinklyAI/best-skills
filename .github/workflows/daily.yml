@@ -1,0 +1,137 @@
+# Daily run: collect → rank → validate → publish.
+#
+# The pipeline itself lives in LinklyAI/best-skills-runner; this workflow checks it
+# out and runs it against this repository. It lives HERE rather than in the runner
+# repo because publishing means pushing to this repo — and a workflow's built-in
+# token can only write to the repository it runs in.
+#
+# 01:17 UTC on purpose:
+#   - after 00:00 UTC, because days are archived by UTC date — running before that
+#     would write into yesterday's folder
+#   - off the hour, because scheduled runs are commonly delayed at the top of an hour
+name: daily
+
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "UTC date to (re)run, YYYY-MM-DD. Blank = today."
+        required: false
+        type: string
+      no_push:
+        description: "Collect and validate, but do not publish."
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75 # a normal run is ~21 min; the pipeline has no global timeout
+    steps:
+      # Data repo first — checking it out into the workspace root would wipe
+      # anything already there.
+      - name: Checkout data repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # the pipeline does `git pull --rebase` before pushing
+
+      - name: Checkout pipeline
+        uses: actions/checkout@v5
+        with:
+          repository: LinklyAI/best-skills-runner
+          path: runner
+
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: runner/package.json
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: runner/pnpm-lock.yaml
+
+      - run: pnpm install --frozen-lockfile
+        working-directory: runner
+
+      # The pipeline commits with whatever identity git is configured with.
+      # Without this it would publish as github-actions[bot].
+      - name: Set commit identity
+        run: |
+          git config user.name  "Kane"
+          git config user.email "kane@linkly.ai"
+
+      - name: Run pipeline
+        working-directory: runner
+        env:
+          GITHUB_TOKEN: ${{ github.token }} # reads stars and mention counts
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          LLM_API_BASE: ${{ secrets.LLM_API_BASE }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          BEST_SKILLS_REPO_PATH: ${{ github.workspace }}
+          DATE_ARG: ${{ inputs.date }}
+          NO_PUSH: ${{ inputs.no_push }}
+        run: |
+          set -o pipefail
+          ARGS=""
+          [ -n "$DATE_ARG" ] && ARGS="$ARGS --date=$DATE_ARG"
+          [ "$NO_PUSH" = "true" ] && ARGS="$ARGS --no-push"
+          pnpm daily -- $ARGS 2>&1 | tee "$RUNNER_TEMP/run.log"
+
+      # The exit code only covers validation errors and "every collector failed".
+      # A circuit-broken platform, an exhausted X quota or an unreachable LLM all
+      # degrade silently and still exit 0 — so surface the log lines too.
+      - name: Extract WARN/ERROR lines
+        if: always()
+        id: diag
+        run: |
+          LOG=$(grep -E '\] (WARN|ERROR) ' "$RUNNER_TEMP/run.log" 2>/dev/null | head -40 || true)
+          if [ -n "$LOG" ]; then echo "has=1" >> "$GITHUB_OUTPUT"; else echo "has=0" >> "$GITHUB_OUTPUT"; fi
+          {
+            echo 'lines<<__DIAG_EOF__'
+            echo "$LOG"
+            echo '__DIAG_EOF__'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo '### daily — ${{ job.status }}'
+            echo '```'
+            tail -40 "$RUNNER_TEMP/run.log" 2>/dev/null || echo '(no output)'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # GitHub's built-in Actions email is off by default and, for scheduled runs,
+      # only reaches whoever created the workflow file. Send our own.
+      - name: Email alert
+        if: always() && (failure() || steps.diag.outputs.has == '1')
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_TO: ${{ vars.ALERT_TO }}
+          STATUS: ${{ job.status }}
+          DIAG: ${{ steps.diag.outputs.lines }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$RESEND_API_KEY" ] || [ -z "$ALERT_TO" ]; then
+            echo "RESEND_API_KEY or ALERT_TO not configured — skipping alert"
+            exit 0
+          fi
+          SUBJECT="[best-skills] daily $STATUS — $(date -u +%F)"
+          TEXT=$(printf 'status: %s\n%s\n\n%s\n' "$STATUS" "$RUN_URL" "${DIAG:-(no WARN/ERROR lines)}")
+          jq -n --arg from "Best Skills Bot <noreply@updates.linkly.ai>" \
+                --arg to "$ALERT_TO" --arg s "$SUBJECT" --arg t "$TEXT" \
+                '{from:$from,to:[$to],subject:$s,text:$t,reply_to:"kane@linkly.ai"}' \
+          | curl -sSf -X POST https://api.resend.com/emails \
+              -H "Authorization: Bearer $RESEND_API_KEY" \
+              -H "Content-Type: application/json" --data-binary @-
