@@ -75,6 +75,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }} # reads stars and mention counts
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          # Bluesky throttles anonymous search per source IP, and a hosted runner
+          # shares that quota with every other tenant on the same address.
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           LLM_API_BASE: ${{ secrets.LLM_API_BASE }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           BEST_SKILLS_REPO_PATH: ${{ github.workspace }}
