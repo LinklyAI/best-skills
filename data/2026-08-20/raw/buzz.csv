@@ -1,58 +1,58 @@
 skill_key,query,hn_hits_7d,hn_raw_7d,bsky_hits_7d,bsky_raw_7d,gh_mentions_7d,x_mentions_7d,x_truncated,x_pages,x_engagement_7d,llm_filtered
-find-skills,"""find-skills""",0,0,0,2,127,,false,,,true
-self-improving-agent,"""self-improving-agent""",1,1,3,6,2,,false,,,true
-grill-me,"""grill-me""",1,4,4,17,23,,false,,,true
-skill-vetter,"""skill-vetter""",0,0,0,0,1,,false,,,false
-frontend-design,"""frontend-design""",0,4,2,30,64,,false,,,true
-self-improving,"""self-improving""",8,12,50,62,3,,false,,,true
-grill-with-docs,"""grill-with-docs""",0,1,1,2,12,,false,,,true
-ontology,"""ontology"" skill",0,0,0,0,6,,false,,,false
-improve-codebase-architecture,"""improve-codebase-architecture""",0,0,0,1,3,,false,,,true
-github,"""github"" skill",0,240,46,60,686,,false,,,true
-tdd,"""tdd"" skill",0,3,0,0,24,,false,,,true
-gog,"""gog"" skill",0,0,0,0,1,,false,,,false
-agent-browser,"""agent-browser""",1,6,11,12,24,,false,,,true
-skillscan,"""skillscan"" skill",0,0,0,0,0,,false,,,false
-setup-matt-pocock-skills,"""setup-matt-pocock-skills""",0,0,1,2,7,,false,,,true
-proactive-agent,"""proactive-agent""",0,1,0,0,1,,false,,,true
-vercel-react-best-practices,"""vercel-react-best-practices""",0,0,0,0,2,,false,,,false
-weather,"""weather"" skill",0,18,0,12,5,,false,,,true
-handoff,"""handoff"" skill",1,7,1,1,111,,false,,,true
-multi-search-engine,"""multi-search-engine""",0,0,0,0,0,,false,,,false
-triage,"""triage"" skill",0,4,0,1,140,,false,,,true
-agent-browser-clawdbot,"""agent-browser-clawdbot""",0,0,0,0,0,,false,,,false
-prototype,"""prototype"" skill",0,6,2,4,25,,false,,,true
-admapix,"""admapix"" skill",0,0,0,0,0,,false,,,false
-lark-doc,"""lark-doc""",0,0,0,0,2,,false,,,false
-humanizer,"""humanizer"" skill",0,1,4,6,20,,false,,,true
-lark-base,"""lark-base""",0,0,0,0,0,,false,,,false
-nano-pdf,"""nano-pdf""",0,0,0,0,0,,false,,,false
-lark-approval,"""lark-approval""",0,0,0,0,0,,false,,,false
-obsidian,"""obsidian"" skill",0,3,0,0,24,,false,,,true
-lark-drive,"""lark-drive""",0,0,0,0,0,,false,,,false
-nano-banana-pro,"""nano-banana-pro""",0,0,8,16,0,,false,,,true
-lark-shared,"""lark-shared""",0,0,0,0,0,,false,,,false
-openclaw-tavily-search,"""openclaw-tavily-search""",0,0,0,0,0,,false,,,false
-lark-calendar,"""lark-calendar""",0,0,0,0,0,,false,,,false
-notion,"""notion"" skill",0,17,2,5,23,,false,,,true
-lark-im,"""lark-im""",0,0,0,0,2,,false,,,false
-pollyreach,"""pollyreach"" skill",0,0,0,0,0,,false,,,false
-lark-contact,"""lark-contact""",0,0,0,0,0,,false,,,false
-skill-creator,"""skill-creator""",0,0,0,0,117,,false,,,false
-lark-sheets,"""lark-sheets""",0,0,0,0,0,,false,,,false
-auto-updater,"""auto-updater""",0,0,2,14,1,,false,,,true
-lark-wiki,"""lark-wiki""",0,0,0,0,0,,false,,,false
-baidu-search,"""baidu-search""",0,0,0,0,0,,false,,,false
-lark-event,"""lark-event""",0,0,0,0,0,,false,,,false
-word-docx,"""word-docx""",0,0,1,2,0,,false,,,true
-lark-minutes,"""lark-minutes""",0,0,0,0,0,,false,,,false
-sonoscli,"""sonoscli"" skill",0,0,0,0,0,,false,,,false
-lark-attendance,"""lark-attendance""",0,0,0,0,0,,false,,,false
-openai-whisper,"""openai-whisper""",0,0,1,1,0,,false,,,true
+find-skills,"""find-skills""",0,0,0,2,127,26,false,2,823,true
+self-improving-agent,"""self-improving-agent""",1,1,3,6,2,43,false,3,545,true
+grill-me,"""grill-me""",1,4,5,18,23,100,true,5,9313,true
+skill-vetter,"""skill-vetter""",0,0,0,0,1,2,false,1,23,false
+frontend-design,"""frontend-design""",0,4,2,25,65,75,false,4,1862,true
+self-improving,"""self-improving""",8,12,47,62,3,100,true,5,11536,true
+grill-with-docs,"""grill-with-docs""",0,1,1,2,12,22,false,2,682,true
+ontology,"""ontology"" skill",0,0,0,0,6,100,true,5,1285,false
+improve-codebase-architecture,"""improve-codebase-architecture""",0,0,0,1,3,5,false,1,7,true
+github,"""github"" skill",16,243,44,58,691,100,true,5,224,true
+tdd,"""tdd"" skill",0,3,0,0,25,100,true,5,844,true
+gog,"""gog"" skill",0,0,0,0,1,19,false,1,292,false
+agent-browser,"""agent-browser""",1,6,9,10,25,100,true,5,785,true
+skillscan,"""skillscan"" skill",0,0,0,0,0,0,false,1,0,false
+setup-matt-pocock-skills,"""setup-matt-pocock-skills""",0,0,1,2,7,1,false,1,0,true
+proactive-agent,"""proactive-agent""",0,1,0,0,1,23,false,2,381,true
+vercel-react-best-practices,"""vercel-react-best-practices""",0,0,0,0,2,2,false,1,554,false
+weather,"""weather"" skill",0,18,0,12,6,100,true,5,1878,true
+handoff,"""handoff"" skill",1,7,1,1,111,100,true,5,1008,true
+multi-search-engine,"""multi-search-engine""",0,0,0,0,0,0,false,1,0,false
+triage,"""triage"" skill",0,4,0,1,140,100,true,5,1578,true
+agent-browser-clawdbot,"""agent-browser-clawdbot""",0,0,0,0,0,0,false,1,0,false
+prototype,"""prototype"" skill",0,6,1,3,27,100,true,5,1065,true
+admapix,"""admapix"" skill",0,0,0,0,0,0,false,1,0,false
+lark-doc,"""lark-doc""",0,0,0,0,2,0,false,1,0,false
+humanizer,"""humanizer"" skill",0,1,3,6,21,48,false,3,1253,true
+lark-base,"""lark-base""",0,0,0,0,0,0,false,1,0,false
+nano-pdf,"""nano-pdf""",0,0,0,0,0,2,false,1,19,false
+lark-approval,"""lark-approval""",0,0,0,0,0,0,false,1,0,false
+obsidian,"""obsidian"" skill",0,3,0,0,24,100,true,5,837,true
+lark-drive,"""lark-drive""",0,0,0,0,0,0,false,1,0,false
+nano-banana-pro,"""nano-banana-pro""",0,0,8,16,0,28,false,2,46148,true
+lark-shared,"""lark-shared""",0,0,0,0,0,0,false,1,0,false
+openclaw-tavily-search,"""openclaw-tavily-search""",0,0,0,0,0,0,false,1,0,false
+lark-calendar,"""lark-calendar""",0,0,0,0,0,0,false,1,0,false
+notion,"""notion"" skill",0,17,2,5,23,100,true,5,2649,true
+lark-im,"""lark-im""",0,0,0,0,2,0,false,1,0,false
+pollyreach,"""pollyreach"" skill",0,0,0,0,0,0,false,1,0,false
+lark-contact,"""lark-contact""",0,0,0,0,0,1,false,1,9,false
+skill-creator,"""skill-creator""",0,0,0,0,118,66,false,4,2226,false
+lark-sheets,"""lark-sheets""",0,0,0,0,0,0,false,1,0,false
+auto-updater,"""auto-updater""",0,0,2,14,1,3,false,1,36,true
+lark-wiki,"""lark-wiki""",0,0,0,0,0,0,false,1,0,false
+baidu-search,"""baidu-search""",0,0,0,0,0,1,false,1,15,false
+lark-minutes,"""lark-minutes""",0,0,0,0,0,0,false,1,0,false
+word-docx,"""word-docx""",0,0,1,2,0,0,false,1,0,true
+lark-event,"""lark-event""",0,0,0,0,0,0,false,1,0,false
+sonoscli,"""sonoscli"" skill",0,0,0,0,0,0,false,1,0,false
+lark-attendance,"""lark-attendance""",0,0,0,0,0,0,false,1,0,false
+openai-whisper,"""openai-whisper""",0,0,1,1,0,3,false,1,114,true
 lark-whiteboard,"""lark-whiteboard""",0,0,0,0,0,,false,,,false
 evolver,"""evolver"" skill",0,0,0,0,0,,false,,,false
 lark-openapi-explorer,"""lark-openapi-explorer""",0,0,0,0,0,,false,,,false
-api-gateway,"""api-gateway""",0,4,22,40,1,,false,,,true
+api-gateway,"""api-gateway""",0,4,16,40,1,,false,,,true
 lark-task,"""lark-task""",0,0,0,0,0,,false,,,false
 prismfy-search,"""prismfy-search""",0,0,0,0,0,,false,,,false
 lark-mail,"""lark-mail""",0,0,0,0,0,,false,,,false
@@ -66,20 +66,20 @@ feishu-evolver-wrapper,"""feishu-evolver-wrapper""",0,0,0,0,0,,false,,,false
 lark-workflow-meeting-summary,"""lark-workflow-meeting-summary""",0,0,0,0,1,,false,,,false
 agent-phone-call,"""agent-phone-call""",0,0,0,0,0,,false,,,false
 lark-workflow-standup-report,"""lark-workflow-standup-report""",0,0,0,0,0,,false,,,false
-free-ride,"""free-ride""",0,2,0,185,0,,false,,,true
+free-ride,"""free-ride""",0,2,0,184,0,,false,,,true
 lark-okr,"""lark-okr""",0,0,0,0,0,,false,,,false
 mcporter,"""mcporter"" skill",0,0,0,0,0,,false,,,false
 lark-markdown,"""lark-markdown""",0,0,0,0,0,,false,,,false
 elite-longterm-memory,"""elite-longterm-memory""",0,0,0,0,0,,false,,,false
 web-design-guidelines,"""web-design-guidelines""",0,0,1,1,4,,false,,,true
 desktop-control,"""desktop-control""",0,1,0,4,1,,false,,,true
-microsoft-foundry,"""microsoft-foundry""",0,0,23,40,0,,false,,,true
+microsoft-foundry,"""microsoft-foundry""",0,0,25,40,0,,false,,,true
 brave-search,"""brave-search""",0,2,3,72,3,,false,,,true
 lark-vc-agent,"""lark-vc-agent""",0,0,0,0,0,,false,,,false
-stock-analysis,"""stock-analysis""",0,0,313,313,5,,false,,,true
+stock-analysis,"""stock-analysis""",0,0,290,315,5,,false,,,true
 azure-diagnostics,"""azure-diagnostics""",0,0,0,0,0,,false,,,false
 find-skills-skill,"""find-skills-skill""",0,0,0,0,127,,false,,,false
-azure-ai,"""azure-ai""",0,0,39,46,1,,false,,,true
+azure-ai,"""azure-ai""",0,0,37,46,1,,false,,,true
 video-frames,"""video-frames""",0,1,4,7,0,,false,,,true
 azure-deploy,"""azure-deploy""",0,0,0,1,0,,false,,,true
 youtube-watcher,"""youtube-watcher""",0,0,0,1,0,,false,,,true

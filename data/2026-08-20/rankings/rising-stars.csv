@@ -43,59 +43,59 @@ rank,skill,platform,vendor,source_skillssh,slug_clawhub,match,description,descri
 42,bid-proposal-smart-generator,skillhub-cn,精英量界（武汉）工程管理有限公司,,,single,标书智能生成助手。需配置世舶科技 API Key 使用。用于生成标书初稿、章节内容、响应说明和附件清单，适合快速搭建投标文件框架。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万+招投标商机、,标书智能生成助手。需配置世舶科技 API Key 使用。用于生成标书初稿、章节内容、响应说明和附件清单，适合快速搭建投标文件框架。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万+招投标商机、,3,,,27626,0.768
 43,bid-document-auto-generator,skillhub-cn,精英量界（武汉）工程管理有限公司,,,single,投标文件自动生成工具。需配置世舶科技 API Key 使用。用于根据招标文件和企业材料自动生成投标文件初稿、响应表和材料清单。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万+招投标商机、招投,投标文件自动生成工具。需配置世舶科技 API Key 使用。用于根据招标文件和企业材料自动生成投标文件初稿、响应表和材料清单。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万+招投标商机、招投,3,,,27586,0.767
 44,multi-search-engine,skillhub-cn,成都智创未来教育管理合伙企业（有限合伙）,,,single,"多搜索引擎集成,16引擎(7国内+9全球)。Multi search engine integration with 16 engines (7 CN + 9 Global)。核心能力: -","多搜索引擎集成,16引擎(7国内+9全球)。Multi search engine integration with 16 engines (7 CN + 9 Global)。核心能力: -",1,,,26057,0.76
-45,ai-video-generation,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,82694,,,0.753
-46,image-to-video,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,82592,,,0.752
-47,video-edit,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,82442,,,0.751
-48,ai-image-generation,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,82406,,,0.75
-49,ai-music,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,82186,,,0.75
-50,prc-labor-law-resolution,skillhub-cn,,,,single,"This skill should be used for China mainland employment and labor-law questions requiring verified official Chinese sources, urgent evidence preservation, plain-language or zero-parameter intake, mult",本技能用于处理国内劳动用工与劳动争议问题，要求核验现行法律依据，识别争议焦点，规划证据，测算请求金额，并提供协商、劳动监察、调解、仲裁、诉讼及执行方案。适用于辞退、辞职、工资、加班、休假、社会保险、工伤、劳务派遣、平台用工、竞业限制、规章制度、劳动合同审查和企业用工合规等场景。不适用于非中国法律问题，以及纯刑事、税务、公司、移民或一般民事问题，但可识别跨领域衔接事项。,3,,,22891,0.73
-51,reddit-automation,skills.sh,flowkit-labs,flowkit-labs/skills,,single,,,4,52561,,,0.668
-52,beatra,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagr,通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagr,4,,,16256,0.597
-53,photo-singing-video,skillhub-cn,,,,single,用一张清晰人像照片和一段简短的歌曲片段，让照片开口唱歌。这个 AI 照片唱歌视频和人像唱歌视频工作流可以把单张人像变成一段有表情的唱歌短片，只需要一张照片和一段歌曲片段，并在交付后检查人物特征、嘴型和面部动作、演唱表现力、声音呈现和同步效果。适合老照片唱歌、生日祝福、卡通人物唱歌、趣味分享、歌曲宣传和有纪念意义的留言，每次只用一张照片和一段已确认的音频片段，并如实复盘成片效果。,用一张清晰人像照片和一段简短的歌曲片段，让照片开口唱歌。这个 AI 照片唱歌视频和人像唱歌视频工作流可以把单张人像变成一段有表情的唱歌短片，只需要一张照片和一段歌曲片段，并在交付后检查人物特征、嘴型和面部动作、演唱表现力、声音呈现和同步效果。适合老照片唱歌、生日祝福、卡通人物唱歌、趣味分享、歌曲宣传和有纪念意义的留言，每次只用一张照片和一段已确认的音频片段，并如实复盘成片效果。,2,,,15802,0.585
+45,prc-labor-law-resolution,skillhub-cn,,,,single,"This skill should be used for China mainland employment and labor-law questions requiring verified official Chinese sources, urgent evidence preservation, plain-language or zero-parameter intake, mult",本技能用于处理国内劳动用工与劳动争议问题，要求核验现行法律依据，识别争议焦点，规划证据，测算请求金额，并提供协商、劳动监察、调解、仲裁、诉讼及执行方案。适用于辞退、辞职、工资、加班、休假、社会保险、工伤、劳务派遣、平台用工、竞业限制、规章制度、劳动合同审查和企业用工合规等场景。不适用于非中国法律问题，以及纯刑事、税务、公司、移民或一般民事问题，但可识别跨领域衔接事项。,3,,,22891,0.73
+46,ai-video-generation,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,84154,,,0.677
+47,image-to-video,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,84040,,,0.676
+48,video-edit,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,83889,,,0.674
+49,ai-image-generation,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,83883,,,0.673
+50,ai-music,skills.sh,genmedia-labs,genmedia-labs/skills,,single,,,4,83637,,,0.671
+51,beatra,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagr,通过同一个AI创作工具完成AI图片、视频、音乐与语音创作，查找公开社交数据，编辑视觉成果，并集中查看和管理生成资产。Beatra 全能创作支持AI图片生成（文生图）、AI视频生成（图生视频）和AI视频编辑，通过AI音乐生成把想法做成歌曲或纯音乐，也可用AI语音生成（文字转语音）、多语言旁白和AI语音克隆完成跨媒介内容；还能查找抖音数据、小红书数据，以及 YouTube、TikTok、Instagr,4,,,16256,0.597
+52,photo-singing-video,skillhub-cn,,,,single,用一张清晰人像照片和一段简短的歌曲片段，让照片开口唱歌。这个 AI 照片唱歌视频和人像唱歌视频工作流可以把单张人像变成一段有表情的唱歌短片，只需要一张照片和一段歌曲片段，并在交付后检查人物特征、嘴型和面部动作、演唱表现力、声音呈现和同步效果。适合老照片唱歌、生日祝福、卡通人物唱歌、趣味分享、歌曲宣传和有纪念意义的留言，每次只用一张照片和一段已确认的音频片段，并如实复盘成片效果。,用一张清晰人像照片和一段简短的歌曲片段，让照片开口唱歌。这个 AI 照片唱歌视频和人像唱歌视频工作流可以把单张人像变成一段有表情的唱歌短片，只需要一张照片和一段歌曲片段，并在交付后检查人物特征、嘴型和面部动作、演唱表现力、声音呈现和同步效果。适合老照片唱歌、生日祝福、卡通人物唱歌、趣味分享、歌曲宣传和有纪念意义的留言，每次只用一张照片和一段已确认的音频片段，并如实复盘成片效果。,2,,,15802,0.585
+53,reddit-automation,skills.sh,flowkit-labs,flowkit-labs/skills,,single,,,4,53464,,,0.566
 54,bid-opportunity-practical-assistant,skillhub-cn,,,,single,招投标商机实战助手。需配置世舶科技 API Key 使用。用于围绕招投标商机挖掘、客户跟进和销售线索整理，帮助销售快速判断项目价值和跟进优先级。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万,招投标商机实战助手。需配置世舶科技 API Key 使用。用于围绕招投标商机挖掘、客户跟进和销售线索整理，帮助销售快速判断项目价值和跟进优先级。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更新30万,3,,,14864,0.557
-55,animate-expo,skills.sh,emilkowalski,emilkowalski/skills,,single,,,2,2015,,,0.555
-56,unslop,skills.sh,cursor,cursor/plugins,,single,,,1,1765,,,0.553
-57,bid-data-search-radar,skillhub-cn,,,,single,招投标数据搜雷达。需配置世舶科技 API Key 使用。用于搜索全国招投标公告、中标结果、合同公告和采购意向，适合做快速项目发现、关键词检索和商机初筛。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更,招投标数据搜雷达。需配置世舶科技 API Key 使用。用于搜索全国招投标公告、中标结果、合同公告和采购意向，适合做快速项目发现、关键词检索和商机初筛。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更,3,,,14462,0.541
-58,live-commerce-script-studio,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,把一份排品清单，变成主播真的能在镜头前照着念的一整场直播脚本。这个直播带货脚本工作流会排出整场分钟级流程表，为每个主推品写出七步讲解话术，配一套涵盖开场、留人、互动、逼单、催单、收尾的十二类照念话术库，并对所有措辞做一遍合规检查；然后把主播和场控真正拿在手上的话术卡、倒计时卡渲染出来，再把那些靠语气而不是靠文字取胜的句子做成示范音。适合抖音、视频号、淘宝、快手、小红书的直播带货，也可以当成直播脚本,把一份排品清单，变成主播真的能在镜头前照着念的一整场直播脚本。这个直播带货脚本工作流会排出整场分钟级流程表，为每个主推品写出七步讲解话术，配一套涵盖开场、留人、互动、逼单、催单、收尾的十二类照念话术库，并对所有措辞做一遍合规检查；然后把主播和场控真正拿在手上的话术卡、倒计时卡渲染出来，再把那些靠语气而不是靠文字取胜的句子做成示范音。适合抖音、视频号、淘宝、快手、小红书的直播带货，也可以当成直播脚本,4,,,14305,0.534
-59,ai-avatar-video,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1252,,,0.524
-60,twitter-automation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1226,,,0.522
-61,ai-image-generation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1214,,,0.522
-62,ai-video-generation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1181,,,0.519
-63,wecom-unified,skills.sh,wecomteam,wecomteam/wecom-unified,,single,,,3,1068,,,0.519
-64,mastra,skills.sh,mastra-ai,mastra-ai/skills,,single,,,4,705,,,0.512
-65,momentic-spec,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,631,,,0.51
-66,momentic-explore-prompt,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,631,,,0.51
-67,momentic-maintain,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,631,,,0.51
-68,momentic-mobile-test,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,631,,,0.51
-69,nx-workspace,skills.sh,nrwl,nrwl/nx-ai-agents-config,,single,,,4,569,,,0.508
-70,diff-intake,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-71,discover-analytics-patterns,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-72,discover-event-surfaces,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-73,taxonomy,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-74,add-analytics-instrumentation,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-75,instrument-events,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,494,,,0.505
-76,ip-as-logo,skills.sh,s1dashu,s1dashu/ip-as-logo-skill,,single,,,2,429,,,0.48
-77,beatra-ai-video-studio,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。,从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。,4,,,12344,0.463
-78,ai-music-video-clip-maker,skillhub-cn,,,,single,用一首歌的情绪、节奏和视觉概念，制作一个短视觉短片。这个 AI 音乐 MV 短片制作与歌曲生成视频工作流可以把音乐片段和视觉方向变成电影感音乐宣传短片，把确认的封面图或人物肖像随音乐动起来，在严格的首尾画面之间生成过渡动作，或把音频作为松散的氛围参考生成全新的视觉概念。适合新歌预告、专辑宣传短片、封面图动画、氛围视觉、虚拟歌手场景和社交媒体音乐预告，从歌曲的副歌、能量、配色和落幅画面构建音频-视觉,用一首歌的情绪、节奏和视觉概念，制作一个短视觉短片。这个 AI 音乐 MV 短片制作与歌曲生成视频工作流可以把音乐片段和视觉方向变成电影感音乐宣传短片，把确认的封面图或人物肖像随音乐动起来，在严格的首尾画面之间生成过渡动作，或把音频作为松散的氛围参考生成全新的视觉概念。适合新歌预告、专辑宣传短片、封面图动画、氛围视觉、虚拟歌手场景和社交媒体音乐预告，从歌曲的副歌、能量、配色和落幅画面构建音频-视觉,2,,,12215,0.458
-79,unslop,skills.sh,theclaymethod,theclaymethod/unslop,,single,,,1,392,,,0.455
-80,linear-release-setup,skills.sh,linear,linear/linear-release,,single,,,3,368,,,0.451
-81,create-prd,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,366,,,0.451
-82,strategy-red-team,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,360,,,0.45
-83,prioritization-frameworks,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,357,,,0.449
-84,angular-developer,skills.sh,angular,angular/skills,,single,,,4,355,,,0.448
-85,outcome-roadmap,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,355,,,0.448
-86,pre-mortem,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,354,,,0.447
-87,wecomcli-shared,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,331,,,0.439
-88,wecomcli-message,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,328,,,0.438
-89,wecomcli-contact,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,327,,,0.437
-90,wecomcli-smartsheet,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,3,327,,,0.437
-91,wecomcli-disk,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,327,,,0.437
-92,wecomcli-calendar,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,326,,,0.434
-93,wecomcli-email,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,326,,,0.434
-94,wecomcli-meeting,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,3,326,,,0.434
-95,wecomcli-smartpage,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,326,,,0.434
-96,wecomcli-media,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,325,,,0.431
-97,wecomcli-todo,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,325,,,0.431
-98,wecomcli-doc,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,325,,,0.431
-99,wecomcli-doc-manage,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,325,,,0.431
-100,wecomcli-sheet,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,3,323,,,0.427
+55,bid-data-search-radar,skillhub-cn,,,,single,招投标数据搜雷达。需配置世舶科技 API Key 使用。用于搜索全国招投标公告、中标结果、合同公告和采购意向，适合做快速项目发现、关键词检索和商机初筛。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更,招投标数据搜雷达。需配置世舶科技 API Key 使用。用于搜索全国招投标公告、中标结果、合同公告和采购意向，适合做快速项目发现、关键词检索和商机初筛。当用户需要招投标查询、中标分析、合同公告、拟在建项目、企业画像、招标文件解析、投标文件/标书写作审查或商机分析时触发，基于世舶科技 3.3亿+ 全国全行业实时更新招投标数据 API。覆盖全国全行业招投标数据、年度更新6600万+招投标数据、实时日更,3,,,14462,0.541
+56,live-commerce-script-studio,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,把一份排品清单，变成主播真的能在镜头前照着念的一整场直播脚本。这个直播带货脚本工作流会排出整场分钟级流程表，为每个主推品写出七步讲解话术，配一套涵盖开场、留人、互动、逼单、催单、收尾的十二类照念话术库，并对所有措辞做一遍合规检查；然后把主播和场控真正拿在手上的话术卡、倒计时卡渲染出来，再把那些靠语气而不是靠文字取胜的句子做成示范音。适合抖音、视频号、淘宝、快手、小红书的直播带货，也可以当成直播脚本,把一份排品清单，变成主播真的能在镜头前照着念的一整场直播脚本。这个直播带货脚本工作流会排出整场分钟级流程表，为每个主推品写出七步讲解话术，配一套涵盖开场、留人、互动、逼单、催单、收尾的十二类照念话术库，并对所有措辞做一遍合规检查；然后把主播和场控真正拿在手上的话术卡、倒计时卡渲染出来，再把那些靠语气而不是靠文字取胜的句子做成示范音。适合抖音、视频号、淘宝、快手、小红书的直播带货，也可以当成直播脚本,4,,,14305,0.534
+57,beatra-ai-video-studio,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。,从一段镜头描述、一张图片、首尾帧、参考素材或已有视频出发，规划并制作短视频。Beatra AI视频工作室支持文生视频、图生视频、参考生视频、首尾帧视频、AI视频编辑和AI视频延长，覆盖产品视频、广告创意、社交短视频、AI空镜素材、转场、揭示和电影感概念镜头。交付后检查动作、主体稳定性、运镜、连续性与发布场景；如果请求或结果包含音频，也一并检查音频，再决定最小有效的修改、延长或重新生成。,4,,,12344,0.463
+58,ai-music-video-clip-maker,skillhub-cn,,,,single,用一首歌的情绪、节奏和视觉概念，制作一个短视觉短片。这个 AI 音乐 MV 短片制作与歌曲生成视频工作流可以把音乐片段和视觉方向变成电影感音乐宣传短片，把确认的封面图或人物肖像随音乐动起来，在严格的首尾画面之间生成过渡动作，或把音频作为松散的氛围参考生成全新的视觉概念。适合新歌预告、专辑宣传短片、封面图动画、氛围视觉、虚拟歌手场景和社交媒体音乐预告，从歌曲的副歌、能量、配色和落幅画面构建音频-视觉,用一首歌的情绪、节奏和视觉概念，制作一个短视觉短片。这个 AI 音乐 MV 短片制作与歌曲生成视频工作流可以把音乐片段和视觉方向变成电影感音乐宣传短片，把确认的封面图或人物肖像随音乐动起来，在严格的首尾画面之间生成过渡动作，或把音频作为松散的氛围参考生成全新的视觉概念。适合新歌预告、专辑宣传短片、封面图动画、氛围视觉、虚拟歌手场景和社交媒体音乐预告，从歌曲的副歌、能量、配色和落幅画面构建音频-视觉,2,,,12215,0.458
+59,animate-expo,skills.sh,emilkowalski,emilkowalski/skills,,single,,,2,2036,,,0.406
+60,admapix,skillhub-cn,成都智创未来教育管理合伙企业（有限合伙）,,,single,"AdMapix广告原始数据层,广告创意/应用/排名/下载收入","AdMapix广告原始数据层,广告创意/应用/排名/下载收入",1,,,11341,0.404
+61,unslop,skills.sh,cursor,cursor/plugins,,single,,,1,1751,,,0.404
+62,lingyi-daily-hot-topic,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】：每日热点选题——每天获取抖音、小红书等平台今日热榜，结合你指定行业/品牌关键词，匹配出可跟进的热点选题（含切入角度、文案方向、形式建议、风险提示、排期建议），把当天热点跟你产品结合出选题，一键出 Markdown 日报。热门搜索词：小红书热点、抖音热点、今日热搜、蹭热点、热点选题、追热点。触发词：热点日报、今日热点、热点选题、热点追踪、社媒热点。,【零一数科·出品】：每日热点选题——每天获取抖音、小红书等平台今日热榜，结合你指定行业/品牌关键词，匹配出可跟进的热点选题（含切入角度、文案方向、形式建议、风险提示、排期建议），把当天热点跟你产品结合出选题，一键出 Markdown 日报。热门搜索词：小红书热点、抖音热点、今日热搜、蹭热点、热点选题、追热点。触发词：热点日报、今日热点、热点选题、热点追踪、社媒热点。,4,,,11082,0.384
+63,ai-avatar-video,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1251,,,0.364
+64,twitter-automation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1230,,,0.364
+65,ai-image-generation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1220,,,0.363
+66,lingyi-creator-filter,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号达人筛选（付费版）。找了好几个达人想合作，但到底哪个真能带得动你的货？挑错人 = 白花钱还没转化。把产品和候选达人发给我，AI 逐个深扒每位达人的受众画像、内容调性、转化潜力，按六维评分排推荐名次，直接告诉你首选跟谁合作、为什么他最合适——再也不用凭感觉选人。报告含推荐排名、六维匹配评分、首选达人合作方案、受众画像与代表视频。触发词：视频号达人筛选、视频号达人匹配、达人筛选,【零一数科·出品】视频号达人筛选（付费版）。找了好几个达人想合作，但到底哪个真能带得动你的货？挑错人 = 白花钱还没转化。把产品和候选达人发给我，AI 逐个深扒每位达人的受众画像、内容调性、转化潜力，按六维评分排推荐名次，直接告诉你首选跟谁合作、为什么他最合适——再也不用凭感觉选人。报告含推荐排名、六维匹配评分、首选达人合作方案、受众画像与代表视频。触发词：视频号达人筛选、视频号达人匹配、达人筛选,4,,,10777,0.362
+67,ai-video-generation,skills.sh,whytryharder,whytryharder/superpowers,,single,,,3,1160,,,0.359
+68,wecom-unified,skills.sh,wecomteam,wecomteam/wecom-unified,,single,,,3,893,,,0.358
+69,mastra,skills.sh,mastra-ai,mastra-ai/skills,,single,,,4,717,,,0.349
+70,momentic-explore-prompt,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,610,,,0.346
+71,momentic-maintain,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,610,,,0.346
+72,momentic-spec,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,610,,,0.346
+73,momentic-mobile-test,skills.sh,momentic-ai,momentic-ai/skills,,single,,,4,610,,,0.346
+74,nx-workspace,skills.sh,nrwl,nrwl/nx-ai-agents-config,,single,,,4,580,,,0.344
+75,discover-analytics-patterns,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+76,taxonomy,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+77,diff-intake,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+78,discover-event-surfaces,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+79,instrument-events,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+80,add-analytics-instrumentation,skills.sh,amplitude,amplitude/mcp-marketplace,,single,,,2,506,,,0.34
+81,zhuangqiancha,skillhub-cn,,,,single,中文 Agent 工具（Skill、MCP、插件...）安全风险查询。 当用户想了解某个 AI 工具是否安全、查「XX 工具安全吗」「这个 skill 有风险吗」「XX 作者出过哪些高风险工具」、 或需要按风险/来源浏览中文 Agent 工具生态时使用。数据来自装前查（zhuangqiancha.com）基于公开代码与声明的独立评估， 涵盖权限透明、隐私去向、作者信誉、安全档位四个维度。零 API,中文 Agent 工具（Skill、MCP、插件...）安全风险查询。当用户想了解某个 AI 工具是否安全、查「XX 工具安全吗」「这个 skill 有风险吗」「XX 作者出过哪些高风险工具」、或需要按风险/来源浏览中文 Agent 工具生态时使用。数据来自装前查（zhuangqiancha.com）基于公开代码与声明的独立评估，涵盖权限透明、隐私去向、作者信誉、安全档位四个维度。零 API Ke,4,,,10373,0.338
+82,tiktok-shop-product-video-maker,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,使用 AI 将商品信息、产品图、卖点和英语或日语受众需求制作成 TikTok Shop 商品视频方案。生成开场钩子、可直接拍摄的脚本、镜头节拍、字幕提示、本地化标题、话题标签和适合商品页事实的行动引导，适用于跨境短视频、商品展示、演示、开箱、测评和达人带货视频。,使用 AI 将商品信息、产品图、卖点和英语或日语受众需求制作成 TikTok Shop 商品视频方案。生成开场钩子、可直接拍摄的脚本、镜头节拍、字幕提示、本地化标题、话题标签和适合商品页事实的行动引导，适用于跨境短视频、商品展示、演示、开箱、测评和达人带货视频。,4,,,10040,0.314
+83,lingyi-wx-video-oral-seeding-script-plus,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】视频号口播种草脚本生成。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的口播种草脚本，或按方向/目的/商品原创多条口播种草脚本（含分段表、口播全文、六维质检评分）。,【零一数科·出品】视频号口播种草脚本生成。一条链接二创脚本，丢进爆款视频号链接即以此骨架改写成你的口播种草脚本，或按方向/目的/商品原创多条口播种草脚本（含分段表、口播全文、六维质检评分）。,4,,,9994,0.31
+84,ip-as-logo,skills.sh,s1dashu,s1dashu/ip-as-logo-skill,,single,,,2,418,,,0.288
+85,lingyi-wx-account-quick-analysis,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】：微信视频号账号拆解（轻量版）。发一个视频号账号名，几分钟拿到一份账号快拆报告——账号总览/受众画像/内容矩阵/爆款公式/对标竞品/运营建议，照着爆款路径抄起号模板。触发词：视频号账号快拆、账号快拆、快速拆解视频号账号、快拆账号。,【零一数科·出品】：微信视频号账号拆解（轻量版）。发一个视频号账号名，几分钟拿到一份账号快拆报告——账号总览/受众画像/内容矩阵/爆款公式/对标竞品/运营建议，照着爆款路径抄起号模板。触发词：视频号账号快拆、账号快拆、快速拆解视频号账号、快拆账号。,1,,,9695,0.287
+86,unslop,skills.sh,theclaymethod,theclaymethod/unslop,,single,,,1,387,,,0.274
+87,angular-developer,skills.sh,angular,angular/skills,,single,,,4,354,,,0.268
+88,lingyi-forbidden-word-detect-optimize,skillhub-cn,零一裂变（深圳）科技有限公司,,,single,【零一数科·出品】违禁词检测+优化（付费版）。把一份待发布文案按「法规合规层→平台规则层→内容质量层」三层结构做发布前质检，逐条问题用三栏对照（违规原句位置→违反条款→合规改法建议）+风险分级，给质检结论与修改记录。适用于违禁词检测+优化、内容审核、违禁词检测、发布前合规检查、新媒体文案合规、广告法自查、平台限流词排查。,【零一数科·出品】违禁词检测+优化（付费版）。把一份待发布文案按「法规合规层→平台规则层→内容质量层」三层结构做发布前质检，逐条问题用三栏对照（违规原句位置→违反条款→合规改法建议）+风险分级，给质检结论与修改记录。适用于违禁词检测+优化、内容审核、违禁词检测、发布前合规检查、新媒体文案合规、广告法自查、平台限流词排查。,1,,,9443,0.265
+89,create-prd,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,347,,,0.261
+90,linear-release-setup,skills.sh,linear,linear/linear-release,,single,,,3,345,,,0.259
+91,strategy-red-team,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,342,,,0.257
+92,prioritization-frameworks,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,339,,,0.256
+93,outcome-roadmap,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,337,,,0.254
+94,pre-mortem,skills.sh,phuryn,phuryn/pm-skills,,single,,,3,336,,,0.252
+95,open-knowledge-discovery,skills.sh,inkeep,inkeep/open-knowledge-skills,,single,,,3,328,,,0.247
+96,beatra-ai-image-studio,skillhub-cn,乐萱同行科技（深圳）有限公司,,,single,从文字描述、按顺序提供的一至四张参考图，或一张需要修改的原图出发，生成并完善图像。Beatra AI 图像工作室支持文生图、参考图创作和围绕指定部分进行的 AI 图片编辑，可用于产品图、广告创意、品牌视觉、海报、社交媒体配图、AI绘画、AI插画、概念图和照片背景修改。看到结果后，检查信息表达、主体是否符合要求、构图、风格、文字与发布场景，再选择最小有效的局部修改、重新构图或重新生成。,从文字描述、按顺序提供的一至四张参考图，或一张需要修改的原图出发，生成并完善图像。Beatra AI 图像工作室支持文生图、参考图创作和围绕指定部分进行的 AI 图片编辑，可用于产品图、广告创意、品牌视觉、海报、社交媒体配图、AI绘画、AI插画、概念图和照片背景修改。看到结果后，检查信息表达、主体是否符合要求、构图、风格、文字与发布场景，再选择最小有效的局部修改、重新构图或重新生成。,4,,,9188,0.242
+97,ci-security-scanning-with-strix,skills.sh,usestrix,usestrix/strix,,single,,,4,309,,,0.235
+98,managed-pentesting-with-strix,skills.sh,usestrix,usestrix/strix,,single,,,4,309,,,0.235
+99,wecomcli-shared,skills.sh,wecomteam,wecomteam/wecom-cli,,single,,,4,299,,,0.231
+100,blast-radius,skills.sh,cursor,cursor/plugins,,single,,,1,296,,,0.229
