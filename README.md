@@ -10,7 +10,7 @@
 [![Skills tracked](https://img.shields.io/badge/skills%20tracked-2%2C500%2B-blueviolet)](data/latest)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
-[English](README.md) | [简体中文](https://www.zdoc.app/zh/LinklyAI/best-skills) | [日本語](https://www.zdoc.app/ja/LinklyAI/best-skills) | [한국어](https://www.zdoc.app/ko/LinklyAI/best-skills) | [Español](https://www.zdoc.app/es/LinklyAI/best-skills) | [Deutsch](https://www.zdoc.app/de/LinklyAI/best-skills)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
 </div>
 
