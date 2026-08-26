@@ -26,25 +26,25 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 <!-- RANKINGS:START -->
 
-> Last updated: **2026-08-25** (UTC) · Top 10 preview per list — full Top 100 in the CSVs.
+> Last updated: **2026-08-26** (UTC) · Top 10 preview per list — full Top 100 in the CSVs.
 
 <details open>
 <summary><b>🏆 Best 100 (Worth-Installing Score)</b></summary>
 
 | # | Skill | Vendor | WIS | Cov |
 | --- | --- | --- | --- | --- |
-| 1 | frontend-design | anthropics | 79.1 | C |
-| 2 | agent-browser | vercel-labs | 77 | C |
-| 3 | find-skills | vercel-labs | 76.2 | C |
+| 1 | frontend-design | anthropics | 79.3 | C |
+| 2 | agent-browser | vercel-labs | 77.1 | C |
+| 3 | find-skills | vercel-labs | 76.5 | C |
 | 4 | vercel-react-best-practices | vercel-labs | 70.7 | C |
-| 5 | skill-creator | anthropics | 68.1 | C |
-| 6 | grill-me | mattpocock | 68 | C |
-| 7 | azure-ai | microsoft | 67.8 | C |
-| 8 | azure-storage | microsoft | 67.6 | C |
-| 9 | web-design-guidelines | vercel-labs | 66.3 | C |
-| 10 | azure-aigateway | microsoft | 64.9 | C |
+| 5 | azure-ai | microsoft | 68.4 | C |
+| 6 | skill-creator | anthropics | 68.2 | C |
+| 7 | grill-me | mattpocock | 68 | C |
+| 8 | azure-storage | microsoft | 67.8 | C |
+| 9 | web-design-guidelines | vercel-labs | 66.6 | C |
+| 10 | microsoft-foundry | microsoft | 65.1 | C |
 
-➡️ Full list: [best-100.csv](data/2026-08-25/rankings/best-100.csv)
+➡️ Full list: [best-100.csv](data/2026-08-26/rankings/best-100.csv)
 
 </details>
 
@@ -53,18 +53,18 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Skill | skills.sh | ClawHub | SkillHub CN |
 | --- | --- | --- | --- | --- |
-| 1 | find-skills | 3,093,773 | — | — |
-| 2 | self-improving-agent | — | 476,007 | 1,132,437 |
-| 3 | grill-me | 956,585 | — | — |
-| 4 | find-skills | — | — | 786,643 |
-| 5 | grill-with-docs | 814,999 | — | — |
-| 6 | agent-browser | — | — | 620,341 |
-| 7 | frontend-design | 814,337 | — | — |
-| 8 | improve-codebase-architecture | 785,530 | — | — |
-| 9 | summarize | — | — | 589,257 |
-| 10 | self-improving | — | 207,792 | 385,484 |
+| 1 | find-skills | 3,110,349 | — | — |
+| 2 | self-improving-agent | — | 476,145 | 1,135,666 |
+| 3 | grill-me | 967,722 | — | — |
+| 4 | find-skills | — | — | 797,391 |
+| 5 | grill-with-docs | 824,665 | — | — |
+| 6 | agent-browser | — | — | 630,874 |
+| 7 | frontend-design | 818,889 | — | — |
+| 8 | improve-codebase-architecture | 794,554 | — | — |
+| 9 | summarize | — | — | 590,811 |
+| 10 | self-improving | — | 207,860 | 386,305 |
 
-➡️ Full list: [top-installs.csv](data/2026-08-25/rankings/top-installs.csv)
+➡️ Full list: [top-installs.csv](data/2026-08-26/rankings/top-installs.csv)
 
 </details>
 
@@ -73,18 +73,18 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Skill | Installs | Weekly Δ% |
 | --- | --- | --- | --- |
-| 1 | ai-video-generation | 345,361 | -5.3 |
-| 2 | ai-image-generation | 345,084 | -5.3 |
-| 3 | ai-avatar-video | 345,001 | -5.2 |
-| 4 | twitter-automation | 344,895 | -5.2 |
-| 5 | anti-ui-slop | 471,505 | 1.5 |
-| 6 | reddit-automation | 121,075 | — |
-| 7 | video-edit | 153,628 | — |
-| 8 | ai-music | 153,262 | — |
-| 9 | image-to-video | 153,660 | — |
-| 10 | ai-video-generation | 153,962 | — |
+| 1 | ai-video-generation | 366,871 | -5.3 |
+| 2 | ai-avatar-video | 366,488 | -5.2 |
+| 3 | ai-image-generation | 366,570 | -5.3 |
+| 4 | twitter-automation | 366,375 | -5.2 |
+| 5 | anti-ui-slop | 489,413 | 1.5 |
+| 6 | reddit-automation | 137,815 | — |
+| 7 | ai-image-generation | 170,403 | — |
+| 8 | ai-music | 169,982 | — |
+| 9 | video-edit | 170,336 | — |
+| 10 | ai-video-generation | 170,631 | — |
 
-➡️ Full list: [trending-7d.csv](data/2026-08-25/rankings/trending-7d.csv)
+➡️ Full list: [trending-7d.csv](data/2026-08-26/rankings/trending-7d.csv)
 
 </details>
 
@@ -93,18 +93,18 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
-| 1 | self-improving | 100+ | 2 | 29 | 5 |
-| 2 | frontend-design | 66 | 1 | 5 | 56 |
-| 3 | grill-me | 100+ | 0 | 8 | 25 |
-| 4 | agent-browser | 100+ | 0 | 7 | 17 |
-| 5 | skill-creator | 66 | 0 | 3 | 122 |
-| 6 | browser-use | — | 4 | 22 | 8 |
-| 7 | find-skills | 23 | 0 | 1 | 119 |
-| 8 | self-improving-agent | 51 | 0 | 3 | 1 |
-| 9 | api-gateway | — | 1 | 26 | 1 |
-| 10 | grill-with-docs | 21 | 0 | 0 | 7 |
+| 1 | self-improving | 100+ | 2 | 27 | 5 |
+| 2 | frontend-design | 68 | 1 | 6 | 54 |
+| 3 | grill-me | 100+ | 0 | 8 | 30 |
+| 4 | agent-browser | 100+ | 0 | 7 | 18 |
+| 5 | skill-creator | 73 | 0 | 3 | 123 |
+| 6 | find-skills | 26 | 0 | 1 | 144 |
+| 7 | api-gateway | — | 1 | 32 | 1 |
+| 8 | self-improving-agent | 59 | 0 | 3 | 1 |
+| 9 | grill-with-docs | 24 | 0 | 0 | 7 |
+| 10 | vercel-react-best-practices | 2 | 0 | 1 | 1 |
 
-➡️ Full list: [social-buzz.csv](data/2026-08-25/rankings/social-buzz.csv)
+➡️ Full list: [social-buzz.csv](data/2026-08-26/rankings/social-buzz.csv)
 
 </details>
 
@@ -113,10 +113,10 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Skill | Updated | Versions |
 | --- | --- | --- | --- |
-| 1 | cellcog | 2026-08-24 | 49 |
-| 2 | image-generation-cellcog | 2026-08-24 | 18 |
-| 3 | creative-writing-cellcog | 2026-08-24 | 16 |
-| 4 | api-gateway | 2026-08-21 | 146 |
+| 1 | api-gateway | 2026-08-26 | 151 |
+| 2 | cellcog | 2026-08-24 | 49 |
+| 3 | image-generation-cellcog | 2026-08-24 | 18 |
+| 4 | creative-writing-cellcog | 2026-08-24 | 16 |
 | 5 | scrapling-official | 2026-08-23 | 15 |
 | 6 | getnote | 2026-08-19 | 45 |
 | 7 | planning-with-files | 2026-08-19 | 17 |
@@ -124,7 +124,7 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 | 9 | self-improving-agent | 2026-08-06 | 39 |
 | 10 | polymarket-weather-trader | 2026-07-22 | 48 |
 
-➡️ Full list: [most-active.csv](data/2026-08-25/rankings/most-active.csv)
+➡️ Full list: [most-active.csv](data/2026-08-26/rankings/most-active.csv)
 
 </details>
 
@@ -139,12 +139,12 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 | 4 | agent-browser | vercel-labs | skills.sh |
 | 5 | github | steipete | clawhub |
 | 6 | vercel-react-best-practices | vercel-labs | skills.sh |
-| 7 | ima-skills | 腾讯科技（深圳）有限公司 | skillhub |
-| 8 | weather | steipete | clawhub |
-| 9 | gog | steipete | clawhub |
+| 7 | weather | steipete | clawhub |
+| 8 | gog | steipete | clawhub |
+| 9 | ima-skills | 腾讯科技（深圳）有限公司 | skillhub |
 | 10 | obsidian | steipete | clawhub |
 
-➡️ Full list: [official-100.csv](data/2026-08-25/rankings/official-100.csv)
+➡️ Full list: [official-100.csv](data/2026-08-26/rankings/official-100.csv)
 
 </details>
 
@@ -164,7 +164,7 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 | 9 | skills.sh | expo | 18 | 283,306 |
 | 10 | skills.sh | google-labs-code | 30 | 260,911 |
 
-➡️ Full list: [official-vendors.csv](data/2026-08-25/rankings/official-vendors.csv)
+➡️ Full list: [official-vendors.csv](data/2026-08-26/rankings/official-vendors.csv)
 
 </details>
 
@@ -173,18 +173,18 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Repository | Stars | Pushed |
 | --- | --- | --- | --- |
-| 1 | obra/superpowers | 277,148 | 2026-08-19 |
-| 2 | affaan-m/ECC | 242,948 | 2026-08-25 |
-| 3 | mattpocock/skills | 235,517 | 2026-08-24 |
-| 4 | anthropics/skills | 171,389 | 2026-08-21 |
-| 5 | anthropics/claude-code | 142,894 | 2026-08-25 |
-| 6 | vercel/next.js | 141,919 | 2026-08-25 |
-| 7 | shadcn-ui/ui | 122,022 | 2026-08-24 |
-| 8 | nextlevelbuilder/ui-ux-pro-max-skill | 120,606 | 2026-08-24 |
-| 9 | browser-use/browser-use | 110,387 | 2026-08-25 |
-| 10 | Graphify-Labs/graphify | 110,152 | 2026-08-24 |
+| 1 | obra/superpowers | 277,608 | 2026-08-19 |
+| 2 | mattpocock/skills | 236,829 | 2026-08-24 |
+| 3 | anthropics/skills | 171,601 | 2026-08-21 |
+| 4 | anthropics/claude-code | 143,017 | 2026-08-25 |
+| 5 | shadcn-ui/ui | 122,128 | 2026-08-25 |
+| 6 | nextlevelbuilder/ui-ux-pro-max-skill | 120,956 | 2026-08-25 |
+| 7 | DietrichGebert/ponytail | 111,174 | 2026-08-07 |
+| 8 | browser-use/browser-use | 110,525 | 2026-08-26 |
+| 9 | pytorch/pytorch | 102,601 | 2026-08-26 |
+| 10 | JuliusBrussee/caveman | 100,960 | 2026-08-24 |
 
-➡️ Full list: [top-repos.csv](data/2026-08-25/rankings/top-repos.csv)
+➡️ Full list: [top-repos.csv](data/2026-08-26/rankings/top-repos.csv)
 
 </details>
 
@@ -193,18 +193,18 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 
 | # | Skill | Age (days) | Popularity |
 | --- | --- | --- | --- |
-| 1 | anti-fraud | 8 | 0.976 |
-| 2 | multi-search-engine | 6 | 0.967 |
-| 3 | sbkj-ztb | 9 | 0.894 |
-| 4 | sbkj | 9 | 0.881 |
-| 5 | sbkj-official-en | 9 | 0.871 |
-| 6 | sbkj-official-sales | 8 | 0.861 |
-| 7 | ai-video-generation | 9 | 0.813 |
-| 8 | image-to-video | 9 | 0.812 |
-| 9 | video-edit | 9 | 0.811 |
-| 10 | ai-image-generation | 9 | 0.81 |
+| 1 | anti-fraud | 9 | 0.98 |
+| 2 | paperless-business-system-from-files | 26 | 0.975 |
+| 3 | multi-search-engine | 7 | 0.973 |
+| 4 | sbkj-ztb | 10 | 0.892 |
+| 5 | sbkj | 10 | 0.877 |
+| 6 | beatra | 10 | 0.868 |
+| 7 | sbkj-official-en | 10 | 0.866 |
+| 8 | sbkj-official-sales | 9 | 0.857 |
+| 9 | ai-audiobook-narration | 6 | 0.837 |
+| 10 | ai-video-generation | 10 | 0.819 |
 
-➡️ Full list: [rising-stars.csv](data/2026-08-25/rankings/rising-stars.csv)
+➡️ Full list: [rising-stars.csv](data/2026-08-26/rankings/rising-stars.csv)
 
 </details>
 
