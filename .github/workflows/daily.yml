@@ -67,8 +67,8 @@ jobs:
       # Without this it would publish as github-actions[bot].
       - name: Set commit identity
         run: |
-          git config user.name  "Kane"
-          git config user.email "kane@linkly.ai"
+          git config user.name  "Linkly AI"
+          git config user.email "150816584+linkly-ai@users.noreply.github.com"
 
       - name: Run pipeline
         working-directory: runner
