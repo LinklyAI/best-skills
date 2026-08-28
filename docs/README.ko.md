@@ -4,15 +4,23 @@
 
 **매일 업데이트되는 Agent Skills Top 100 순위 — skills.sh, ClawHub, Tencent SkillHub, GitHub, X 등의 설치 수, 성장세, 소셜 화제성을 집계합니다. 오픈 데이터(CSV).**
 
-[![데이터 업데이트](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](data/latest)
+[![데이터 업데이트](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](../data/latest)
 [![업데이트 주기](https://img.shields.io/badge/refresh-daily-blue)](#순위)
 [![순위](https://img.shields.io/badge/rankings-9-orange)](#순위)
-[![추적 중인 Skills](https://img.shields.io/badge/skills%20tracked-2%2C500%2B-blueviolet)](data/latest)
-[![라이선스: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
+[![추적 중인 Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
+[![라이선스: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+[English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
 </div>
+
+<p align="center">
+  <a href="https://linkly.ai/skills">
+    <img src="assets/best-skills-rankings.webp" alt="Best Agent Skills Rankings web preview">
+  </a>
+  <br>
+  <a href="https://linkly.ai/skills">실시간 인터랙티브 순위 살펴보기 →</a>
+</p>
 
 ## 이 프로젝트를 만든 이유
 
@@ -20,7 +28,7 @@
 
 - 매일 갱신되는 **9개 순위**
 - **원본 수치 보존** — 모든 CSV에 플랫폼별 원본 집계를 유지해 누구나 검증하거나 다시 순위를 매길 수 있습니다
-- **비교할 수 없는 수치를 합산하지 않음** — 플랫폼 간 수치는 나란히 표시하고, 플랫폼 내부 백분위 종합 점수로 순위를 매깁니다([방법론](docs/methodology.md) 참조)
+- **비교할 수 없는 수치를 합산하지 않음** — 플랫폼 간 수치는 나란히 표시하고, 플랫폼 내부 백분위 종합 점수로 순위를 매깁니다([방법론](methodology.md) 참조)
 
 ## 순위
 
@@ -44,7 +52,7 @@
 | 9 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66.5 | C |
 | 10 | [microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry) | [microsoft](https://www.skills.sh/microsoft) | 65.5 | C |
 
-➡️ 전체 목록: [best-100.csv](data/2026-08-27/rankings/best-100.csv)
+➡️ 전체 목록: [best-100.csv](../data/2026-08-27/rankings/best-100.csv)
 
 </details>
 
@@ -64,7 +72,7 @@
 | 9 | summarize | — | — | 592,958 |
 | 10 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | — | 207,964 | 387,598 |
 
-➡️ 전체 목록: [top-installs.csv](data/2026-08-27/rankings/top-installs.csv)
+➡️ 전체 목록: [top-installs.csv](../data/2026-08-27/rankings/top-installs.csv)
 
 </details>
 
@@ -84,7 +92,7 @@
 | 9 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 192,724 | — |
 | 10 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 193,006 | — |
 
-➡️ 전체 목록: [trending-7d.csv](data/2026-08-27/rankings/trending-7d.csv)
+➡️ 전체 목록: [trending-7d.csv](../data/2026-08-27/rankings/trending-7d.csv)
 
 </details>
 
@@ -104,7 +112,7 @@
 | 9 | [word-docx](https://clawhub.ai/ivangdavila/skills/word-docx) | 3 | 0 | 1 | 2 |
 | 10 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | 2 | 0 | 1 | 1 |
 
-➡️ 전체 목록: [social-buzz.csv](data/2026-08-27/rankings/social-buzz.csv)
+➡️ 전체 목록: [social-buzz.csv](../data/2026-08-27/rankings/social-buzz.csv)
 
 </details>
 
@@ -124,7 +132,7 @@
 | 9 | [image-generation-cellcog](https://clawhub.ai/nitishgargiitd/skills/image-generation-cellcog) | 2026-08-24 | 18 |
 | 10 | creative-writing-cellcog | 2026-08-24 | 16 |
 
-➡️ 전체 목록: [most-active.csv](data/2026-08-27/rankings/most-active.csv)
+➡️ 전체 목록: [most-active.csv](../data/2026-08-27/rankings/most-active.csv)
 
 </details>
 
@@ -144,7 +152,7 @@
 | 9 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | clawhub |
 | 10 | [obsidian](https://clawhub.ai/steipete/skills/obsidian) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ 전체 목록: [official-100.csv](data/2026-08-27/rankings/official-100.csv)
+➡️ 전체 목록: [official-100.csv](../data/2026-08-27/rankings/official-100.csv)
 
 </details>
 
@@ -164,7 +172,7 @@
 | 9 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 | 10 | [skills.sh](https://www.skills.sh) | [google-labs-code](https://www.skills.sh/google-labs-code) | 30 | 260,911 |
 
-➡️ 전체 목록: [official-vendors.csv](data/2026-08-27/rankings/official-vendors.csv)
+➡️ 전체 목록: [official-vendors.csv](../data/2026-08-27/rankings/official-vendors.csv)
 
 </details>
 
@@ -184,7 +192,7 @@
 | 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 111,369 | 2026-08-26 |
 | 10 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 101,873 | 2026-08-26 |
 
-➡️ 전체 목록: [top-repos.csv](data/2026-08-27/rankings/top-repos.csv)
+➡️ 전체 목록: [top-repos.csv](../data/2026-08-27/rankings/top-repos.csv)
 
 </details>
 
@@ -204,7 +212,7 @@
 | 9 | bid-data-radar-ai-query | 10 | 0.865 |
 | 10 | bid-quick-search-engine | 10 | 0.864 |
 
-➡️ 전체 목록: [rising-stars.csv](data/2026-08-27/rankings/rising-stars.csv)
+➡️ 전체 목록: [rising-stars.csv](../data/2026-08-27/rankings/rising-stars.csv)
 
 </details>
 
@@ -242,7 +250,7 @@ data/
 
 날짜별로 하나의 폴더가 있으며 CSV만 포함합니다. 종합 점수에는 산출 근거가 된 플랫폼별 원본 수치가 항상 함께 제공됩니다. 오늘의 목록만 보려면 `data/latest/`에서 시작하세요.
 
-데이터 출처, 정규화 규칙, 알려진 제한 사항은 [docs/methodology.md](docs/methodology.md)를 참조하세요.
+데이터 출처, 정규화 규칙, 알려진 제한 사항은 [docs/methodology.md](methodology.md)를 참조하세요.
 
 ## 데이터 출처 및 저작자 표시
 
@@ -250,7 +258,7 @@ data/
 
 ## 라이선스
 
-데이터와 문서는 [CC BY 4.0](LICENSE)으로 공개되며, 출처를 표시하면 자유롭게 사용할 수 있습니다. 데이터를 사용할 때는 이 저장소로 링크하고 플랫폼별 출처 표시를 유지해 주세요.
+데이터와 문서는 [CC BY 4.0](../LICENSE)으로 공개되며, 출처를 표시하면 자유롭게 사용할 수 있습니다. 데이터를 사용할 때는 이 저장소로 링크하고 플랫폼별 출처 표시를 유지해 주세요.
 
 ---
 

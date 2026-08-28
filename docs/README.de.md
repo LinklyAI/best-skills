@@ -2,36 +2,44 @@
 
 # 🏆 Best Skills
 
-**Clasificaciones Top 100 de Agent Skills actualizadas a diario: instalaciones, crecimiento y repercusión social agregados desde skills.sh, ClawHub, Tencent SkillHub, GitHub, X y más. Datos abiertos (CSV).**
+**Täglich aktualisierte Top-100-Ranglisten für Agent Skills – Installationen, Wachstum und soziale Resonanz, zusammengeführt aus skills.sh, ClawHub, Tencent SkillHub, GitHub, X und weiteren Quellen. Offene Daten (CSV).**
 
-[![Datos actualizados](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](data/latest)
-[![Actualización](https://img.shields.io/badge/refresh-daily-blue)](#clasificaciones)
-[![Clasificaciones](https://img.shields.io/badge/rankings-9-orange)](#clasificaciones)
-[![Skills monitorizadas](https://img.shields.io/badge/skills%20tracked-2%2C500%2B-blueviolet)](data/latest)
-[![Licencia: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Daten aktualisiert](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](../data/latest)
+[![Aktualisierung](https://img.shields.io/badge/refresh-daily-blue)](#ranglisten)
+[![Ranglisten](https://img.shields.io/badge/rankings-9-orange)](#ranglisten)
+[![Erfasste Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
+[![Lizenz: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+[English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
 </div>
 
-## Por qué existe este proyecto
+<p align="center">
+  <a href="https://linkly.ai/skills">
+    <img src="assets/best-skills-rankings.webp" alt="Best Agent Skills Rankings web preview">
+  </a>
+  <br>
+  <a href="https://linkly.ai/skills">Interaktive Live-Ranglisten entdecken →</a>
+</p>
 
-Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las instalaciones de Claude/Vercel CLI, ClawHub cuenta las descargas de OpenClaw y Tencent SkillHub cuenta las instalaciones en China; ninguno refleja la repercusión social. **Best Skills combina todas estas perspectivas en una visión común entre ecosistemas**: para cada Skill puedes consultar en paralelo las instalaciones globales, las instalaciones en China y las menciones sociales. Ninguna otra clasificación ofrece esto.
+## Warum es dieses Projekt gibt
 
-- **9 clasificaciones**, actualizadas a diario
-- **Cifras originales conservadas**: cada CSV mantiene los recuentos originales por plataforma para que cualquiera pueda verificarlos o generar su propia clasificación
-- **Nunca suma magnitudes incomparables**: las cifras entre plataformas se muestran en paralelo y se ordenan con un índice compuesto de percentiles dentro de cada plataforma (consulta la [metodología](docs/methodology.md))
+Jedes Skills-Verzeichnis sieht nur sein eigenes Ökosystem. skills.sh zählt Installationen über die Claude/Vercel CLI, ClawHub zählt OpenClaw-Downloads und Tencent SkillHub zählt Installationen in China – soziale Resonanz erfasst keines davon. **Best Skills verbindet all diese Perspektiven zu einem ökosystemübergreifenden Gesamtbild**: Für jeden Skill werden globale Installationen, Installationen in China und Erwähnungen in sozialen Medien nebeneinander dargestellt. Keine andere Rangliste bietet das.
 
-## Clasificaciones
+- **9 Ranglisten**, täglich aktualisiert
+- **Originalwerte bleiben erhalten** – jede CSV-Datei enthält die ursprünglichen Zahlen je Plattform, sodass alle Daten überprüft oder neu gewichtet werden können
+- **Nicht vergleichbare Werte werden nie addiert** – plattformübergreifende Zahlen werden nebeneinander gezeigt und anhand eines zusammengesetzten Perzentilwerts innerhalb jeder Plattform eingeordnet (siehe [Methodik](methodology.md))
+
+## Ranglisten
 
 <!-- RANKINGS:START -->
 
-> Última actualización: **2026-08-27** (UTC) · Vista previa del Top 10 de cada lista; el Top 100 completo está en los CSV.
+> Zuletzt aktualisiert: **2026-08-27** (UTC) · Top-10-Vorschau je Liste – die vollständigen Top 100 stehen in den CSV-Dateien.
 
 <details open>
-<summary><b>🏆 Mejores 100 (puntuación de valor de instalación)</b></summary>
+<summary><b>🏆 Beste 100 (Installationswert)</b></summary>
 
-| # | Skill | Proveedor | WIS | Cobertura |
+| # | Skill | Anbieter | WIS | Abdeckung |
 | --- | --- | --- | --- | --- |
 | 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 80.9 | C |
 | 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 79.4 | C |
@@ -44,12 +52,12 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66.5 | C |
 | 10 | [microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry) | [microsoft](https://www.skills.sh/microsoft) | 65.5 | C |
 
-➡️ Lista completa: [best-100.csv](data/2026-08-27/rankings/best-100.csv)
+➡️ Vollständige Liste: [best-100.csv](../data/2026-08-27/rankings/best-100.csv)
 
 </details>
 
 <details>
-<summary><b>📈 Más instalaciones (todos los ecosistemas)</b></summary>
+<summary><b>📈 Meiste Installationen (alle Ökosysteme)</b></summary>
 
 | # | Skill | skills.sh | ClawHub | SkillHub China |
 | --- | --- | --- | --- | --- |
@@ -64,14 +72,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | summarize | — | — | 592,958 |
 | 10 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | — | 207,964 | 387,598 |
 
-➡️ Lista completa: [top-installs.csv](data/2026-08-27/rankings/top-installs.csv)
+➡️ Vollständige Liste: [top-installs.csv](../data/2026-08-27/rankings/top-installs.csv)
 
 </details>
 
 <details>
-<summary><b>🚀 Tendencias (7 días)</b></summary>
+<summary><b>🚀 Trends (7 Tage)</b></summary>
 
-| # | Skill | Instalaciones | Δ% semanal |
+| # | Skill | Installationen | Wöchentliches Δ% |
 | --- | --- | --- | --- |
 | 1 | [ai-video-generation](https://www.skills.sh/skills-101/superpowers/ai-video-generation) | 391,669 | -5.3 |
 | 2 | [ai-image-generation](https://www.skills.sh/skills-101/superpowers/ai-image-generation) | 391,322 | -5.3 |
@@ -84,12 +92,12 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 192,724 | — |
 | 10 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 193,006 | — |
 
-➡️ Lista completa: [trending-7d.csv](data/2026-08-27/rankings/trending-7d.csv)
+➡️ Vollständige Liste: [trending-7d.csv](../data/2026-08-27/rankings/trending-7d.csv)
 
 </details>
 
 <details>
-<summary><b>💬 Repercusión social (X · HN · Bluesky · GitHub, 7 días)</b></summary>
+<summary><b>💬 Soziale Resonanz (X · HN · Bluesky · GitHub, 7 Tage)</b></summary>
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
@@ -104,14 +112,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [word-docx](https://clawhub.ai/ivangdavila/skills/word-docx) | 3 | 0 | 1 | 2 |
 | 10 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | 2 | 0 | 1 | 1 |
 
-➡️ Lista completa: [social-buzz.csv](data/2026-08-27/rankings/social-buzz.csv)
+➡️ Vollständige Liste: [social-buzz.csv](../data/2026-08-27/rankings/social-buzz.csv)
 
 </details>
 
 <details>
-<summary><b>🔧 Más activas (populares y actualizadas con frecuencia)</b></summary>
+<summary><b>🔧 Aktivste Skills (beliebt und häufig aktualisiert)</b></summary>
 
-| # | Skill | Actualización | Versiones |
+| # | Skill | Aktualisiert | Versionen |
 | --- | --- | --- | --- |
 | 1 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-08-26 | 151 |
 | 2 | [cellcog](https://clawhub.ai/nitishgargiitd/skills/cellcog) | 2026-08-24 | 49 |
@@ -124,14 +132,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [image-generation-cellcog](https://clawhub.ai/nitishgargiitd/skills/image-generation-cellcog) | 2026-08-24 | 18 |
 | 10 | creative-writing-cellcog | 2026-08-24 | 16 |
 
-➡️ Lista completa: [most-active.csv](data/2026-08-27/rankings/most-active.csv)
+➡️ Vollständige Liste: [most-active.csv](../data/2026-08-27/rankings/most-active.csv)
 
 </details>
 
 <details>
-<summary><b>✅ 100 oficiales (editores verificados)</b></summary>
+<summary><b>✅ Offizielle 100 (verifizierte Herausgeber)</b></summary>
 
-| # | Skill | Proveedor | Verificado por |
+| # | Skill | Anbieter | Verifiziert durch |
 | --- | --- | --- | --- |
 | 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | skills.sh |
 | 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | skills.sh |
@@ -144,14 +152,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | clawhub |
 | 10 | [obsidian](https://clawhub.ai/steipete/skills/obsidian) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ Lista completa: [official-100.csv](data/2026-08-27/rankings/official-100.csv)
+➡️ Vollständige Liste: [official-100.csv](../data/2026-08-27/rankings/official-100.csv)
 
 </details>
 
 <details>
-<summary><b>🏢 Proveedores oficiales (agrupados por plataforma)</b></summary>
+<summary><b>🏢 Offizielle Anbieter (nach Plattform gruppiert)</b></summary>
 
-| # | Plataforma | Proveedor | Skills | Instalaciones/descargas |
+| # | Plattform | Anbieter | Skills | Installationen/Downloads |
 | --- | --- | --- | --- | --- |
 | 1 | [skills.sh](https://www.skills.sh) | [microsoft](https://www.skills.sh/microsoft) | 582 | 7,098,914 |
 | 2 | [skills.sh](https://www.skills.sh) | [vercel-labs](https://www.skills.sh/vercel-labs) | 252 | 3,192,306 |
@@ -164,14 +172,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 | 10 | [skills.sh](https://www.skills.sh) | [google-labs-code](https://www.skills.sh/google-labs-code) | 30 | 260,911 |
 
-➡️ Lista completa: [official-vendors.csv](data/2026-08-27/rankings/official-vendors.csv)
+➡️ Vollständige Liste: [official-vendors.csv](../data/2026-08-27/rankings/official-vendors.csv)
 
 </details>
 
 <details>
-<summary><b>⭐ Repositorios principales</b></summary>
+<summary><b>⭐ Top-Repositorys</b></summary>
 
-| # | Repositorio | Stars | Último push |
+| # | Repository | Stars | Letzter Push |
 | --- | --- | --- | --- |
 | 1 | [obra/superpowers](https://github.com/obra/superpowers) | 278,372 | 2026-08-19 |
 | 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 238,509 | 2026-08-24 |
@@ -184,14 +192,14 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 111,369 | 2026-08-26 |
 | 10 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 101,873 | 2026-08-26 |
 
-➡️ Lista completa: [top-repos.csv](data/2026-08-27/rankings/top-repos.csv)
+➡️ Vollständige Liste: [top-repos.csv](../data/2026-08-27/rankings/top-repos.csv)
 
 </details>
 
 <details>
-<summary><b>🌱 Estrellas emergentes (menos de 30 días)</b></summary>
+<summary><b>🌱 Aufsteiger (jünger als 30 Tage)</b></summary>
 
-| # | Skill | Antigüedad (días) | Popularidad |
+| # | Skill | Alter (Tage) | Beliebtheit |
 | --- | --- | --- | --- |
 | 1 | paperless-business-system-from-files | 27 | 0.981 |
 | 2 | anti-fraud | 10 | 0.98 |
@@ -204,54 +212,54 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | bid-data-radar-ai-query | 10 | 0.865 |
 | 10 | bid-quick-search-engine | 10 | 0.864 |
 
-➡️ Lista completa: [rising-stars.csv](data/2026-08-27/rankings/rising-stars.csv)
+➡️ Vollständige Liste: [rising-stars.csv](../data/2026-08-27/rankings/rising-stars.csv)
 
 </details>
 
 <!-- RANKINGS:END -->
 
-### Qué significa cada lista
+### Bedeutung der einzelnen Listen
 
-| Lista | Qué clasifica |
+| Liste | Rangfolge nach |
 | --- | --- |
-| `best-100` | Puntuación global de valor de instalación (popularidad + impulso + repercusión + mantenimiento + confianza) |
-| `top-installs` | Skills con más instalaciones en todos los ecosistemas combinados |
-| `trending-7d` | Skills con crecimiento más rápido durante los últimos 7 días |
-| `social-buzz` | Skills más comentadas en X, Hacker News, Bluesky y GitHub (se excluyen los nombres genéricos porque sus menciones no pueden atribuirse) |
-| `most-active` | Skills populares actualizadas con mayor frecuencia |
-| `official-100` | Skills más populares de editores verificados |
-| `official-vendors` | Proveedores verificados ordenados por instalaciones totales |
-| `top-repos` | Repositorios de GitHub que contienen las Skills, ordenados por Stars |
-| `rising-stars` | Mejores novedades detectadas por primera vez hace menos de 30 días |
+| `best-100` | Gesamtwert der Installation (Beliebtheit + Dynamik + Resonanz + Pflege + Vertrauen) |
+| `top-installs` | Meiste Installationen über alle Ökosysteme hinweg |
+| `trending-7d` | Schnellstes Wachstum in den letzten 7 Tagen |
+| `social-buzz` | Meiste Erwähnungen auf X, Hacker News, Bluesky und GitHub (Skills mit generischen Namen werden ausgeschlossen, da ihre Erwähnungen nicht eindeutig zugeordnet werden können) |
+| `most-active` | Am häufigsten aktualisierte beliebte Skills |
+| `official-100` | Beliebteste Skills verifizierter Herausgeber |
+| `official-vendors` | Verifizierte Anbieter nach Gesamtinstallationen |
+| `top-repos` | GitHub-Repositorys hinter den Skills, sortiert nach Stars |
+| `rising-stars` | Beste Neuzugänge, die vor weniger als 30 Tagen erstmals erfasst wurden |
 
-## Datos
+## Daten
 
 ```text
 data/
 ├── YYYY-MM-DD/
-│   ├── raw/                # recuentos originales por plataforma, sin modificar
+│   ├── raw/                # unveränderte Originalwerte je Plattform
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
 │   │   └── buzz.csv · x-posts.csv · …
-│   └── rankings/           # las 9 clasificaciones calculadas desde raw/
+│   └── rankings/           # die 9 aus raw/ berechneten Ranglisten
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv
-├── latest/                 # siempre es una copia del día más reciente
+├── latest/                 # stets eine Kopie des neuesten Tages
 └── index/
-    └── first-seen.csv      # fechas acumuladas de primera detección (para rising-stars)
+    └── first-seen.csv      # fortlaufende Daten der ersten Erfassung (für Aufsteiger)
 ```
 
-Una carpeta por día, solo con archivos CSV. Las puntuaciones compuestas siempre incluyen las cifras originales por plataforma de las que proceden. Empieza en `data/latest/` si solo quieres las listas de hoy.
+Ein Ordner pro Tag, ausschließlich CSV-Dateien. Zusammengesetzte Werte enthalten stets auch die ursprünglichen plattformspezifischen Zahlen, aus denen sie berechnet wurden. Wenn du nur die heutigen Listen ansehen möchtest, beginne mit `data/latest/`.
 
-Consulta [docs/methodology.md](docs/methodology.md) para conocer las fuentes, las reglas de normalización y las limitaciones conocidas.
+Weitere Informationen zu Datenquellen, Normalisierung und bekannten Einschränkungen findest du unter [docs/methodology.md](methodology.md).
 
-## Fuentes de datos y atribución
+## Datenquellen und Quellenangaben
 
-Los recuentos de instalaciones y descargas se obtienen de los endpoints públicos de [skills.sh](https://www.skills.sh), [ClawHub](https://clawhub.ai) (según su política de directorios de terceros; las páginas de Skills enlazan con su ficha canónica de ClawHub), [Tencent SkillHub](https://skillhub.cn) y la [API de GitHub](https://docs.github.com). Las señales sociales proceden de X, [Hacker News (Algolia)](https://hn.algolia.com), [Bluesky](https://bsky.app) y la búsqueda de GitHub. Este proyecto no está respaldado por ninguna de estas plataformas ni afiliado a ellas. Los recuentos reflejan la metodología de cada plataforma y nunca se suman entre plataformas.
+Installations- und Downloadzahlen stammen aus öffentlichen Endpunkten von [skills.sh](https://www.skills.sh), [ClawHub](https://clawhub.ai) (gemäß dessen Richtlinie für Drittanbieter-Verzeichnisse; Skill-Seiten verlinken auf den jeweiligen offiziellen ClawHub-Eintrag), [Tencent SkillHub](https://skillhub.cn) und der [GitHub API](https://docs.github.com). Soziale Signale stammen von X, [Hacker News (Algolia)](https://hn.algolia.com), [Bluesky](https://bsky.app) und der GitHub-Suche. Dieses Projekt wird von keiner dieser Plattformen unterstützt und steht mit ihnen nicht in Verbindung. Die Zahlen folgen der jeweiligen plattformeigenen Methodik und werden niemals plattformübergreifend addiert.
 
-## Licencia
+## Lizenz
 
-Los datos y la documentación se publican bajo [CC BY 4.0](LICENSE): pueden utilizarse libremente con atribución. Al utilizar los datos, enlaza con este repositorio y conserva las atribuciones de las plataformas.
+Daten und Dokumentation stehen unter [CC BY 4.0](../LICENSE) und dürfen mit Quellenangabe frei verwendet werden. Bitte verlinke bei der Nutzung der Daten auf dieses Repository und behalte die Quellenangaben der Plattformen bei.
 
 ---
 
-Mantenido por [Linkly AI](https://linkly.ai), una base de conocimiento local con IA compatible con Agent Skills.
+Betreut von [Linkly AI](https://linkly.ai) – einer KI-gestützten lokalen Wissensdatenbank mit Unterstützung für Agent Skills.

@@ -4,15 +4,23 @@
 
 **每日更新的 Agent Skills Top 100 排行榜——聚合来自 skills.sh、ClawHub、腾讯 SkillHub、GitHub、X 等平台的安装量、增长趋势和社交热度。开放数据（CSV）。**
 
-[![数据已更新](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](data/latest)
+[![数据已更新](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](../data/latest)
 [![刷新频率](https://img.shields.io/badge/refresh-daily-blue)](#排行榜)
 [![排行榜](https://img.shields.io/badge/rankings-9-orange)](#排行榜)
-[![已追踪 Skills](https://img.shields.io/badge/skills%20tracked-2%2C500%2B-blueviolet)](data/latest)
-[![许可证：CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
+[![已追踪 Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
+[![许可证：CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+[English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
 </div>
+
+<p align="center">
+  <a href="https://linkly.ai/skills">
+    <img src="assets/best-skills-rankings.webp" alt="Best Agent Skills Rankings web preview">
+  </a>
+  <br>
+  <a href="https://linkly.ai/skills">探索实时交互榜单 →</a>
+</p>
 
 ## 为什么创建这个项目
 
@@ -20,7 +28,7 @@
 
 - **9 个排行榜**，每日刷新
 - **保留原始数据**——每份 CSV 都保存各平台的原始计数，任何人都可以验证或重新排名
-- **绝不混加不可比数据**——跨平台数据并排展示，并按各平台内部的百分位综合得分排名（参见[方法论](docs/methodology.md)）
+- **绝不混加不可比数据**——跨平台数据并排展示，并按各平台内部的百分位综合得分排名（参见[方法论](methodology.md)）
 
 ## 排行榜
 
@@ -44,7 +52,7 @@
 | 9 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66.5 | C |
 | 10 | [microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry) | [microsoft](https://www.skills.sh/microsoft) | 65.5 | C |
 
-➡️ 完整榜单：[best-100.csv](data/2026-08-27/rankings/best-100.csv)
+➡️ 完整榜单：[best-100.csv](../data/2026-08-27/rankings/best-100.csv)
 
 </details>
 
@@ -64,7 +72,7 @@
 | 9 | summarize | — | — | 592,958 |
 | 10 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | — | 207,964 | 387,598 |
 
-➡️ 完整榜单：[top-installs.csv](data/2026-08-27/rankings/top-installs.csv)
+➡️ 完整榜单：[top-installs.csv](../data/2026-08-27/rankings/top-installs.csv)
 
 </details>
 
@@ -84,7 +92,7 @@
 | 9 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 192,724 | — |
 | 10 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 193,006 | — |
 
-➡️ 完整榜单：[trending-7d.csv](data/2026-08-27/rankings/trending-7d.csv)
+➡️ 完整榜单：[trending-7d.csv](../data/2026-08-27/rankings/trending-7d.csv)
 
 </details>
 
@@ -104,7 +112,7 @@
 | 9 | [word-docx](https://clawhub.ai/ivangdavila/skills/word-docx) | 3 | 0 | 1 | 2 |
 | 10 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | 2 | 0 | 1 | 1 |
 
-➡️ 完整榜单：[social-buzz.csv](data/2026-08-27/rankings/social-buzz.csv)
+➡️ 完整榜单：[social-buzz.csv](../data/2026-08-27/rankings/social-buzz.csv)
 
 </details>
 
@@ -124,7 +132,7 @@
 | 9 | [image-generation-cellcog](https://clawhub.ai/nitishgargiitd/skills/image-generation-cellcog) | 2026-08-24 | 18 |
 | 10 | creative-writing-cellcog | 2026-08-24 | 16 |
 
-➡️ 完整榜单：[most-active.csv](data/2026-08-27/rankings/most-active.csv)
+➡️ 完整榜单：[most-active.csv](../data/2026-08-27/rankings/most-active.csv)
 
 </details>
 
@@ -144,7 +152,7 @@
 | 9 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | clawhub |
 | 10 | [obsidian](https://clawhub.ai/steipete/skills/obsidian) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ 完整榜单：[official-100.csv](data/2026-08-27/rankings/official-100.csv)
+➡️ 完整榜单：[official-100.csv](../data/2026-08-27/rankings/official-100.csv)
 
 </details>
 
@@ -164,7 +172,7 @@
 | 9 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 | 10 | [skills.sh](https://www.skills.sh) | [google-labs-code](https://www.skills.sh/google-labs-code) | 30 | 260,911 |
 
-➡️ 完整榜单：[official-vendors.csv](data/2026-08-27/rankings/official-vendors.csv)
+➡️ 完整榜单：[official-vendors.csv](../data/2026-08-27/rankings/official-vendors.csv)
 
 </details>
 
@@ -184,7 +192,7 @@
 | 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 111,369 | 2026-08-26 |
 | 10 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 101,873 | 2026-08-26 |
 
-➡️ 完整榜单：[top-repos.csv](data/2026-08-27/rankings/top-repos.csv)
+➡️ 完整榜单：[top-repos.csv](../data/2026-08-27/rankings/top-repos.csv)
 
 </details>
 
@@ -204,7 +212,7 @@
 | 9 | bid-data-radar-ai-query | 10 | 0.865 |
 | 10 | bid-quick-search-engine | 10 | 0.864 |
 
-➡️ 完整榜单：[rising-stars.csv](data/2026-08-27/rankings/rising-stars.csv)
+➡️ 完整榜单：[rising-stars.csv](../data/2026-08-27/rankings/rising-stars.csv)
 
 </details>
 
@@ -242,7 +250,7 @@ data/
 
 每天一个文件夹，仅包含 CSV。综合得分始终附带其所依据的各平台原始数据——如果只想查看今天的榜单，请从 `data/latest/` 开始。
 
-数据来源、归一化规则和已知限制请参见 [docs/methodology.md](docs/methodology.md)。
+数据来源、归一化规则和已知限制请参见 [docs/methodology.md](methodology.md)。
 
 ## 数据来源与归属
 
@@ -250,7 +258,7 @@ data/
 
 ## 许可证
 
-数据和文档采用 [CC BY 4.0](LICENSE) 发布——署名后可自由使用。使用这些数据时，请链接回本仓库（并保留平台归属信息）。
+数据和文档采用 [CC BY 4.0](../LICENSE) 发布——署名后可自由使用。使用这些数据时，请链接回本仓库（并保留平台归属信息）。
 
 ---
 

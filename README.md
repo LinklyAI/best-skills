@@ -7,12 +7,20 @@
 [![Data updated](https://img.shields.io/github/last-commit/LinklyAI/best-skills?label=data%20updated&color=brightgreen)](data/latest)
 [![Refresh](https://img.shields.io/badge/refresh-daily-blue)](#rankings)
 [![Rankings](https://img.shields.io/badge/rankings-9-orange)](#rankings)
-[![Skills tracked](https://img.shields.io/badge/skills%20tracked-2%2C500%2B-blueviolet)](data/latest)
+[![Skills tracked](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](data/latest)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+[English](README.md) | [简体中文](docs/README.zh-CN.md) | [日本語](docs/README.ja.md) | [한국어](docs/README.ko.md) | [Español](docs/README.es.md) | [Deutsch](docs/README.de.md)
 
 </div>
+
+<p align="center">
+  <a href="https://linkly.ai/skills">
+    <img src="docs/assets/best-skills-rankings.webp" alt="Best Agent Skills Rankings web preview">
+  </a>
+  <br>
+  <a href="https://linkly.ai/skills">Explore the live, interactive rankings →</a>
+</p>
 
 ## Why this exists
 
