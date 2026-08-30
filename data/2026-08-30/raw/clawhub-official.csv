@@ -1,0 +1,871 @@
+id,title,version,featured,publisher,trust
+@alipay/alipay-authenticate-wallet,alipay-authenticate-wallet,1.0.11-beta.1,false,alipay,official
+@alipay/alipay-payment-skill,alipay-payment-skill,0.0.1,false,alipay,official
+@ant-intl/antom-integration,antom-integration,1.0.0,false,ant-intl,official
+@ant-intl/skill-alipayplus-ai-integration,skill-alipayplus-integration,1.0.1,false,ant-intl,official
+@antgroup/zeecu-device-skill,zeecu-device-skill,1.0.2,false,antgroup,official
+@apify/apify-competitor-intelligence,Apify Competitor Intelligence,1.0.1,false,apify,official
+@apify/apify-lead-generation,Apify Lead Generation,1.0.1,false,apify,official
+@apify/apify-ultimate-scraper,Apify Ultimate Scraper,1.0.1,false,apify,official
+@aws/agents-build,agents-build,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-connect,agents-connect,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-debug,agents-debug,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-deploy,agents-deploy,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-get-started,agents-get-started,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-harden,agents-harden,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/agents-optimize,agents-optimize,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-aurora-mysql,amazon-aurora-mysql,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-aurora-postgresql,amazon-aurora-postgresql,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-bedrock,amazon-bedrock,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-documentdb,amazon-documentdb,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-dynamodb,amazon-dynamodb,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-elasticache,amazon-elasticache,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-keyspaces,amazon-keyspaces,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/amazon-opensearch-service,amazon-opensearch-service,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/analyzing-release-readiness,analyzing-release-readiness,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/arc-region-switch,arc-region-switch,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aurora-dsql,aurora-dsql,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-amplify,aws-amplify,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-billing-and-cost-management,aws-billing-and-cost-management,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-blocks,aws-blocks,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-cdk,aws-cdk,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-cleanrooms,aws-cleanrooms,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-cloudformation,aws-cloudformation,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-compute,aws-compute,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-containers,aws-containers,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-database,aws-database,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-deployment,aws-deployment,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-iam,aws-iam,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-lambda-durable-functions,aws-lambda-durable-functions,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-lambda-managed-instances,aws-lambda-managed-instances,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-lambda-microvms,aws-lambda-microvms,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-messaging-and-streaming,aws-messaging-and-streaming,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-network-monitoring,aws-network-monitoring,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-networking,aws-networking,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-observability,aws-observability,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-resilience-lifecycle,aws-resilience-lifecycle,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-sdk-js-v3-usage,aws-sdk-js-v3-usage,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-sdk-python-usage,aws-sdk-python-usage,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-sdk-swift-usage,aws-sdk-swift-usage,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-secrets-manager,aws-secrets-manager,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-serverless,aws-serverless,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/aws-transform,aws-transform,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/chatting-with-aws-devops-agent,chatting-with-aws-devops-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/cloudfront,cloudfront,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/configuring-vpc-endpoints-for-private-aws-service-access,configuring-vpc-endpoints-for-private-aws-service-access,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/connecting-lambda-to-api-gateway,connecting-lambda-to-api-gateway,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/connecting-lambda-to-dynamodb,connecting-lambda-to-dynamodb,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/connecting-to-data-source,connecting-to-data-source,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/connecting-vpcs-with-peering,connecting-vpcs-with-peering,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/coordinating-multi-space-devops-agent,coordinating-multi-space-devops-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-amazon-aurora-db-cluster-with-instances,creating-amazon-aurora-db-cluster-with-instances,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-api-gateway-stage,creating-api-gateway-stage,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-data-lake-table,creating-data-lake-table,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-ec2-image-builder-pipeline,creating-ec2-image-builder-pipeline,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-production-vpc-multi-az,creating-production-vpc-multi-az,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/creating-secrets-using-best-practices,creating-secrets-using-best-practices,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/debugging-lambda-timeouts,debugging-lambda-timeouts,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/deploying-custom-domain-rest-api,deploying-custom-domain-rest-api,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/developing-applications-on-managed-service-for-apache-flink,developing-applications-on-managed-service-for-apache-flink,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/diff-scanning-with-aws-security-agent,diff-scanning-with-aws-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/directconnect,directconnect,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/dms-schema-conversion,dms-schema-conversion,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/enabling-lambda-vpc-internet-access,enabling-lambda-vpc-internet-access,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/exploring-data-catalog,exploring-data-catalog,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/exporting-rds-to-s3,exporting-rds-to-s3,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/finding-data-lake-assets,finding-data-lake-assets,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/ingesting-into-data-lake,ingesting-into-data-lake,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/investigating-incidents-with-aws-devops-agent,investigating-incidents-with-aws-devops-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/launch-with-aws,launch-with-aws,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/launching-ec2-instance-with-best-practices,launching-ec2-instance-with-best-practices,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/managing-amazon-msk,managing-amazon-msk,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/migrate-to-msk,migrate-to-msk,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/migrating-to-amazon-redshift,migrating-to-amazon-redshift,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/pentesting-with-aws-security-agent,pentesting-with-aws-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/processing-s3-uploads-with-step-functions,processing-s3-uploads-with-step-functions,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/querying-aws-cloudwatch,querying-aws-cloudwatch,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/querying-aws-s3,querying-aws-s3,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/querying-aws-sagemaker-catalog,querying-aws-sagemaker-catalog,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/querying-data-lake,querying-data-lake,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/rds-db2,rds-db2,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/rds-oracle,rds-oracle,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/rds-oss,rds-oss,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/rds-sqlserver,rds-sqlserver,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/recovery-controller-setup,recovery-controller-setup,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/remediating-with-aws-security-agent,remediating-with-aws-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/resilience-hub-failure-mode-assessment,resilience-hub-failure-mode-assessment,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/resilience-hub-getting-started,resilience-hub-getting-started,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/resilience-hub-multi-account,resilience-hub-multi-account,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/resilience-program-design,resilience-program-design,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/route53,route53,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/routing-traffic-with-route53-and-cloudfront,routing-traffic-with-route53-and-cloudfront,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/running-release-tests,running-release-tests,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/scanning-with-aws-security-agent,scanning-with-aws-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/securing-s3-buckets,securing-s3-buckets,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setting-up-cloudtrail-multi-region,setting-up-cloudtrail-multi-region,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setting-up-cloudwatch-alarm-notifications,setting-up-cloudwatch-alarm-notifications,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setting-up-ec2-instance-profiles,setting-up-ec2-instance-profiles,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setup,setup,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setup-devops-agent,setup-devops-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/setup-security-agent,setup-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/shieldadvanced,shieldadvanced,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/signing-in-to-aws,signing-in-to-aws,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/sitetositevpn,sitetositevpn,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/storing-and-querying-vectors,storing-and-querying-vectors,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/threat-modeling-with-aws-security-agent,threat-modeling-with-aws-security-agent,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/timestream-influxdb,timestream-influxdb,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/transitgateway,transitgateway,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/troubleshooting-application-failures,troubleshooting-application-failures,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/troubleshooting-efs,troubleshooting-efs,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/troubleshooting-s3-files,troubleshooting-s3-files,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@aws/waf,waf,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
+@cua/driver,Cua Driver,0.11.0,true,cua,official
+@heygen-com/embedded-captions,embedded-captions,1.0.11,false,heygen-com,official
+@heygen-com/faceless-explainer,faceless-explainer,1.0.27,false,heygen-com,official
+@heygen-com/figma,figma,1.0.14,false,heygen-com,official
+@heygen-com/general-video,general-video,1.0.14,false,heygen-com,official
+@heygen-com/hyperframes,hyperframes,1.0.24,false,heygen-com,official
+@heygen-com/hyperframes-animation,hyperframes-animation,1.0.18,false,heygen-com,official
+@heygen-com/hyperframes-audio,hyperframes-audio,1.0.9,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.31,false,heygen-com,official
+@heygen-com/hyperframes-core,hyperframes-core,1.0.22,false,heygen-com,official
+@heygen-com/hyperframes-creative,hyperframes-creative,1.0.12,false,heygen-com,official
+@heygen-com/hyperframes-keyframes,HyperFrames Keyframes,1.0.5,false,heygen-com,official
+@heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
+@heygen-com/hyperframes-registry,hyperframes-registry,1.0.6,false,heygen-com,official
+@heygen-com/media-use,media-use,1.0.41,false,heygen-com,official
+@heygen-com/motion-graphics,motion-graphics,1.0.15,false,heygen-com,official
+@heygen-com/music-to-video,music-to-video,1.0.12,false,heygen-com,official
+@heygen-com/pr-to-video,pr-to-video,1.0.30,false,heygen-com,official
+@heygen-com/product-launch-video,product-launch-video,1.0.32,false,heygen-com,official
+@heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.7,false,heygen-com,official
+@heygen-com/slideshow,slideshow,1.0.10,false,heygen-com,official
+@heygen-com/talking-head-recut,talking-head-recut,1.0.9,false,heygen-com,official
+@heygen-com/website-to-video,Website To Video,1.0.7,false,heygen-com,official
+@huggingface/hf-cli,Hugging Face CLI,1.20.1,false,huggingface,official
+@huggingface/hf-mem,Hugging Face Memory Estimator,1.0.10,false,huggingface,official
+@huggingface/huggingface-datasets,Hugging Face Datasets,1.0.10,false,huggingface,official
+@huggingface/huggingface-gradio,Hugging Face Gradio,1.0.10,false,huggingface,official
+@huggingface/huggingface-local-models,Hugging Face Local Models,1.0.10,false,huggingface,official
+@huggingface/huggingface-lora-space-builder,Hugging Face LoRA Space Builder,1.0.10,false,huggingface,official
+@huggingface/huggingface-papers,Hugging Face Papers,1.0.10,false,huggingface,official
+@huggingface/huggingface-spaces,Hugging Face Spaces,1.0.10,false,huggingface,official
+@huggingface/huggingface-zerogpu,Hugging Face ZeroGPU,1.0.10,false,huggingface,official
+@huggingface/transformers-js,Transformers.js,1.0.10,false,huggingface,official
+@mapbox/mapbox-android-patterns,Mapbox Android Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-cartography,Mapbox Cartography,1.0.0,false,mapbox,official
+@mapbox/mapbox-data-visualization-patterns,Mapbox Data Visualization Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-geospatial-operations,Mapbox Geospatial Operations,1.0.0,false,mapbox,official
+@mapbox/mapbox-google-maps-migration,Mapbox Google Maps Migration,1.0.0,false,mapbox,official
+@mapbox/mapbox-ios-patterns,Mapbox iOS Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-maplibre-migration,Mapbox MapLibre Migration,1.0.0,false,mapbox,official
+@mapbox/mapbox-mcp-devkit-patterns,Mapbox MCP Devkit Patterns,1.1.0,false,mapbox,official
+@mapbox/mapbox-mcp-runtime-patterns,Mapbox MCP Runtime Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-search-integration,Mapbox Search Integration,1.0.0,false,mapbox,official
+@mapbox/mapbox-search-patterns,Mapbox Search Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-store-locator-patterns,Mapbox Store Locator Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-style-patterns,Mapbox Style Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-style-quality,Mapbox Style Quality,1.0.0,false,mapbox,official
+@mapbox/mapbox-token-security,Mapbox Token Security,1.0.0,false,mapbox,official
+@mapbox/mapbox-web-integration-patterns,Mapbox Web Integration Patterns,1.0.0,false,mapbox,official
+@mapbox/mapbox-web-performance-patterns,Mapbox Web Performance Patterns,1.0.0,false,mapbox,official
+@mvanhorn/last30days-official,Last30days Skill,3.1.0-open,false,mvanhorn,official
+@mvanhorn/last30days-v3-beta,last30days,3.0.0-open,false,mvanhorn,official
+@mvanhorn/manus,Manus,1.3.1,false,mvanhorn,official
+@mvanhorn/nano-triple,Nano Triple,1.2.0,false,mvanhorn,official
+@mvanhorn/parallel,Parallel,1.2.1,false,mvanhorn,official
+@mvanhorn/polymarket,Polymarket,1.2.1,false,mvanhorn,official
+@mvanhorn/remotion-server,Remotion Server,1.2.1,false,mvanhorn,official
+@mvanhorn/search-x,Search X,1.2.1,false,mvanhorn,official
+@mvanhorn/supabase-db,Supabase DB,1.2.1,false,mvanhorn,official
+@mvanhorn/tesla,Tesla,1.3.1,false,mvanhorn,official
+@mvanhorn/xai,xAI,1.3.1,false,mvanhorn,official
+@nvidia/accelerated-computing-cudf,accelerated-computing-cudf,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/aiq-deploy,aiq-deploy,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/aiq-research,aiq-research,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/amc-run-rtsp-calibration,amc-run-rtsp-calibration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/amc-run-sample-calibration,amc-run-sample-calibration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/amc-run-video-calibration,amc-run-video-calibration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/amc-setup-calibration-stack,amc-setup-calibration-stack,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cudaq-guide,cudaq-guide,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-developer,cuopt-developer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-install,cuopt-install,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-multi-objective-exploration,cuopt-multi-objective-exploration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-numerical-optimization-api,cuopt-numerical-optimization-api,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-numerical-optimization-formulation,cuopt-numerical-optimization-formulation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-routing-api-python,cuopt-routing-api-python,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cuopt-server-api-python,cuopt-server-api-python,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cupynumeric-hdf5,cupynumeric-hdf5,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cupynumeric-install,cupynumeric-install,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cupynumeric-migration-readiness,cupynumeric-migration-readiness,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/cupynumeric-parallel-data-load,cupynumeric-parallel-data-load,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dali-dynamic-mode,DALI Dynamic Mode,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/data-designer,data-designer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-dev,deepstream-dev,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-generate-pipeline,deepstream-generate-pipeline,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-import-vision-model,deepstream-import-vision-model,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-profile-pipeline,deepstream-profile-pipeline,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-run-mv3dt,deepstream-run-mv3dt,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/deepstream-sop,deepstream-sop,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dicom-metadata-extract,dicom-metadata-extract,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dicom-series-preflight,dicom-series-preflight,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dicom-series-to-volume,dicom-series-to-volume,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/digital-health-clinical-asr-build,digital-health-clinical-asr-build,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/digital-health-clinical-asr-eval,digital-health-clinical-asr-eval,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/digital-health-clinical-asr-finetune,digital-health-clinical-asr-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/digital-health-clinical-asr-setup,digital-health-clinical-asr-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-aes-gcm,doca-aes-gcm,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-argp,doca-argp,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-argus,doca-argus,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-bare-metal-deployment,doca-bare-metal-deployment,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-bench,doca-bench,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-bench-extension,doca-bench-extension,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-bf3-deployment,doca-bf3-deployment,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-bf4-deployment,doca-bf4-deployment,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-caps,doca-caps,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-collectx-deployment,doca-collectx-deployment,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-comch,doca-comch,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-common,doca-common,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-compress,doca-compress,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-container-deployment,doca-container-deployment,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-debug,doca-debug,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-devemu,doca-devemu,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-dma,doca-dma,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-dms,doca-dms,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-dpa,doca-dpa,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-dpa-hl-tracer,doca-dpa-hl-tracer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-dpdk-bridge,doca-dpdk-bridge,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-erasure-coding,doca-erasure-coding,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-eth,doca-eth,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-firefly,doca-firefly,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow,doca-flow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow-dpa-perf,doca-flow-dpa-perf,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow-dpa-provider,doca-flow-dpa-provider,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow-grpc-server,doca-flow-grpc-server,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow-perf,doca-flow-perf,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-flow-tune,doca-flow-tune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-gpi,doca-gpi,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-gpunetio,doca-gpunetio,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-gpunetio-ib-write-bw,doca-gpunetio-ib-write-bw,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-gpunetio-ib-write-lat,doca-gpunetio-ib-write-lat,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-hardware-safety,doca-hardware-safety,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-mgmt,doca-mgmt,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-pcc,doca-pcc,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-pcc-counters,doca-pcc-counters,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-pcc-ztr-rttcc-algo,doca-pcc-ztr-rttcc-algo,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-programming-guide,doca-programming-guide,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-public-knowledge-map,doca-public-knowledge-map,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-rdma,doca-rdma,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-rdmi,doca-rdmi,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-rmax,doca-rmax,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-setup,doca-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-sha,doca-sha,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-sha-offload-engine,doca-sha-offload-engine,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-socket-relay,doca-socket-relay,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-spcx-cc,doca-spcx-cc,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-sta,doca-sta,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-structured-tools-contract,doca-structured-tools-contract,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-telemetry,doca-telemetry,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-telemetry-exporter,doca-telemetry-exporter,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-telemetry-utils,doca-telemetry-utils,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-upgrade,doca-upgrade,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-urom,doca-urom,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-urom-svc,doca-urom-svc,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-verbs,doca-verbs,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/doca-version,doca-version,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dynamo-interconnect-check,dynamo-interconnect-check,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dynamo-recipe-runner,dynamo-recipe-runner,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dynamo-router-starter,dynamo-router-starter,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/dynamo-troubleshoot,dynamo-troubleshoot,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-create-datasource,earth2studio-create-datasource,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-create-diagnostic,earth2studio-create-diagnostic,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-create-prognostic,earth2studio-create-prognostic,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-data-fetch,earth2studio-data-fetch,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-deterministic-forecast,earth2studio-deterministic-forecast,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-discover,earth2studio-discover,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/earth2studio-install,earth2studio-install,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holohub-app-lifecycle,holohub-app-lifecycle,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holohub-debug-build-run,holohub-debug-build-run,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holohub-module-lifecycle,holohub-module-lifecycle,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-install-conda,holoscan-install-conda,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-install-container,holoscan-install-container,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-install-debian,holoscan-install-debian,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-install-source,holoscan-install-source,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-install-wheel,holoscan-install-wheel,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/holoscan-setup,holoscan-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-app,hsb-app,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-flash,hsb-flash,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-ip-create-top,hsb-ip-create-top,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-ip-def,hsb-ip-def,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-ip-packetizer,hsb-ip-packetizer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-setup,hsb-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/hsb-test,hsb-test,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation,i4h-catheter-navigation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-digital-twin,i4h-catheter-navigation-digital-twin,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-e2e,i4h-catheter-navigation-e2e,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-render-drr,i4h-catheter-navigation-render-drr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-setup,i4h-catheter-navigation-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-smoke,i4h-catheter-navigation-smoke,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-catheter-navigation-viewport,i4h-catheter-navigation-viewport,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-lerobot-viz,i4h-lerobot-viz,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow,i4h-workflow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-create,i4h-workflow-create,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-dataset-annotate,i4h-workflow-dataset-annotate,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-dataset-convert,i4h-workflow-dataset-convert,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-dataset-mimic,i4h-workflow-dataset-mimic,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-dataset-replay,i4h-workflow-dataset-replay,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-dataset-teleop,i4h-workflow-dataset-teleop,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-e2e,i4h-workflow-e2e,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-finetune,i4h-workflow-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-scene-edit,i4h-workflow-scene-edit,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-setup,i4h-workflow-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/i4h-workflow-validate,i4h-workflow-validate,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-build-source,jetson-build-source,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-camera,jetson-customize-camera,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-clocks,jetson-customize-clocks,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-fan,jetson-customize-fan,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-mgbe,jetson-customize-mgbe,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-nvpmodel,jetson-customize-nvpmodel,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-pcie,jetson-customize-pcie,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-pinmux,jetson-customize-pinmux,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-uphy,jetson-customize-uphy,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-customize-usb,jetson-customize-usb,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-derive-carrier,jetson-derive-carrier,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-diagnostic,jetson-diagnostic,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-download-bsp,jetson-download-bsp,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-flash-image,jetson-flash-image,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-generate-kb,jetson-generate-kb,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-headless-mode,jetson-headless-mode,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-inference-mem-tune,jetson-inference-mem-tune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-init-image,jetson-init-image,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-init-source,jetson-init-source,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-init-target,jetson-init-target,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-link-docs,jetson-link-docs,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-llm-benchmark,jetson-llm-benchmark,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-llm-serve,jetson-llm-serve,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-memory-audit,jetson-memory-audit,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-optimize-memory,jetson-optimize-memory,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-package,jetson-package,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-print-bsp-info,jetson-print-bsp-info,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-print-device-info,jetson-print-device-info,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-promote-image,jetson-promote-image,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-quick-start,jetson-quick-start,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-set-target,jetson-set-target,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-speculative-decoding,jetson-speculative-decoding,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-validate-image,jetson-validate-image,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-video-benchmark,jetson-video-benchmark,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-video-capability,jetson-video-capability,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-video-pipeline,jetson-video-pipeline,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-video-recipe,jetson-video-recipe,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/jetson-video-setup,jetson-video-setup,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/launch-nemo-rl,launch-nemo-rl,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/mcore-create-issue,mcore-create-issue,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/mcore-linting-and-formatting,mcore-linting-and-formatting,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/mcore-run-on-slurm,mcore-run-on-slurm,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/mcore-split-pr,mcore-split-pr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/mcore-testing,mcore-testing,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-automodel-distributed-training,nemo-automodel-distributed-training,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-automodel-launcher-config,nemo-automodel-launcher-config,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-automodel-model-onboarding,nemo-automodel-model-onboarding,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-automodel-recipe-development,nemo-automodel-recipe-development,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-fabric-build-adapter,NVIDIA NeMo Fabric Adapter Builder,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-fabric-integrate,nemo-fabric-integrate,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-mlm-bridge-training,nemo-mbridge-mlm-bridge-training,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-multi-node-slurm,nemo-mbridge-multi-node-slurm,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-activation-recompute,nemo-mbridge-perf-activation-recompute,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-cpu-offloading,nemo-mbridge-perf-cpu-offloading,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-cuda-graphs,nemo-mbridge-perf-cuda-graphs,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-expert-parallel-overlap,nemo-mbridge-perf-expert-parallel-overlap,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-hierarchical-context-parallel,nemo-mbridge-perf-hierarchical-context-parallel,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-megatron-fsdp,nemo-mbridge-perf-megatron-fsdp,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-memory-tuning,nemo-mbridge-perf-memory-tuning,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-comm-overlap,nemo-mbridge-perf-moe-comm-overlap,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-dispatcher-selection,nemo-mbridge-perf-moe-dispatcher-selection,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-hardware-configs,nemo-mbridge-perf-moe-hardware-configs,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-long-context,nemo-mbridge-perf-moe-long-context,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-optimization-workflow,nemo-mbridge-perf-moe-optimization-workflow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-moe-vlm-training,nemo-mbridge-perf-moe-vlm-training,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-parallelism-strategies,nemo-mbridge-perf-parallelism-strategies,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-sequence-packing,nemo-mbridge-perf-sequence-packing,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-perf-tp-dp-comm-overlap,nemo-mbridge-perf-tp-dp-comm-overlap,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-recipe-recommender,nemo-mbridge-recipe-recommender,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-mbridge-resiliency,nemo-mbridge-resiliency,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-debug-runtime-integration,nemo-relay-debug-runtime-integration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-get-started,nemo-relay-get-started,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-install,nemo-relay-install,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-instrument-calls,nemo-relay-instrument-calls,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-instrument-context-isolation,nemo-relay-instrument-context-isolation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-instrument-typed-wrappers,nemo-relay-instrument-typed-wrappers,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-migrate-from-flow,nemo-relay-migrate-from-flow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-plugin-adaptive-tuning,nemo-relay-plugin-adaptive-tuning,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-plugin-build,nemo-relay-plugin-build,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-relay-plugin-observability,nemo-relay-plugin-observability,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-retriever,nemo-retriever,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-rl-auto-research,nemo-rl-auto-research,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-rl-brev-etiquette,nemo-rl-brev-etiquette,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-rl-docs,nemo-rl-docs,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemo-rl-session-memory,nemo-rl-session-memory,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemoclaw-user-guide,nemoclaw-user-guide,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemotron-asr-finetune,nemotron-asr-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemotron-customize,nemotron-customize,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemotron-policy-generator,nemotron-policy-generator,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemotron-retrieval-recipes,nemotron-retrieval-recipes,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nemotron-speech,nemotron-speech,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-generate-ct-rflow,nv-generate-ct-rflow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-generate-mr,nv-generate-mr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-generate-mr-brain,nv-generate-mr-brain,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-generate-mr-brain-finetune,nv-generate-mr-brain-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-generate-vae-finetune,nv-generate-vae-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-reason-cxr,nv-reason-cxr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-segment-ct,nv-segment-ct,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-segment-ct-finetune,nv-segment-ct-finetune,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nv-segment-ctmr,nv-segment-ctmr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/nvidia-skill-finder,NVIDIA Skill Finder,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/omniverse-cad-to-simready,CAD to SimReady,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/omniverse-realtime-viewer,Omniverse Realtime Viewer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/omniverse-usd-performance-tuning,USD Performance Tuning,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/paidf-anomalygen,paidf-anomalygen,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physical-ai-defect-image-generation,physical-ai-defect-image-generation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physical-ai-image-attribute-augmentation,physical-ai-image-attribute-augmentation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physical-ai-infrastructure-setup-and-resilient-scaling,physical-ai-infrastructure-setup-and-resilient-scaling,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physical-ai-neural-reconstruction,physical-ai-neural-reconstruction,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physical-ai-video-data-augmentation,physical-ai-video-data-augmentation,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physicsnemo-discover,physicsnemo-discover,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/physicsnemo-shard-tensor,physicsnemo-shard-tensor,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/portfolio-optimization,portfolio-optimization,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rag-blueprint,rag-blueprint,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rag-eval,rag-eval,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rag-perf,rag-perf,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rtvi-cv-customize-model,rtvi-cv-customize-model,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rtvi-cv-scaffold-vss-service,RTVI VSS CV Service,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/rtvi-vlm-customize-model,rtvi-vlm-customize-model,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/skill-card-generator,skill-card-generator,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-analyze-changenet-rca,tao-analyze-changenet-rca,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-analyze-gaps-visual-changenet,tao-analyze-gaps-visual-changenet,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-analyze-gaps-vlm-bcq,tao-analyze-gaps-vlm-bcq,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-convert-dataset-format,tao-convert-dataset-format,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-finetune-clip,tao-finetune-clip,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-finetune-cosmos-embed,tao-finetune-cosmos-embed,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-finetune-cosmos-reason,tao-finetune-cosmos-reason,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-finetune-huggingface-model,tao-finetune-huggingface-model,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-generate-image-grounding,tao-generate-image-grounding,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-generate-referring-expressions,tao-generate-referring-expressions,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-generate-video-reasoning-annotations,tao-generate-video-reasoning-annotations,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-launch-workflow,tao-launch-workflow,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-list-capabilities,tao-list-capabilities,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-mine-aoi-images,tao-mine-aoi-images,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-port-huggingface-model,tao-port-huggingface-model,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-route-visual-changenet-samples,tao-route-visual-changenet-samples,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-automl,tao-run-automl,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-automl-deft-pipeline,tao-run-automl-deft-pipeline,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-deft-aoi,tao-run-deft-aoi,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-inference-service,tao-run-inference-service,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-on-brev,tao-run-on-brev,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-on-docker,tao-run-on-docker,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-on-kubernetes,tao-run-on-kubernetes,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-on-local-docker,tao-run-on-local-docker,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-on-slurm,tao-run-on-slurm,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-run-platform,tao-run-platform,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-setup-nvidia-gpu-host,tao-setup-nvidia-gpu-host,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-action-recognition,tao-train-action-recognition,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-bevfusion,tao-train-bevfusion,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-centerpose,tao-train-centerpose,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-deformable-detr,tao-train-deformable-detr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-depth-anything-v2,tao-train-depth-anything-v2,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-dino,tao-train-dino,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-fast-foundation-stereo,tao-train-fast-foundation-stereo,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-foundation-stereo,tao-train-foundation-stereo,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-grounding-dino,tao-train-grounding-dino,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-image-classification,tao-train-image-classification,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-mask-auto-encoder,tao-train-mask-auto-encoder,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-mask-auto-label,tao-train-mask-auto-label,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-mask-grounding-dino,tao-train-mask-grounding-dino,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-mask2former,tao-train-mask2former,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-metric-learning-recognition,tao-train-metric-learning-recognition,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-nvdinov2,tao-train-nvdinov2,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-nvpanoptix3d,tao-train-nvpanoptix3d,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-ocdnet,tao-train-ocdnet,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-ocrnet,tao-train-ocrnet,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-oneformer,tao-train-oneformer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-optical-inspection,tao-train-optical-inspection,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-pointpillars,tao-train-pointpillars,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-pose-classification,tao-train-pose-classification,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-reid,tao-train-reid,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-rtdetr,tao-train-rtdetr,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-segformer,tao-train-segformer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-single-step,tao-train-single-step,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-sparse4d,tao-train-sparse4d,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-train-visual-changenet,tao-train-visual-changenet,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tao-validate-dataset-format,tao-validate-dataset-format,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-adding-cutile-kernel,tilegym-adding-cutile-kernel,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-converting-cutile-to-julia,tilegym-converting-cutile-to-julia,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-converting-cutile-to-triton,tilegym-converting-cutile-to-triton,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-cutile-autotuning,tilegym-cutile-autotuning,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-cutile-python,tilegym-cutile-python,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-improve-cutile-kernel-perf,tilegym-improve-cutile-kernel-perf,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/tilegym-monkey-patch-kernels-to-transformers,tilegym-monkey-patch-kernels-to-transformers,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-ask-video,vss-ask-video,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-deploy-dense-captioning,vss-deploy-dense-captioning,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-deploy-detection-tracking-2d,vss-deploy-detection-tracking-2d,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-deploy-detection-tracking-3d,vss-deploy-detection-tracking-3d,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-deploy-profile,vss-deploy-profile,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-deploy-video-embedding,vss-deploy-video-embedding,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-generate-video-calibration,vss-generate-video-calibration,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-generate-video-report,vss-generate-video-report,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-manage-alerts,vss-manage-alerts,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-manage-video-io-storage,vss-manage-video-io-storage,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-query-analytics,vss-query-analytics,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-search-archive,vss-search-archive,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-setup-behavior-analytics,vss-setup-behavior-analytics,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-setup-video-analytics-api,vss-setup-video-analytics-api,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/vss-summarize-video,vss-summarize-video,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/warp-compile-time-optimizer,warp-compile-time-optimizer,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/warp-debug-gradients,warp-debug-gradients,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@nvidia/warp-eval,warp-eval,73a7813441fe714f9cfcb84755cf9ad4bb8e8cae,false,nvidia,official
+@openclaw/codex-owner-move-1778257136,Codex Owner Move E2E,0.0.2,false,openclaw,official
+@openclaw/discrawl,Discrawl,1.0.0,false,openclaw,official
+@openclaw/gitcrawl,Gitcrawl,1.0.0,false,openclaw,official
+@openclaw/graincrawl,Graincrawl,1.0.1,false,openclaw,official
+@openclaw/notcrawl,Notcrawl,1.0.1,false,openclaw,official
+@openclaw/release-validation,Openclaw Release Validation,0.1.3,false,openclaw,official
+@openclaw/slacrawl,Slacrawl,1.0.1,false,openclaw,official
+@opensea/opensea-marketplace,Opensea Skill,2.20.0,false,opensea,official
+@sdk-team/alibabacloud-ack-cli,alibabacloud-ack-cli,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-actiontrail-diagnosis,alibabacloud-actiontrail-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aes-ack-pod-performance-profiling,Alibabacloud Aes Ack Pod Performance Profiling,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aes-sysom-lingjun-diagnosis,alibabacloud-aes-sysom-lingjun-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aes-sysom-os-diagnosis,Alibabacloud Aes Sysom Os Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aes-sysom-pai-diagnosis,Alibabacloud Aes Sysom Pai Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agent-identity-agentrun-e2e,alibabacloud-agent-identity-agentrun-e2e,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-agent-toolkit-install,Alibabacloud Agent Toolkit Install,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agentbay-aio-skills,Alibabacloud Agentbay Aio Skills,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agentloop-contextstore,Alibabacloud Agentloop Contextstore,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agentloop-dataset,Alibabacloud Agentloop Dataset,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agentloop-evaluation,alibabacloud-agentloop-evaluation,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-agentloop-experience,Alibabacloud Agentloop Experience,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-agentloop-management,alibabacloud-agentloop-management,0.1.3,false,sdk-team,official
+@sdk-team/alibabacloud-ai-innovation-lab-skill,Alibabacloud Ai Innovation Lab Skill,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aidbs-dgate-skill,alibabacloud-aidbs-dgate-skill,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-aisc-skill-inspection,Alibabacloud Aisc Skill Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ak-leak-incident-response,alibabacloud-ak-leak-incident-response,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-alb-ingress-doctor,alibabacloud-alb-ingress-doctor,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-alert-intent-router,Alibabacloud Alert Intent Router,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-alinux-sysom-inspection,alibabacloud-alinux-sysom-inspection,0.0.4,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-mysql-copilot,Alibabacloud Analyticdb Mysql Copilot,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-mysql-serverless-analysis,alibabacloud-analyticdb-mysql-serverless-analysis,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-postgresql-ai-coaching-best-practice,Alibabacloud Analyticdb Postgresql Ai Coaching Best Practice,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-postgresql-knowledgebase-ops,Alibabacloud Analyticdb Postgresql Knowledgebase Ops,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-postgresql-query,Alibabacloud Analyticdb Postgresql Query,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-analyticdb-postgresql-supabase-ops,Alibabacloud Analyticdb Postgresql Supabase Ops,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-apigw-inspection,Alibabacloud Apigw Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-avatar-video,Alibabacloud Avatar Video,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-image-creator,Alibabacloud Bailian Image Creator,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-memory,alibabacloud-bailian-memory,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-rag-knowledgebase,Alibabacloud Bailian Rag Knowledgebase,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-video-creator,Alibabacloud Bailian Video Creator,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-videoanalysis,Alibabacloud Bailian Videoanalysis,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-bailian-voice-creator,Alibabacloud Bailian Voice Creator,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cadt-arch-draw,Alibabacloud Cadt Arch Draw,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cadt-deploy-on-aliyun,Alibabacloud Cadt Deploy On Aliyun,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cadt-probe,Alibabacloud Cadt Probe,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cas-ssl-cert-deploy,alibabacloud-cas-ssl-cert-deploy,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cas-ssl-cert-purchase,alibabacloud-cas-ssl-cert-purchase,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cas-ssl-common-tools,alibabacloud-cas-ssl-common-tools,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cdn-refresh-preload,alibabacloud-cdn-refresh-preload,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-acl-diagnosis,Alibabacloud Cfw Acl Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-exposure-detection,Alibabacloud Cfw Exposure Detection,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-internet-firewall-protect,Alibabacloud Cfw Internet Firewall Protect,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-ips-event,Alibabacloud Cfw Ips Event,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-nat-firewall-protect,alibabacloud-cfw-nat-firewall-protect,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cfw-status-overview,Alibabacloud Cfw Status Overview,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-chatapp-message-send,Alibabacloud Chatapp Message Send,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cksync-plan,Alibabacloud Cksync Plan,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cleversee-search,Alibabacloud Cleversee Search,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-cli-guidance,Alibabacloud Cli Guidance,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cloud-native-internet-diagnostics,alibabacloud-cloud-native-internet-diagnostics,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cloudbackup-ecs-file-backup-essential-edition,Alibabacloud Cloudbackup Ecs File Backup Essential Edition,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cloudfw-vpc-firewall-diagnosis,Alibabacloud Cloudfw Vpc Firewall Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cms-alert-rule-create,Alibabacloud Cms Alert Rule Create,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cms-dataset,Alibabacloud Cms Dataset,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cms-manage,alibabacloud-cms-manage,1.0.4,false,sdk-team,official
+@sdk-team/alibabacloud-compute-provision,Alibabacloud Compute Provision,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-csas-user-device-ops,Alibabacloud Csas User Device Ops,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-das-agent,Alibabacloud Das Agent,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-data-agent-skill,Alibabacloud Data Agent Skill,1.8.5,false,sdk-team,official
+@sdk-team/alibabacloud-datahub-manage,Alibabacloud Datahub Manage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dataphin-skills,alibabacloud-dataphin-skills,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-data-agent,Alibabacloud Dataworks Data Agent,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-data-governance,Alibabacloud Dataworks Data Governance,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-data-ops,Alibabacloud Dataworks Data Ops,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-data-quality,Alibabacloud Dataworks Data Quality,0.0.1-beta.2,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-datastudio-develop,Alibabacloud Dataworks Datastudio Develop,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-infra-manage,Alibabacloud Dataworks Infra Manage,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-metadata,Alibabacloud Dataworks Metadata,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-workspace-manage,Alibabacloud Dataworks Workspace Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ddos-native-intercept-query,Alibabacloud Ddos Native Intercept Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ddos-origin-exposure-detector,alibabacloud-ddos-origin-exposure-detector,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ddos-security-monitor,Alibabacloud Ddos Security Monitor,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ddoscoo-domain-configuration-backup,Alibabacloud Ddoscoo Domain Configuration Backup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ddoscoo-intercept-query,Alibabacloud Ddoscoo Intercept Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-devops,alibabacloud-devops,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-dlf-manage,Alibabacloud Dlf Manage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dms-data-agent-platform-setup,Alibabacloud Dms Data Agent Platform Setup,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-dms-skill,Alibabacloud Dms Skill,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-dns-resolve-diagnose,Alibabacloud Dns Resolve Diagnose,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-dns-resolve-diagnose-customer,alibabacloud-dns-resolve-diagnose-customer,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-docmind-parse,Alibabacloud Docmind Parse,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dsc-audit,alibabacloud-dsc-audit,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-dts-task-manager,Alibabacloud Dts Task Manager,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-dts-task-query,Alibabacloud Dts Task Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ebs-disk-metric-analyzer,Alibabacloud Ebs Disk Metric Analyzer,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ebs-disk-snapshot-management,alibabacloud-ebs-disk-snapshot-management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ebs-usage-summary,alibabacloud-ebs-usage-summary,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-code-deploy,alibabacloud-ecs-code-deploy,1.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-diagnose,Alibabacloud Ecs Diagnose,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-disaster-recovery-image,Alibabacloud Ecs Disaster Recovery Image,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-disaster-recovery-snapshot,Alibabacloud Ecs Disaster Recovery Snapshot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-gpu-diagnosis,alibabacloud-ecs-gpu-diagnosis,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-health-inspection,Alibabacloud Ecs Health Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-install-extension,Alibabacloud Ecs Install Extension,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-linux-os-troubleshooting,alibabacloud-ecs-linux-os-troubleshooting,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-patch-management,Alibabacloud Ecs Patch Management,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-reboot-or-crash-diagnosis,Alibabacloud Ecs Reboot Or Crash Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-vpc-publicnetwork-troubleshoot,Alibabacloud Ecs Vpc Publicnetwork Troubleshoot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ehpc-instant-job-skill,Alibabacloud Ehpc Instant Job Skill,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-elasticsearch-instance-diagnose,Alibabacloud Elasticsearch Instance Diagnose,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-elasticsearch-instance-manage,Alibabacloud Elasticsearch Instance Manage,0.0.5,false,sdk-team,official
+@sdk-team/alibabacloud-elasticsearch-log-config-generator,Alibabacloud Elasticsearch Log Config Generator,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-elasticsearch-network-manage,Alibabacloud Elasticsearch Network Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-emas-apm-query,Alibabacloud Emas Apm Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-emas-apm-remotelog,Alibabacloud Emas Apm Remotelog,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-emr-cluster-manage,Alibabacloud Emr Cluster Manage,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-emr-spark-manage,Alibabacloud Emr Spark Manage,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-emr-starrocks-assistant,Alibabacloud Emr Starrocks Assistant,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-emr-starrocks-manage,Alibabacloud Emr Starrocks Manage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-error-troubleshoot,Alibabacloud Error Troubleshoot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-esa-pages-deploy,Alibabacloud Esa Pages Deploy,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-find-skills,Alibabacloud Find Skills,0.0.10,false,sdk-team,official
+@sdk-team/alibabacloud-finops-inspect,Alibabacloud Finops Inspect,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-flink-instance-manage,Alibabacloud Flink Instance Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-flink-knowledge,Alibabacloud Flink Knowledge,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-flink-python-coding,alibabacloud-flink-python-coding,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-flink-workspace-ops,alibabacloud-flink-workspace-ops,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-governance-evaluation-report,alibabacloud-governance-evaluation-report,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-help-doc-search,alibabacloud-help-doc-search,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-history-lock-diagnose,Alibabacloud History Lock Diagnose,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-hologres-instance-manage,Alibabacloud Hologres Instance Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-httpdns,Alibabacloud Httpdns,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-icpba-sucessdata-query,Alibabacloud Icpba Sucessdata Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-iqs-search,Alibabacloud Iqs Search,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-iqs-weather-query,Alibabacloud Iqs Weather Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-kafka-capacity-assessment,Alibabacloud Kafka Capacity Assessment,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-kms-secret-manage,Alibabacloud Kms Secret Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-kvstore-health-inspection,Alibabacloud Kvstore Health Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-lb-healthcheck,alibabacloud-lb-healthcheck,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-lindorm-agent-skill,Alibabacloud Lindorm Agent Skill,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-lindorm-vector-migrate-skill,Alibabacloud Lindorm Vector Migrate Skill,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-livedebug,alibabacloud-livedebug,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-liverecord-diagnosis,Alibabacloud Liverecord Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-loongcollector-ops,alibabacloud-loongcollector-ops,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-maxcompute-migration-service,Alibabacloud Maxcompute Migration Service,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-maxframe-video-frame-pipeline,Alibabacloud Maxframe Video Frame Pipeline,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-mcp-core-script-generate,Alibabacloud Mcp Core Script Generate,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-media-diagnostics,alibabacloud-media-diagnostics,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migrate,Alibabacloud Migrate,0.0.1-beta.2,false,sdk-team,official
+@sdk-team/alibabacloud-migration-db-evaluation-collector,alibabacloud-migration-db-evaluation-collector,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-dbm-oracle-traffic-capture,alibabacloud-migration-dbm-oracle-traffic-capture,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-lhm-inspect-hive-metastore,alibabacloud-migration-lhm-inspect-hive-metastore,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-lhm-migrate-hive-to-paimon,alibabacloud-migration-lhm-migrate-hive-to-paimon,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-mas-cloud-migration-survey,Alibabacloud Migration Mas Cloud Migration Survey,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-mas-product-mapping,Alibabacloud Migration Mas Product Mapping,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-mas-solution,Alibabacloud Migration Mas Solution,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-migration-sdm-sql-trans,Alibabacloud Migration Sdm Sql Trans,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-milvus-manage,Alibabacloud Milvus Manage,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-mining-attack-diagnosis,alibabacloud-mining-attack-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-mongodb-health-inspect,Alibabacloud Mongodb Health Inspect,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-mongodb-instances-manage,Alibabacloud Mongodb Instances Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-mse-nacos-inspection,Alibabacloud Mse Nacos Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-mtr-network-diagnosis-customer,alibabacloud-mtr-network-diagnosis-customer,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-nas-mount-diagnosis,Alibabacloud Nas Mount Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-alb-http-to-https,Alibabacloud Network Alb Http To Https,0.0.1-beta.2,false,sdk-team,official
+@sdk-team/alibabacloud-network-connect-with-ipsec-vpn,Alibabacloud Network Connect With Ipsec Vpn,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-diagnose,alibabacloud-network-diagnose,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-eip-associate,Alibabacloud Network Eip Associate,0.0.1-beta.2,false,sdk-team,official
+@sdk-team/alibabacloud-network-ga-deploy-acceleration,Alibabacloud Network Ga Deploy Acceleration,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-health-inspection,Alibabacloud Network Health Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-mtr-diagnosis,Alibabacloud Network Mtr Diagnosis,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-network-reachability-analysis,Alibabacloud Network Reachability Analysis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-nginx-ingress-to-api-gateway,Alibabacloud Nginx Ingress To Api Gateway,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-odps-cost-analysis,Alibabacloud Odps Cost Analysis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-odps-information-schema,Alibabacloud Odps Information Schema,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-odps-maxframe-coding,Alibabacloud Odps Maxframe Coding,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-odps-project-manage,Alibabacloud Odps Project Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-odps-quota-manage,Alibabacloud Odps Quota Manage,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-odps-sql-generation,Alibabacloud Odps Sql Generation,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-oos-chatops-agent,Alibabacloud Oos Chatops Agent,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-oos-template-generation,Alibabacloud Oos Template Generation,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-opc-advisor,alibabacloud-opc-advisor,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-opc-deploy,Alibabacloud Opc Deploy,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-openclaw-ecs-dingtalk,Alibabacloud Openclaw Ecs Dingtalk,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-opensearch-app-manage,Alibabacloud Opensearch App Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-oss-manage-cron-upload,Alibabacloud Oss Manage Cron Upload,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-oss-manage-metaquery,Alibabacloud Oss Manage Metaquery,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-oss-manage-network-probe,Alibabacloud Oss Manage Network Probe,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-oss-media-process,Alibabacloud Oss Media Process,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-dlc-job,alibabacloud-pai-dlc-job,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-pai-dlc-job-diagnostics,Alibabacloud Pai Dlc Job Diagnostics,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-dsw-manage,Alibabacloud Pai Dsw Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-pai-eas-service-deploy,Alibabacloud Pai Eas Service Deploy,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-eas-service-diagnose,Alibabacloud Pai Eas Service Diagnose,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-feature-store-featuredb-usage-query,Alibabacloud Pai Feature Store Featuredb Usage Query,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-pai-node-management,Alibabacloud Pai Node Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-quota-management,Alibabacloud Pai Quota Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-rec-diagnosis,Alibabacloud Pai Rec Diagnosis,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-pai-resource-group-management,Alibabacloud Pai Resource Group Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pai-workspace-manage,Alibabacloud Pai Workspace Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-pds-intelligent-workspace,alibabacloud-pds-intelligent-workspace,0.0.7,false,sdk-team,official
+@sdk-team/alibabacloud-pds-multimodal-search,Alibabacloud Pds Multimodal Search,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-polardb-ai-assistant,Alibabacloud Polardb Ai Assistant,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-polardb-mysql-inspection,Alibabacloud Polardb Mysql Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-polardb-mysql-sql-lint,Alibabacloud Polardb Mysql Sql Lint,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-polardbx-ai-assistant,Alibabacloud Polardbx Ai Assistant,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-polardbx-ops,alibabacloud-polardbx-ops,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-polardbx-sql,Alibabacloud Polardbx Sql,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-pts-ops,Alibabacloud Pts Ops,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pts-pilot,Alibabacloud Pts Pilot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pts-reporter,Alibabacloud Pts Reporter,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pts-task,Alibabacloud Pts Task,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-quickbi-smartq,Alibabacloud Quickbi Smartq,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ram-permission-diagnose,Alibabacloud Ram Permission Diagnose,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-rds-copilot,alibabacloud-rds-copilot,0.0.5,false,sdk-team,official
+@sdk-team/alibabacloud-rds-instances-manage,alibabacloud-rds-instances-manage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-rds-mysql-inspection,Alibabacloud Rds Mysql Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-rds-postgresql-inspection,Alibabacloud Rds Postgresql Inspection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-remote-skills-connector,alibabacloud-remote-skills-connector,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-resourcecenter-search,Alibabacloud Resourcecenter Search,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-rocketmq-inspection,alibabacloud-rocketmq-inspection,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-safety-checker,Alibabacloud Safety Checker,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sas-alert-handler,Alibabacloud Sas Alert Handler,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sas-incident-manage,Alibabacloud Sas Incident Manage,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sas-install-agent,Alibabacloud Sas Install Agent,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sas-log-to-oss,alibabacloud-sas-log-to-oss,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sas-malware-detection,Alibabacloud Sas Malware Detection,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sas-multiaccount-manage,Alibabacloud Sas Multiaccount Manage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sas-openclaw-security,Alibabacloud Sas Openclaw Security,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sas-overview,Alibabacloud Sas Overview,0.0.4,false,sdk-team,official
+@sdk-team/alibabacloud-sase-pa-network-diagnosis,Alibabacloud Sase Pa Network Diagnosis,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-sdk-client-initialization-for-golang,Alibabacloud Sdk Client Initialization For Golang,0.0.1-beta,false,sdk-team,official
+@sdk-team/alibabacloud-security-health-check,Alibabacloud Security Health Check,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-security-vuln-coverage-check,Alibabacloud Security Vuln Coverage Check,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sls-agent-workflow,alibabacloud-sls-agent-workflow,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sls-data-agent,Alibabacloud Sls Data Agent,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sls-index-config-management,Alibabacloud Sls Index Config Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sls-query,Alibabacloud Sls Query,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sls-sdk-guidance,Alibabacloud Sls Sdk Guidance,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-smartag-pilot,Alibabacloud Smartag Pilot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sms-send-short-message,Alibabacloud Sms Send Short Message,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-solution-deploy,Alibabacloud Solution Deploy,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sre-toolkit,Alibabacloud Sre Toolkit,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-starops-chat,Alibabacloud Starops Chat,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-sysom-diagnosis,alibabacloud-sysom-diagnosis,0.0.6,false,sdk-team,official
+@sdk-team/alibabacloud-tablestore-agent-storage,Alibabacloud Tablestore Agent Storage,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-tablestore-openclaw-memory,Alibabacloud Tablestore Openclaw Memory,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-tablestore-ops,Alibabacloud Tablestore Ops,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-tair-ai-assistant,Alibabacloud Tair Ai Assistant,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-tair-devtoolset,Alibabacloud Tair Devtoolset,0.0.3,false,sdk-team,official
+@sdk-team/alibabacloud-tech-solution-animation-creation-auto-deploy,Alibabacloud Tech Solution Animation Creation Auto Deploy,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-terraform-code-generation,Alibabacloud Terraform Code Generation,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-terraform-import,Alibabacloud Terraform Import,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-video-editor,Alibabacloud Video Editor,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-video-forge,Alibabacloud Video Forge,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-video-prompt-architect,alibabacloud-video-prompt-architect,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-video-translation,Alibabacloud Video Translation,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-vms-smart-call-by-tts,Alibabacloud Vms Smart Call By Tts,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-billing-backup,alibabacloud-waf-billing-backup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-bot-management,Alibabacloud Waf Bot Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-checkresponse-intercept-query,Alibabacloud Waf Checkresponse Intercept Query,0.0.4,false,sdk-team,official
+@sdk-team/alibabacloud-waf-cname-config-export,Alibabacloud Waf Cname Config Export,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-config-backup,Alibabacloud Waf Config Backup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-lua-extension-dev,alibabacloud-waf-lua-extension-dev,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-protectionconfig-backup,Alibabacloud Waf Protectionconfig Backup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-quick-showcase,Alibabacloud Waf Quick Showcase,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-waf-report,alibabacloud-waf-report,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-rule-effectiveness-check,alibabacloud-waf-rule-effectiveness-check,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-rule-management,Alibabacloud Waf Rule Management,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-waf-security-monitor,Alibabacloud Waf Security Monitor,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-website-malware-check,alibabacloud-website-malware-check,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-website-probe,alibabacloud-website-probe,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-workbench-cli,alibabacloud-workbench-cli,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-wxz-website-builder,Alibabacloud Wxz Website Builder,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-yike-cli,alibabacloud-yike-cli,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-yike-storyboard,Alibabacloud Yike Storyboard,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-yunxiao-flow-analysis,Alibabacloud Yunxiao Flow Analysis,0.0.1,false,sdk-team,official
+@shopify/shop,Shop,1.0.5,false,shopify,official
+@spotify/save-to-spotify,Save To Spotify,0.2.0,false,spotify,official
+@steipete/1password,1password,1.0.1,false,steipete,official
+@steipete/apple-notes,Apple Notes,1.0.0,false,steipete,official
+@steipete/apple-reminders,Apple Reminders,1.0.0,false,steipete,official
+@steipete/bear-notes,Bear Notes,1.0.0,false,steipete,official
+@steipete/blogwatcher,Blogwatcher,1.0.0,false,steipete,official
+@steipete/blucli,Blucli,1.0.0,false,steipete,official
+@steipete/brave-search,Brave Search,1.0.1,false,steipete,official
+@steipete/camsnap,Camsnap,1.0.0,false,steipete,official
+@steipete/clawdhub,Clawdhub,1.0.0,false,steipete,official
+@steipete/codex-owner-move-1778256696,Codex Owner Move E2E,0.0.1,false,steipete,official
+@steipete/codex-owner-move-1778256762,Codex Owner Move E2E,0.0.1,false,steipete,official
+@steipete/codex-owner-move-1778256848,Codex Owner Move E2E,0.0.1,false,steipete,official
+@steipete/codex-owner-move-debug-1778256957,Codex Owner Move Debug,0.0.1,false,steipete,official
+@steipete/codex-owner-move-debug-1778257045,Codex Owner Move Debug,0.0.1,false,steipete,official
+@steipete/codex-owner-move-debug-1778257077,Codex Owner Move Debug,0.0.1,false,steipete,official
+@steipete/create-cli,Create Cli,1.0.0,false,steipete,official
+@steipete/discord,Discord,1.0.1,false,steipete,official
+@steipete/domain-dns-ops,Domain Dns Ops,1.0.0,false,steipete,official
+@steipete/eightctl,Eightctl,1.0.0,false,steipete,official
+@steipete/food-order,Food Order,1.0.0,false,steipete,official
+@steipete/gemini,Gemini,1.0.0,false,steipete,official
+@steipete/gifgrep,Gifgrep,1.0.1,false,steipete,official
+@steipete/github,Github,1.0.0,false,steipete,official
+@steipete/gog,Gog,1.0.0,false,steipete,official
+@steipete/goplaces,Goplaces,1.0.0,false,steipete,official
+@steipete/imsg,Imsg,1.0.0,false,steipete,official
+@steipete/instruments-profiling,Instruments Profiling,1.0.0,false,steipete,official
+@steipete/local-places,Local Places,1.0.0,false,steipete,official
+@steipete/markdown-converter,Markdown Converter,1.0.0,false,steipete,official
+@steipete/mcporter,Mcporter,1.0.0,false,steipete,official
+@steipete/model-usage,Model Usage,1.0.0,false,steipete,official
+@steipete/nameplate-attention,Nameplate Attention,1.0.0,false,steipete,official
+@steipete/nano-banana-pro,Nano Banana Pro,1.0.1,false,steipete,official
+@steipete/nano-pdf,Nano Pdf,1.0.0,false,steipete,official
+@steipete/native-app-performance,Native App Performance,1.0.0,false,steipete,official
+@steipete/notion,Notion,1.0.0,false,steipete,official
+@steipete/obsidian,Obsidian,1.0.0,false,steipete,official
+@steipete/openai-image-gen,Openai Image Gen,1.0.1,false,steipete,official
+@steipete/openai-whisper,Openai Whisper,1.0.0,false,steipete,official
+@steipete/openai-whisper-api,Openai Whisper Api,1.0.0,false,steipete,official
+@steipete/openhue,Openhue,1.0.0,false,steipete,official
+@steipete/oracle,Oracle,1.0.1,false,steipete,official
+@steipete/ordercli,Ordercli,1.0.0,false,steipete,official
+@steipete/peekaboo,Peekaboo,1.0.0,false,steipete,official
+@steipete/qmd,Qmd,1.0.0,false,steipete,official
+@steipete/sag,Sag,1.0.0,false,steipete,official
+@steipete/slack,Slack,1.0.0,true,steipete,official
+@steipete/songsee,Songsee,1.0.0,false,steipete,official
+@steipete/sonoscli,Sonoscli,1.0.0,false,steipete,official
+@steipete/spotify-player,Spotify Player,1.0.0,false,steipete,official
+@steipete/swift-concurrency-expert,Swift Concurrency Expert,1.0.0,false,steipete,official
+@steipete/swiftui-liquid-glass,Swiftui Liquid Glass,1.0.0,false,steipete,official
+@steipete/swiftui-performance-audit,Swiftui Performance Audit,1.0.0,false,steipete,official
+@steipete/swiftui-view-refactor,Swiftui View Refactor,1.0.0,false,steipete,official
+@steipete/things-mac,Things Mac,1.0.0,false,steipete,official
+@steipete/tmux,Tmux,1.0.0,false,steipete,official
+@steipete/trello,Trello,1.0.0,true,steipete,official
+@steipete/video-frames,Video Frames,1.0.0,false,steipete,official
+@steipete/video-transcript-downloader,Video Transcript Downloader,1.0.0,false,steipete,official
+@steipete/weather,Weather,1.0.0,false,steipete,official
+@tinyfish/tinyfish,Tinyfish,1.0.6,false,tinyfish,official
+@vibethon/vibethon-battle,Vibethon Battle,0.1.0,false,vibethon,official
+@zai-org/glmv-pdf-to-ppt,GLM-V-PDF-to-PPT,1.0.1,false,zai-org,official
+@zai-org/glmv-pdf-to-web,GLM-V-PDF-to-WEB,1.0.1,false,zai-org,official
+@zai-org/glmv-prd-to-app,glmv-prd-to-app,1.0.1,false,zai-org,official
+@zai-org/glmv-stock-analyst,GLM-V-Stock-Analyst,1.0.4,false,zai-org,official
+@zai-org/glmv-web-replication,web-replication,1.0.2,false,zai-org,official
