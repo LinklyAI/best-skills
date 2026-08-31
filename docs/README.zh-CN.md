@@ -262,7 +262,17 @@ data/
 
 ## 许可证
 
-数据和文档采用 [CC BY 4.0](../LICENSE) 发布——署名后可自由使用。使用这些数据时，请链接回本仓库（并保留平台归属信息）。
+数据和文档采用 [CC BY 4.0](../LICENSE) 发布——可自由使用、转载和二次开发，商用亦可。
+
+### 如何署名
+
+在数据出现的位置附上这一行：
+
+> Data from [Best Skills](https://github.com/LinklyAI/best-skills) by [@BlueeonY](https://x.com/BlueeonY) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+请保留指向本仓库的链接，并保留上文列出的各平台归属信息。这就是全部要求，无需另行取得授权。
+
+用它做出了什么？[@BlueeonY](https://x.com/BlueeonY) 很想看看——这不是许可证的要求，只是我们会很高兴。
 
 ---
 

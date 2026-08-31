@@ -262,7 +262,17 @@ Installations- und Downloadzahlen stammen aus öffentlichen Endpunkten von [skil
 
 ## Lizenz
 
-Daten und Dokumentation stehen unter [CC BY 4.0](../LICENSE) und dürfen mit Quellenangabe frei verwendet werden. Bitte verlinke bei der Nutzung der Daten auf dieses Repository und behalte die Quellenangaben der Plattformen bei.
+Daten und Dokumentation stehen unter [CC BY 4.0](../LICENSE) und dürfen frei verwendet, weiterverbreitet und bearbeitet werden – auch kommerziell.
+
+### Quellenangabe
+
+Füge dort, wo die Daten erscheinen, diese Zeile ein:
+
+> Data from [Best Skills](https://github.com/LinklyAI/best-skills) by [@BlueeonY](https://x.com/BlueeonY) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Behalte den Link auf dieses Repository und die oben genannten Quellenangaben der Plattformen bei. Mehr ist nicht erforderlich – es braucht keine gesonderte Genehmigung.
+
+Etwas damit gebaut? [@BlueeonY](https://x.com/BlueeonY) würde es gern sehen – die Lizenz verlangt das nicht, wir freuen uns aber darüber.
 
 ---
 

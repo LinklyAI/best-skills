@@ -262,7 +262,17 @@ data/
 
 ## 라이선스
 
-데이터와 문서는 [CC BY 4.0](../LICENSE)으로 공개되며, 출처를 표시하면 자유롭게 사용할 수 있습니다. 데이터를 사용할 때는 이 저장소로 링크하고 플랫폼별 출처 표시를 유지해 주세요.
+데이터와 문서는 [CC BY 4.0](../LICENSE)으로 공개되며, 상업적 이용을 포함해 자유롭게 사용·재배포·활용할 수 있습니다.
+
+### 출처 표시 방법
+
+데이터가 실리는 곳에 다음 한 줄을 넣어 주세요:
+
+> Data from [Best Skills](https://github.com/LinklyAI/best-skills) by [@BlueeonY](https://x.com/BlueeonY) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+이 저장소로 향하는 링크와 위에 나열된 플랫폼별 출처 표시를 유지해 주세요. 요구 사항은 이것이 전부이며, 별도의 허가는 필요하지 않습니다.
+
+무언가 만드셨다면 [@BlueeonY](https://x.com/BlueeonY)가 꼭 보고 싶습니다. 라이선스상의 의무는 아니지만 알려 주시면 반갑겠습니다.
 
 ---
 

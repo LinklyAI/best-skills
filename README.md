@@ -262,7 +262,17 @@ Install/download counts are collected from public endpoints of [skills.sh](https
 
 ## License
 
-Data and documentation are released under [CC BY 4.0](LICENSE) — free to use with attribution. Please link back to this repository (and keep platform attributions) when using the data.
+Data and documentation are released under [CC BY 4.0](LICENSE) — free to use, republish, and build on, commercial use included.
+
+### How to attribute
+
+Include this line wherever the data appears:
+
+> Data from [Best Skills](https://github.com/LinklyAI/best-skills) by [@BlueeonY](https://x.com/BlueeonY) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Keep the link to this repository intact, and keep the per-platform attributions listed above. That is the whole requirement — no separate permission is needed.
+
+Built something with it? [@BlueeonY](https://x.com/BlueeonY) would love to see it — not required by the license, just appreciated.
 
 ---
 

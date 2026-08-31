@@ -262,7 +262,17 @@ Los recuentos de instalaciones y descargas se obtienen de los endpoints público
 
 ## Licencia
 
-Los datos y la documentación se publican bajo [CC BY 4.0](../LICENSE): pueden utilizarse libremente con atribución. Al utilizar los datos, enlaza con este repositorio y conserva las atribuciones de las plataformas.
+Los datos y la documentación se publican bajo [CC BY 4.0](../LICENSE): pueden usarse, republicarse y adaptarse libremente, también con fines comerciales.
+
+### Cómo atribuir
+
+Incluye esta línea allí donde aparezcan los datos:
+
+> Data from [Best Skills](https://github.com/LinklyAI/best-skills) by [@BlueeonY](https://x.com/BlueeonY) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Conserva el enlace a este repositorio y las atribuciones de las plataformas indicadas arriba. Ese es todo el requisito: no hace falta ningún permiso aparte.
+
+¿Has creado algo con ellos? A [@BlueeonY](https://x.com/BlueeonY) le encantaría verlo; no lo exige la licencia, pero se agradece.
 
 ---
 
