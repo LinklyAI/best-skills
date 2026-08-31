@@ -9,8 +9,12 @@
 [![순위](https://img.shields.io/badge/rankings-9-orange)](#순위)
 [![추적 중인 Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
 [![라이선스: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
+[![Star 수](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![X에서 @BlueeonY 팔로우](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+
+순위는 매일 바뀝니다. ⭐ **Star**를 누르면 GitHub 피드에서 변화를 확인할 수 있고, X의 [**@BlueeonY**](https://x.com/BlueeonY)에서는 매일의 순위 변동을 전합니다.
 
 </div>
 
@@ -262,4 +266,6 @@ data/
 
 ---
 
-[Linkly AI](https://linkly.ai)에서 관리 — Agent Skills를 지원하는 AI 로컬 지식 베이스.
+[@BlueeonY](https://x.com/BlueeonY)가 [Linkly AI](https://linkly.ai)에서 만들고 관리합니다 — Agent Skills를 지원하는 AI 로컬 지식 베이스.
+
+도움이 되셨다면 ⭐ 하나가 더 많은 사람에게 닿는 데 도움이 됩니다.

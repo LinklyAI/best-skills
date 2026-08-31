@@ -9,8 +9,12 @@
 [![Ranglisten](https://img.shields.io/badge/rankings-9-orange)](#ranglisten)
 [![Erfasste Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
 [![Lizenz: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
+[![Sterne](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![@BlueeonY auf X folgen](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+
+Die Ranglisten ändern sich täglich – mit ⭐ **Star** siehst du die Bewegungen in deinem GitHub-Feed, und [**@BlueeonY**](https://x.com/BlueeonY) auf X postet die täglichen Veränderungen.
 
 </div>
 
@@ -262,4 +266,6 @@ Daten und Dokumentation stehen unter [CC BY 4.0](../LICENSE) und dürfen mit Que
 
 ---
 
-Betreut von [Linkly AI](https://linkly.ai) – einer KI-gestützten lokalen Wissensdatenbank mit Unterstützung für Agent Skills.
+Entwickelt von [@BlueeonY](https://x.com/BlueeonY) bei [Linkly AI](https://linkly.ai) – einer KI-gestützten lokalen Wissensdatenbank mit Unterstützung für Agent Skills.
+
+Hilfreich? Ein ⭐ hilft anderen, das Projekt zu finden.

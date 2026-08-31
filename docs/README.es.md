@@ -9,8 +9,12 @@
 [![Clasificaciones](https://img.shields.io/badge/rankings-9-orange)](#clasificaciones)
 [![Skills monitorizadas](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
+[![Estrellas](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![Seguir a @BlueeonY en X](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+
+Las clasificaciones cambian a diario: marca con ⭐ **Star** para ver los cambios en tu feed de GitHub, o sigue a [**@BlueeonY**](https://x.com/BlueeonY) en X para el resumen diario.
 
 </div>
 
@@ -262,4 +266,6 @@ Los datos y la documentación se publican bajo [CC BY 4.0](../LICENSE): pueden u
 
 ---
 
-Mantenido por [Linkly AI](https://linkly.ai), una base de conocimiento local con IA compatible con Agent Skills.
+Creado por [@BlueeonY](https://x.com/BlueeonY) en [Linkly AI](https://linkly.ai), una base de conocimiento local con IA compatible con Agent Skills.
+
+¿Te ha resultado útil? Una ⭐ ayuda a que más gente lo encuentre.

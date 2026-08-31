@@ -9,8 +9,12 @@
 [![排行榜](https://img.shields.io/badge/rankings-9-orange)](#排行榜)
 [![已追踪 Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
 [![许可证：CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
+[![Star 数](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![在 X 上关注 @BlueeonY](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+
+排行榜每天都在变——⭐ **Star** 可在 GitHub 动态里看到变化，也可以在 X 上关注 [**@BlueeonY**](https://x.com/BlueeonY) 获取每日榜单异动。
 
 </div>
 
@@ -262,4 +266,6 @@ data/
 
 ---
 
-由 [Linkly AI](https://linkly.ai) 维护——一款支持 Agent Skills 的 AI 本地知识库。
+由 [@BlueeonY](https://x.com/BlueeonY) 在 [Linkly AI](https://linkly.ai) 打造并维护——一款支持 Agent Skills 的 AI 本地知识库。
+
+觉得有用的话，一个 ⭐ 能让更多人找到它。

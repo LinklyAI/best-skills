@@ -9,8 +9,12 @@
 [![ランキング](https://img.shields.io/badge/rankings-9-orange)](#ランキング)
 [![追跡中の Skills](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](../data/latest)
 [![ライセンス：CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](../LICENSE)
+[![Star 数](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![X で @BlueeonY をフォロー](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
+
+ランキングは毎日変動します。⭐ **Star** で GitHub のフィードから更新を受け取れます。X の [**@BlueeonY**](https://x.com/BlueeonY) では日々の変動を発信しています。
 
 </div>
 
@@ -262,4 +266,6 @@ data/
 
 ---
 
-[Linkly AI](https://linkly.ai) が運営——Agent Skills に対応した AI ローカルナレッジベース。
+[@BlueeonY](https://x.com/BlueeonY) が [Linkly AI](https://linkly.ai) で開発・運営——Agent Skills に対応した AI ローカルナレッジベース。
+
+お役に立てましたら、⭐ をいただけると多くの方に届きます。

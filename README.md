@@ -9,8 +9,12 @@
 [![Rankings](https://img.shields.io/badge/rankings-9-orange)](#rankings)
 [![Skills tracked](https://img.shields.io/badge/skills%20tracked-10%2C000%2B-blueviolet)](data/latest)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/LinklyAI/best-skills?color=yellow)](https://github.com/LinklyAI/best-skills)
+[![Follow @BlueeonY on X](https://img.shields.io/badge/X-%40BlueeonY-000000?logo=x&logoColor=white)](https://x.com/BlueeonY)
 
 [English](README.md) | [简体中文](docs/README.zh-CN.md) | [日本語](docs/README.ja.md) | [한국어](docs/README.ko.md) | [Español](docs/README.es.md) | [Deutsch](docs/README.de.md)
+
+Rankings shift every day — ⭐ **Star** to catch the moves in your GitHub feed, or follow [**@BlueeonY**](https://x.com/BlueeonY) on X for the daily rundown.
 
 </div>
 
@@ -262,4 +266,6 @@ Data and documentation are released under [CC BY 4.0](LICENSE) — free to use w
 
 ---
 
-Maintained by [Linkly AI](https://linkly.ai) — an AI-powered local knowledge base with agent skills support.
+Built by [@BlueeonY](https://x.com/BlueeonY) at [Linkly AI](https://linkly.ai) — an AI-powered local knowledge base with agent skills support.
+
+Found this useful? A ⭐ helps more people find it.
