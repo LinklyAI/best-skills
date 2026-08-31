@@ -14,7 +14,7 @@
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
-排行榜每天都在变——⭐ **Star** 可在 GitHub 动态里看到变化，也可以在 X 上关注 [**@BlueeonY**](https://x.com/BlueeonY) 获取每日榜单异动。
+排行榜每天更新——⭐ **Star** 追更新，或在 X 关注 [**@BlueeonY**](https://x.com/BlueeonY) 看每日异动。
 
 </div>
 

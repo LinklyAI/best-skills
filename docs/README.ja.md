@@ -14,7 +14,7 @@
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
-ランキングは毎日変動します。⭐ **Star** で GitHub のフィードから更新を受け取れます。X の [**@BlueeonY**](https://x.com/BlueeonY) では日々の変動を発信しています。
+ランキングは毎日更新。⭐ **Star** で更新を受け取り、X の [**@BlueeonY**](https://x.com/BlueeonY) が日々の変動を発信。
 
 </div>
 

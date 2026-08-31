@@ -14,7 +14,7 @@
 
 [English](README.md) | [简体中文](docs/README.zh-CN.md) | [日本語](docs/README.ja.md) | [한국어](docs/README.ko.md) | [Español](docs/README.es.md) | [Deutsch](docs/README.de.md)
 
-Rankings shift every day — ⭐ **Star** to catch the moves in your GitHub feed, or follow [**@BlueeonY**](https://x.com/BlueeonY) on X for the daily rundown.
+Rankings shift daily — ⭐ **Star** for updates, or follow [**@BlueeonY**](https://x.com/BlueeonY) on X for the daily movers.
 
 </div>
 

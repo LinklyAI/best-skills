@@ -14,7 +14,7 @@
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
-순위는 매일 바뀝니다. ⭐ **Star**를 누르면 GitHub 피드에서 변화를 확인할 수 있고, X의 [**@BlueeonY**](https://x.com/BlueeonY)에서는 매일의 순위 변동을 전합니다.
+매일 갱신되는 순위 — ⭐ **Star**로 소식을 받고, X의 [**@BlueeonY**](https://x.com/BlueeonY)가 매일의 변동을 전합니다.
 
 </div>
 

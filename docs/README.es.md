@@ -14,7 +14,7 @@
 
 [English](../README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md)
 
-Las clasificaciones cambian a diario: marca con ⭐ **Star** para ver los cambios en tu feed de GitHub, o sigue a [**@BlueeonY**](https://x.com/BlueeonY) en X para el resumen diario.
+Se actualiza a diario — ⭐ **Star** para ver los cambios, o sigue a [**@BlueeonY**](https://x.com/BlueeonY) en X.
 
 </div>
 
