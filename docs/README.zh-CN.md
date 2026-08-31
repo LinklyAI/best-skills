@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Best Skills
+# 🏆 Best Agent Skills
 
 **每日更新的 Agent Skills Top 100 排行榜——聚合来自 skills.sh、ClawHub、腾讯 SkillHub、GitHub、X 等平台的安装量、增长趋势和社交热度。开放数据（CSV）。**
 

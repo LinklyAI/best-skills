@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 Best Skills
+# 🏆 Best Agent Skills
 
 **Täglich aktualisierte Top-100-Ranglisten für Agent Skills – Installationen, Wachstum und soziale Resonanz, zusammengeführt aus skills.sh, ClawHub, Tencent SkillHub, GitHub, X und weiteren Quellen. Offene Daten (CSV).**
 
