@@ -38,25 +38,25 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 <!-- RANKINGS:START -->
 
-> Última actualización: **2026-09-11** (UTC) · Vista previa del Top 10 de cada lista; el Top 100 completo está en los CSV.
+> Última actualización: **2026-09-12** (UTC) · Vista previa del Top 10 de cada lista; el Top 100 completo está en los CSV.
 
 <details open>
 <summary><b>🏆 Mejores 100 (puntuación de valor de instalación)</b></summary>
 
 | # | Skill | Proveedor | WIS | Cobertura |
 | --- | --- | --- | --- | --- |
-| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 79.9 | C |
+| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 77.7 | C |
 | 2 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 77.3 | C |
-| 3 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 74.8 | C |
-| 4 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 71.5 | C |
-| 5 | [microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry) | [microsoft](https://www.skills.sh/microsoft) | 68.6 | C |
-| 6 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 67.9 | C |
-| 7 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66.9 | C |
-| 8 | [azure-compliance](https://www.skills.sh/microsoft/azure-skills/azure-compliance) | [microsoft](https://www.skills.sh/microsoft) | 65.3 | C |
-| 9 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | [mattpocock](https://www.skills.sh/mattpocock) | 65.1 | C |
-| 10 | [azure-storage](https://www.skills.sh/microsoft/azure-skills/azure-storage) | [microsoft](https://www.skills.sh/microsoft) | 65.1 | C |
+| 3 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 74.9 | C |
+| 4 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 71.2 | C |
+| 5 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 67.4 | C |
+| 6 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 67.1 | C |
+| 7 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 65.1 | C |
+| 8 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | [mattpocock](https://www.skills.sh/mattpocock) | 65 | C |
+| 9 | [azure-compliance](https://www.skills.sh/microsoft/azure-skills/azure-compliance) | [microsoft](https://www.skills.sh/microsoft) | 64.9 | C |
+| 10 | [azure-storage](https://www.skills.sh/microsoft/azure-skills/azure-storage) | [microsoft](https://www.skills.sh/microsoft) | 64.7 | C |
 
-➡️ Lista completa: [best-100.csv](../data/2026-09-11/rankings/best-100.csv)
+➡️ Lista completa: [best-100.csv](../data/2026-09-12/rankings/best-100.csv)
 
 </details>
 
@@ -65,18 +65,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Skill | skills.sh | ClawHub | SkillHub China |
 | --- | --- | --- | --- | --- |
-| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,349,264 | — | — |
-| 2 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 478,679 | 1,186,079 |
-| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,113,807 | — | — |
-| 4 | find-skills | — | — | 942,016 |
-| 5 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 950,156 | — | — |
-| 6 | tencent-docs | — | — | 911,207 |
-| 7 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 909,009 | — | — |
-| 8 | agent-browser | — | — | 772,883 |
-| 9 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 880,951 | — | — |
-| 10 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 875,153 | — | — |
+| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,363,591 | — | — |
+| 2 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 478,785 | 1,188,894 |
+| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,121,776 | — | — |
+| 4 | find-skills | — | — | 947,181 |
+| 5 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 957,071 | — | — |
+| 6 | tencent-docs | — | — | 930,162 |
+| 7 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 915,107 | — | — |
+| 8 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 887,098 | — | — |
+| 9 | dev-expert | — | — | 832,066 |
+| 10 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 878,408 | — | — |
 
-➡️ Lista completa: [top-installs.csv](../data/2026-09-11/rankings/top-installs.csv)
+➡️ Lista completa: [top-installs.csv](../data/2026-09-12/rankings/top-installs.csv)
 
 </details>
 
@@ -85,18 +85,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Skill | Instalaciones | Δ% semanal |
 | --- | --- | --- | --- |
-| 1 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 140,260 | — |
-| 2 | [reddit-automation](https://www.skills.sh/flowkit-labs/skills/reddit-automation) | 396,443 | -2.3 |
-| 3 | [video-edit](https://www.skills.sh/genmedia-labs/skills/video-edit) | 428,639 | -2.2 |
-| 4 | [wan-3-0-prime-reference-to-video](https://www.skills.sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video) | 94,711 | — |
-| 5 | [ai-music](https://www.skills.sh/genmedia-labs/skills/ai-music) | 428,270 | -2.1 |
-| 6 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,349,264 | -1 |
-| 7 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 428,078 | -3 |
-| 8 | [image-to-video](https://www.skills.sh/genmedia-labs/skills/image-to-video) | 427,877 | -3.2 |
-| 9 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 427,367 | -3 |
-| 10 | [seedance-2-5-image-to-video](https://www.skills.sh/genmedia-labs/skills/seedance-2-5-image-to-video) | 94,518 | — |
+| 1 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 162,184 | — |
+| 2 | [video-edit](https://www.skills.sh/genmedia-labs/skills/video-edit) | 444,921 | -2.2 |
+| 3 | [reddit-automation](https://www.skills.sh/flowkit-labs/skills/reddit-automation) | 412,696 | -2.3 |
+| 4 | [wan-3-0-prime-reference-to-video](https://www.skills.sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video) | 110,921 | — |
+| 5 | [ai-music](https://www.skills.sh/genmedia-labs/skills/ai-music) | 444,473 | -2.1 |
+| 6 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 444,391 | -3 |
+| 7 | [seedance-2-5-reference-to-video](https://www.skills.sh/genmedia-labs/skills/seedance-2-5-reference-to-video) | 110,652 | — |
+| 8 | [image-to-video](https://www.skills.sh/genmedia-labs/skills/image-to-video) | 444,131 | -3.2 |
+| 9 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 443,571 | -3 |
+| 10 | [seedance-2-5-image-to-video](https://www.skills.sh/genmedia-labs/skills/seedance-2-5-image-to-video) | 110,721 | — |
 
-➡️ Lista completa: [trending-7d.csv](../data/2026-09-11/rankings/trending-7d.csv)
+➡️ Lista completa: [trending-7d.csv](../data/2026-09-12/rankings/trending-7d.csv)
 
 </details>
 
@@ -105,18 +105,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 100+ | 2 | 544 | 10 |
-| 2 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 100+ | 5 | 6 | 19 |
-| 3 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 17 | 2 | 1 | 110 |
-| 4 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 100+ | 0 | 6 | 27 |
-| 5 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 59 | 0 | 17 | 65 |
-| 6 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 53 | 0 | 3 | 5 |
-| 7 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 27 | 0 | 1 | 7 |
-| 8 | desktop-control | — | 1 | 2 | 3 |
-| 9 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 27 | 0 | 1 | 5 |
-| 10 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 61 | 0 | 0 | 105 |
+| 1 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 100+ | 3 | 339 | 12 |
+| 2 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 100+ | 5 | 4 | 19 |
+| 3 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 100+ | 0 | 8 | 29 |
+| 4 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 16 | 2 | 0 | 134 |
+| 5 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 57 | 0 | 2 | 60 |
+| 6 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 52 | 0 | 2 | 5 |
+| 7 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 25 | 0 | 2 | 5 |
+| 8 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 25 | 0 | 1 | 7 |
+| 9 | desktop-control | — | 1 | 2 | 3 |
+| 10 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 53 | 0 | 0 | 85 |
 
-➡️ Lista completa: [social-buzz.csv](../data/2026-09-11/rankings/social-buzz.csv)
+➡️ Lista completa: [social-buzz.csv](../data/2026-09-12/rankings/social-buzz.csv)
 
 </details>
 
@@ -125,18 +125,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Skill | Actualización | Versiones |
 | --- | --- | --- | --- |
-| 1 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-09-10 | 163 |
-| 2 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-09-10 | 116 |
+| 1 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-09-12 | 170 |
+| 2 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-09-11 | 117 |
 | 3 | easyeda-api | 2026-09-10 | 34 |
-| 4 | [google-drive](https://clawhub.ai/byungkyu/skills/google-drive) | 2026-09-10 | 18 |
-| 5 | [stripe-api](https://clawhub.ai/byungkyu/skills/stripe-api) | 2026-09-10 | 17 |
-| 6 | polymarket-weather-trader | 2026-09-08 | 51 |
-| 7 | [fathom-api](https://clawhub.ai/byungkyu/skills/fathom-api) | 2026-09-10 | 12 |
-| 8 | whatsapp-business | 2026-09-10 | 11 |
-| 9 | google-workspace-admin | 2026-09-10 | 11 |
+| 4 | google-workspace-admin | 2026-09-12 | 12 |
+| 5 | [google-drive](https://clawhub.ai/byungkyu/skills/google-drive) | 2026-09-10 | 18 |
+| 6 | [stripe-api](https://clawhub.ai/byungkyu/skills/stripe-api) | 2026-09-10 | 17 |
+| 7 | polymarket-weather-trader | 2026-09-08 | 51 |
+| 8 | [fathom-api](https://clawhub.ai/byungkyu/skills/fathom-api) | 2026-09-10 | 12 |
+| 9 | whatsapp-business | 2026-09-10 | 11 |
 | 10 | [monday](https://clawhub.ai/byungkyu/skills/monday) | 2026-09-10 | 8 |
 
-➡️ Lista completa: [most-active.csv](../data/2026-09-11/rankings/most-active.csv)
+➡️ Lista completa: [most-active.csv](../data/2026-09-12/rankings/most-active.csv)
 
 </details>
 
@@ -156,7 +156,7 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | clawhub |
 | 10 | [gog](https://clawhub.ai/steipete/skills/gog) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ Lista completa: [official-100.csv](../data/2026-09-11/rankings/official-100.csv)
+➡️ Lista completa: [official-100.csv](../data/2026-09-12/rankings/official-100.csv)
 
 </details>
 
@@ -176,7 +176,7 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 | 9 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 | 10 | [skills.sh](https://www.skills.sh) | [google-labs-code](https://www.skills.sh/google-labs-code) | 30 | 260,911 |
 
-➡️ Lista completa: [official-vendors.csv](../data/2026-09-11/rankings/official-vendors.csv)
+➡️ Lista completa: [official-vendors.csv](../data/2026-09-12/rankings/official-vendors.csv)
 
 </details>
 
@@ -185,18 +185,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Repositorio | Stars | Último push |
 | --- | --- | --- | --- |
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 284,844 | 2026-09-11 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 259,073 | 2026-09-04 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 175,715 | 2026-09-10 |
-| 4 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 144,696 | 2026-09-10 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 135,024 | 2026-09-07 |
-| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 126,737 | 2026-09-10 |
-| 7 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 123,550 | 2026-09-11 |
-| 8 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 114,124 | 2026-09-10 |
-| 9 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 104,786 | 2026-09-10 |
-| 10 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 95,481 | 2026-09-11 |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 285,467 | 2026-09-12 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 259,948 | 2026-09-04 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 256,632 | 2026-09-12 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 175,882 | 2026-09-10 |
+| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 144,799 | 2026-09-11 |
+| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 135,973 | 2026-09-07 |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 126,958 | 2026-09-10 |
+| 8 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 123,601 | 2026-09-11 |
+| 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 114,278 | 2026-09-10 |
+| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 105,083 | 2026-09-11 |
 
-➡️ Lista completa: [top-repos.csv](../data/2026-09-11/rankings/top-repos.csv)
+➡️ Lista completa: [top-repos.csv](../data/2026-09-12/rankings/top-repos.csv)
 
 </details>
 
@@ -205,18 +205,18 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 
 | # | Skill | Antigüedad (días) | Popularidad |
 | --- | --- | --- | --- |
-| 1 | multi-search-engine | 23 | 0.993 |
-| 2 | anti-fraud | 25 | 0.986 |
-| 3 | beatra | 26 | 0.98 |
-| 4 | tencent-meeting-mcp | 7 | 0.973 |
-| 5 | talking-avatar-video | 9 | 0.959 |
-| 6 | ai-podcast-voiceover | 9 | 0.95 |
-| 7 | mysteel-datasearch | 10 | 0.934 |
-| 8 | ecommerce-listing-image-set | 22 | 0.931 |
-| 9 | hot-topic-content-maker | 22 | 0.93 |
-| 10 | live-commerce-script-studio | 26 | 0.928 |
+| 1 | multi-search-engine | 24 | 0.993 |
+| 2 | anti-fraud | 26 | 0.986 |
+| 3 | beatra | 27 | 0.985 |
+| 4 | tencent-meeting-mcp | 8 | 0.973 |
+| 5 | talking-avatar-video | 10 | 0.958 |
+| 6 | ai-podcast-voiceover | 10 | 0.95 |
+| 7 | mysteel-datasearch | 11 | 0.938 |
+| 8 | [video-edit](https://www.skills.sh/genmedia-labs/skills/video-edit) | 27 | 0.937 |
+| 9 | [ai-music](https://www.skills.sh/genmedia-labs/skills/ai-music) | 27 | 0.936 |
+| 10 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 27 | 0.935 |
 
-➡️ Lista completa: [rising-stars.csv](../data/2026-09-11/rankings/rising-stars.csv)
+➡️ Lista completa: [rising-stars.csv](../data/2026-09-12/rankings/rising-stars.csv)
 
 </details>
 
