@@ -38,25 +38,25 @@
 
 <!-- RANKINGS:START -->
 
-> Последнее обновление: **2026-09-16** (UTC) · Предпросмотр Top 10 для каждого рейтинга — полный Top 100 доступен в CSV.
+> Последнее обновление: **2026-09-17** (UTC) · Предпросмотр Top 10 для каждого рейтинга — полный Top 100 доступен в CSV.
 
 <details open>
 <summary><b>🏆 Лучшие 100 (рейтинг целесообразности установки)</b></summary>
 
 | # | Skill | Издатель | WIS | Охват |
 | --- | --- | --- | --- | --- |
-| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 77.3 | C |
-| 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 74.3 | C |
-| 3 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 74 | C |
-| 4 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 69.1 | C |
-| 5 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 67.6 | C |
-| 6 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 67.3 | C |
-| 7 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66 | C |
-| 8 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | [anthropics](https://www.skills.sh/anthropics) | 65.2 | C |
-| 9 | [azure-compliance](https://www.skills.sh/microsoft/azure-skills/azure-compliance) | [microsoft](https://www.skills.sh/microsoft) | 64.9 | C |
-| 10 | [azure-storage](https://www.skills.sh/microsoft/azure-skills/azure-storage) | [microsoft](https://www.skills.sh/microsoft) | 64.8 | C |
+| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 76.6 | C |
+| 2 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 74.2 | C |
+| 3 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 72.9 | C |
+| 4 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 68.4 | C |
+| 5 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | 66.7 | B |
+| 6 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 66.6 | C |
+| 7 | [gog](https://clawhub.ai/steipete/skills/gog) | [steipete](https://clawhub.ai/steipete) | 66.3 | B |
+| 8 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 66.1 | C |
+| 9 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 65.4 | C |
+| 10 | [slack](https://clawhub.ai/steipete/skills/slack) | [steipete](https://clawhub.ai/steipete) | 64.9 | B |
 
-➡️ Полный список: [best-100.csv](../data/2026-09-16/rankings/best-100.csv)
+➡️ Полный список: [best-100.csv](../data/2026-09-17/rankings/best-100.csv)
 
 </details>
 
@@ -65,18 +65,18 @@
 
 | # | Skill | skills.sh | ClawHub | SkillHub Китай |
 | --- | --- | --- | --- | --- |
-| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,418,267 | — | — |
-| 2 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 479,545 | 1,203,466 |
-| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,150,509 | — | — |
-| 4 | tencent-docs | — | — | 1,007,272 |
-| 5 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 982,294 | — | — |
-| 6 | dev-expert | — | — | 994,604 |
-| 7 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 937,338 | — | — |
-| 8 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 909,491 | — | — |
-| 9 | find-skills | — | — | 972,489 |
-| 10 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 890,831 | — | — |
+| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,436,674 | — | — |
+| 2 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 479,779 | 1,207,526 |
+| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,160,200 | — | — |
+| 4 | tencent-docs | — | — | 1,029,494 |
+| 5 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 990,540 | — | — |
+| 6 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 944,474 | — | — |
+| 7 | dev-expert | — | — | 1,027,501 |
+| 8 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 916,841 | — | — |
+| 9 | find-skills | — | — | 979,639 |
+| 10 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 894,676 | — | — |
 
-➡️ Полный список: [top-installs.csv](../data/2026-09-16/rankings/top-installs.csv)
+➡️ Полный список: [top-installs.csv](../data/2026-09-17/rankings/top-installs.csv)
 
 </details>
 
@@ -85,18 +85,18 @@
 
 | # | Skill | Установки | Недельный Δ% |
 | --- | --- | --- | --- |
-| 1 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 237,508 | — |
-| 2 | [seedance-2-5-reference-to-video](https://www.skills.sh/genmedia-labs/skills/seedance-2-5-reference-to-video) | 175,588 | — |
-| 3 | [seedance-2-5-image-to-video](https://www.skills.sh/genmedia-labs/skills/seedance-2-5-image-to-video) | 175,804 | — |
-| 4 | [ai-image-generation](https://www.skills.sh/genmedia-labs/skills/ai-image-generation) | 508,559 | -3.7 |
-| 5 | [image-to-video](https://www.skills.sh/genmedia-labs/skills/image-to-video) | 508,943 | -3.2 |
-| 6 | [ai-video-generation](https://www.skills.sh/genmedia-labs/skills/ai-video-generation) | 509,195 | -3.6 |
-| 7 | [video-edit](https://www.skills.sh/genmedia-labs/skills/video-edit) | 510,129 | -3.9 |
-| 8 | [ai-music](https://www.skills.sh/genmedia-labs/skills/ai-music) | 509,474 | -4.3 |
-| 9 | [wan-3-0-prime-reference-to-video](https://www.skills.sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video) | 176,208 | — |
-| 10 | [reddit-automation](https://www.skills.sh/flowkit-labs/skills/reddit-automation) | 477,841 | -4.1 |
+| 1 | [ai-avatar-video](https://www.skills.sh/101-skills/superpowers/ai-avatar-video) | 143,686 | — |
+| 2 | [ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation) | 143,824 | — |
+| 3 | [ai-video-generation](https://www.skills.sh/101-skills/superpowers/ai-video-generation) | 144,284 | — |
+| 4 | [twitter-automation](https://www.skills.sh/101-skills/superpowers/twitter-automation) | 144,000 | — |
+| 5 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 257,326 | — |
+| 6 | [ai-image-generation](https://www.skills.sh/qu-skills/superpowers/ai-image-generation) | 66,433 | — |
+| 7 | [ai-video-generation](https://www.skills.sh/qu-skills/superpowers/ai-video-generation) | 66,430 | — |
+| 8 | [ai-avatar-video](https://www.skills.sh/qu-skills/superpowers/ai-avatar-video) | 66,992 | — |
+| 9 | [twitter-automation](https://www.skills.sh/qu-skills/superpowers/twitter-automation) | 66,627 | — |
+| 10 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,436,674 | -0.2 |
 
-➡️ Полный список: [trending-7d.csv](../data/2026-09-16/rankings/trending-7d.csv)
+➡️ Полный список: [trending-7d.csv](../data/2026-09-17/rankings/trending-7d.csv)
 
 </details>
 
@@ -105,18 +105,18 @@
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 100+ | 10 | 636 | 8 |
-| 2 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 100+ | 0 | 9 | 15 |
-| 3 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 80 | 0 | 7 | 34 |
-| 4 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 58 | 0 | 1 | 59 |
-| 5 | desktop-control | — | 1 | 2 | 3 |
-| 6 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 20 | 0 | 1 | 10 |
-| 7 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 55 | 0 | 2 | 1 |
-| 8 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 78 | 0 | 0 | 78 |
-| 9 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 1 | 13 | 1 |
-| 10 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 23 | 0 | 1 | 2 |
+| 1 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 100+ | 10 | 249 | 7 |
+| 2 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 100+ | 0 | 7 | 35 |
+| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 100+ | 0 | 8 | 16 |
+| 4 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 20 | 0 | 3 | 60 |
+| 5 | [nano-banana-pro](https://clawhub.ai/steipete/skills/nano-banana-pro) | 28 | 0 | 10 | 3 |
+| 6 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 2 | 15 | 2 |
+| 7 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 51 | 0 | 2 | 1 |
+| 8 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 17 | 0 | 1 | 10 |
+| 9 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 78 | 0 | 0 | 91 |
+| 10 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 29 | 0 | 1 | 1 |
 
-➡️ Полный список: [social-buzz.csv](../data/2026-09-16/rankings/social-buzz.csv)
+➡️ Полный список: [social-buzz.csv](../data/2026-09-17/rankings/social-buzz.csv)
 
 </details>
 
@@ -125,10 +125,10 @@
 
 | # | Skill | Обновлено | Версии |
 | --- | --- | --- | --- |
-| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-09-15 | 122 |
-| 2 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-09-14 | 172 |
-| 3 | polymarket-weather-trader | 2026-09-14 | 52 |
-| 4 | [planning-with-files](https://clawhub.ai/othmanadi/skills/planning-with-files) | 2026-09-14 | 22 |
+| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-09-17 | 123 |
+| 2 | polymarket-weather-trader | 2026-09-16 | 53 |
+| 3 | [planning-with-files](https://clawhub.ai/othmanadi/skills/planning-with-files) | 2026-09-16 | 22 |
+| 4 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-09-14 | 172 |
 | 5 | [google-drive](https://clawhub.ai/byungkyu/skills/google-drive) | 2026-09-13 | 20 |
 | 6 | [stripe-api](https://clawhub.ai/byungkyu/skills/stripe-api) | 2026-09-13 | 19 |
 | 7 | [linear-api](https://clawhub.ai/byungkyu/skills/linear-api) | 2026-09-13 | 18 |
@@ -136,7 +136,7 @@
 | 9 | [linkedin-api](https://clawhub.ai/byungkyu/skills/linkedin-api) | 2026-09-13 | 16 |
 | 10 | [salesforce-api](https://clawhub.ai/byungkyu/skills/salesforce-api) | 2026-09-13 | 15 |
 
-➡️ Полный список: [most-active.csv](../data/2026-09-16/rankings/most-active.csv)
+➡️ Полный список: [most-active.csv](../data/2026-09-17/rankings/most-active.csv)
 
 </details>
 
@@ -154,9 +154,9 @@
 | 7 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | skills.sh |
 | 8 | ima-skills | 腾讯科技（深圳）有限公司 | skillhub |
 | 9 | [weather](https://clawhub.ai/steipete/skills/weather) | [steipete](https://clawhub.ai/steipete) | clawhub |
-| 10 | beatra | 乐萱同行科技（深圳）有限公司 | skillhub |
+| 10 | [gog](https://clawhub.ai/steipete/skills/gog) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ Полный список: [official-100.csv](../data/2026-09-16/rankings/official-100.csv)
+➡️ Полный список: [official-100.csv](../data/2026-09-17/rankings/official-100.csv)
 
 </details>
 
@@ -176,7 +176,7 @@
 | 9 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 | 10 | [skills.sh](https://www.skills.sh) | [google-labs-code](https://www.skills.sh/google-labs-code) | 30 | 260,911 |
 
-➡️ Полный список: [official-vendors.csv](../data/2026-09-16/rankings/official-vendors.csv)
+➡️ Полный список: [official-vendors.csv](../data/2026-09-17/rankings/official-vendors.csv)
 
 </details>
 
@@ -185,18 +185,18 @@
 
 | # | Репозиторий | Stars | Последний push |
 | --- | --- | --- | --- |
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 287,279 | 2026-09-14 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 263,023 | 2026-09-15 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 259,492 | 2026-09-15 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 176,575 | 2026-09-10 |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145,221 | 2026-09-16 |
-| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 139,604 | 2026-09-14 |
-| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 127,988 | 2026-09-15 |
-| 8 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 123,919 | 2026-09-12 |
-| 9 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 114,755 | 2026-09-15 |
-| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 105,831 | 2026-09-16 |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 287,795 | 2026-09-14 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 263,875 | 2026-09-17 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 176,777 | 2026-09-10 |
+| 4 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145,699 | 2026-09-17 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 140,758 | 2026-09-14 |
+| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 128,303 | 2026-09-15 |
+| 7 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 124,118 | 2026-09-16 |
+| 8 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 114,880 | 2026-09-15 |
+| 9 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 106,140 | 2026-09-17 |
+| 10 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 96,643 | 2026-09-17 |
 
-➡️ Полный список: [top-repos.csv](../data/2026-09-16/rankings/top-repos.csv)
+➡️ Полный список: [top-repos.csv](../data/2026-09-17/rankings/top-repos.csv)
 
 </details>
 
@@ -205,18 +205,18 @@
 
 | # | Skill | Возраст (дни) | Популярность |
 | --- | --- | --- | --- |
-| 1 | multi-search-engine | 28 | 0.993 |
-| 2 | tencent-meeting-mcp | 12 | 0.971 |
-| 3 | talking-avatar-video | 14 | 0.957 |
-| 4 | mysteel-datasearch | 15 | 0.955 |
-| 5 | ai-podcast-voiceover | 14 | 0.945 |
-| 6 | suno-lyrics-to-song | 5 | 0.939 |
-| 7 | gpt-image-2-5-studio | 3 | 0.933 |
-| 8 | whiteboard-animation-maker | 3 | 0.928 |
-| 9 | ecommerce-listing-image-set | 27 | 0.926 |
-| 10 | hot-topic-content-maker | 27 | 0.925 |
+| 1 | multi-search-engine | 29 | 0.993 |
+| 2 | parenting-expert | 1 | 0.981 |
+| 3 | tencent-meeting-mcp | 13 | 0.97 |
+| 4 | mysteel-datasearch | 16 | 0.962 |
+| 5 | talking-avatar-video | 15 | 0.955 |
+| 6 | ai-podcast-voiceover | 15 | 0.944 |
+| 7 | suno-lyrics-to-song | 6 | 0.937 |
+| 8 | gpt-image-2-5-studio | 4 | 0.931 |
+| 9 | whiteboard-animation-maker | 4 | 0.926 |
+| 10 | ecommerce-listing-image-set | 28 | 0.924 |
 
-➡️ Полный список: [rising-stars.csv](../data/2026-09-16/rankings/rising-stars.csv)
+➡️ Полный список: [rising-stars.csv](../data/2026-09-17/rankings/rising-stars.csv)
 
 </details>
 
