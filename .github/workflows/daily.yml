@@ -9,6 +9,11 @@
 #   - after 00:00 UTC, because days are archived by UTC date — running before that
 #     would write into yesterday's folder
 #   - off the hour, because scheduled runs are commonly delayed at the top of an hour
+#
+# The primary trigger is NOT the schedule below: GitHub's cron has been arriving
+# 4-5 h late on the Free plan, so a Cloudflare Worker (best-skills-runner/trigger)
+# dispatches this workflow at 01:17 UTC via the API. The schedule stays as a
+# fallback and skips itself when the day is already published.
 name: daily
 
 on:
@@ -74,7 +79,20 @@ jobs:
           git config user.name  "Linkly AI"
           git config user.email "150816584+linkly-ai@users.noreply.github.com"
 
+      # Fallback-only guard: the late scheduled run must not re-collect (and
+      # burn the X / LLM quota) when the Worker-dispatched run already shipped.
+      - name: Skip if today is already published
+        id: guard
+        if: github.event_name == 'schedule'
+        run: |
+          TODAY=$(date -u +%F)
+          if [ -d "data/$TODAY/rankings" ]; then
+            echo "data/$TODAY already published — skipping fallback run"
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run pipeline
+        if: steps.guard.outputs.skip != '1'
         working-directory: runner
         env:
           GITHUB_TOKEN: ${{ github.token }} # reads stars and mention counts
