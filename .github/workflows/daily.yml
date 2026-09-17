@@ -12,7 +12,7 @@
 #
 # The primary trigger is NOT the schedule below: GitHub's cron has been arriving
 # 4-5 h late on the Free plan, so a Cloudflare Worker (best-skills-runner/trigger)
-# dispatches this workflow at 01:17 UTC via the API. The schedule stays as a
+# dispatches this workflow at 00:30 UTC via the API. The schedule stays as a
 # fallback and skips itself when the day is already published.
 name: daily
 
