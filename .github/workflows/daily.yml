@@ -25,6 +25,10 @@ on:
         required: false
         type: boolean
         default: false
+      allow_drift:
+        description: "Raw files whose day-over-day row-count drift is accepted this run, comma-separated (e.g. clawhub-official). Only for a confirmed upstream change."
+        required: false
+        type: string
 
 concurrency:
   group: daily
@@ -84,11 +88,13 @@ jobs:
           BEST_SKILLS_REPO_PATH: ${{ github.workspace }}
           DATE_ARG: ${{ inputs.date }}
           NO_PUSH: ${{ inputs.no_push }}
+          ALLOW_DRIFT: ${{ inputs.allow_drift }}
         run: |
           set -o pipefail
           ARGS=""
           [ -n "$DATE_ARG" ] && ARGS="$ARGS --date=$DATE_ARG"
           [ "$NO_PUSH" = "true" ] && ARGS="$ARGS --no-push"
+          [ -n "$ALLOW_DRIFT" ] && ARGS="$ARGS --allow-drift=$ALLOW_DRIFT"
           pnpm daily -- $ARGS 2>&1 | tee "$RUNNER_TEMP/run.log"
 
       # The exit code only covers validation errors and "every collector failed".
