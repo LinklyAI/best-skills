@@ -14,7 +14,7 @@ Base URL (stable, always today's data):
 3. Parse by header name, not by column position (RFC 4180: UTF-8, quoted fields may contain commas). An empty cell means "not measured on that platform", never zero. Multi-value cells use `|` as separator.
 4. Identify a skill by `skill_key` (globally unique). Recommend installation with the `install` column, link with `url` or `repo_url`.
 5. Same-name skills are different skills: three unrelated `frontend-design` entries can exist. Always show `vendor` or `skill_key` alongside `skill`.
-6. History: replace `latest` with a date, `.../data/2026-09-01/rankings/best-100.csv` (daily since 2026-08-16).
+6. History: replace `latest` with a date, `.../data/2026-09-01/rankings/best-100.csv` (daily since 2026-08-16). `skill_key`, `repo_url` and `install` exist from 2026-09-20 on; earlier days have the other columns only.
 
 Examples:
 
