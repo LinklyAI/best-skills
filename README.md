@@ -34,6 +34,22 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 - **Raw numbers preserved** — every CSV keeps per-platform original counts so anyone can verify or re-rank
 - **Never adds apples to oranges** — cross-platform numbers are shown side by side, ranked by within-platform percentile composite (see [methodology](docs/methodology.md))
 
+## How to use the rankings
+
+**Reading it yourself.** Each list answers one question (see [What each list means](#what-each-list-means)); `best-100` is the place to start. The tables below show each list's Top 10, the CSVs hold the full Top 100, and [linkly.ai/skills](https://linkly.ai/skills) renders them for browsing. `Cov` tells you how many registries a score rests on (A = all three, C = one), and every CSV keeps the per-platform counts next to the score, so any number can be checked against its source.
+
+**Giving it to an AI agent.** Paste one line into Claude Code, Codex, Cursor, OpenClaw or any agent that can fetch a URL:
+
+```text
+Read https://linkly.ai/skills/llms.txt
+```
+
+[llms.txt](llms.txt) tells the agent where the CSVs are, what every column means, how to go from a question to the right file, and the rules for using the numbers. To make the rankings part of an agent's standing knowledge instead, install this repository as a skill:
+
+```bash
+npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
+```
+
 ## Rankings
 
 <!-- RANKINGS:START -->
@@ -253,8 +269,6 @@ data/
 ```
 
 One folder per day, CSV only. Composite scores are always accompanied by the raw per-platform numbers they were derived from — start from `data/latest/` if you just want today's lists.
-
-**Using an AI agent?** Point it at [llms.txt](llms.txt) (Get Started, column dictionary, rules), or install this repository as a skill: `npx skills add https://github.com/LinklyAI/best-skills --skill best-skills`.
 
 See [docs/methodology.md](docs/methodology.md) for data sources, normalization rules, and known limitations.
 
