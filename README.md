@@ -254,6 +254,8 @@ data/
 
 One folder per day, CSV only. Composite scores are always accompanied by the raw per-platform numbers they were derived from — start from `data/latest/` if you just want today's lists.
 
+**Using an AI agent?** Point it at [llms.txt](llms.txt) (Get Started, column dictionary, rules), or install this repository as a skill: `npx skills add https://github.com/LinklyAI/best-skills --skill best-skills`.
+
 See [docs/methodology.md](docs/methodology.md) for data sources, normalization rules, and known limitations.
 
 ## Data sources & attribution

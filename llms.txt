@@ -1,0 +1,83 @@
+# Best Agent Skills
+
+> Daily Top 100 rankings of AI agent skills, merged across skills.sh, ClawHub, Tencent SkillHub, GitHub and social platforms (X, Hacker News, Bluesky). Nine lists, plain CSV, refreshed every day around 01:00 UTC, CC BY 4.0. Source: https://github.com/LinklyAI/best-skills
+
+Use this data to answer questions like "which agent skill should I install for X", "what is trending this week", "is skill Y popular or trusted", or to compare skills across ecosystems. Every list keeps the raw per-platform numbers next to any computed score, so you can cite or re-rank.
+
+## Get started
+
+Base URL (stable, always today's data):
+`https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/`
+
+1. Pick the list that answers the question (see "Lists" below). One list is one CSV, 4–90 KB, at most 100 rows.
+2. Fetch it: `curl -sL <base>/best-100.csv`.
+3. Parse by header name, not by column position (RFC 4180: UTF-8, quoted fields may contain commas). An empty cell means "not measured on that platform", never zero. Multi-value cells use `|` as separator.
+4. Identify a skill by `skill_key` (globally unique). Recommend installation with the `install` column, link with `url` or `repo_url`.
+5. Same-name skills are different skills: three unrelated `frontend-design` entries can exist. Always show `vendor` or `skill_key` alongside `skill`.
+6. History: replace `latest` with a date, `.../data/2026-09-01/rankings/best-100.csv` (daily since 2026-08-16).
+
+Examples:
+
+```
+# Is agent-browser worth installing? (rank, score, install command)
+curl -sL https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/best-100.csv | grep -i ',agent-browser,'
+# Top 10 fastest growing this week
+curl -sL https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/trending-7d.csv | head -11
+```
+
+## Lists
+
+- [best-100.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/best-100.csv): overall "worth installing" ranking by `wis` (0–100). Start here for recommendations. Skills younger than 30 days are in rising-stars instead.
+- [top-installs.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/top-installs.csv): most installed across all registries, ordered by `pop_score`. Raw counts per platform side by side.
+- [trending-7d.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/trending-7d.csv): fastest growing this week on skills.sh (skills.sh entities only).
+- [social-buzz.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/social-buzz.csv): most talked about on X, Hacker News, Bluesky and GitHub in the last 7 days. Generic one-word names (github, weather) are excluded because their mentions cannot be attributed. Often fewer than 100 rows.
+- [most-active.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/most-active.csv): popular skills updated most recently and most often (ClawHub only, the sole source with update timestamps).
+- [official-100.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/official-100.csv): most popular skills from platform-verified publishers.
+- [official-vendors.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/official-vendors.csv): verified publishers ranked by total installs, per platform.
+- [top-repos.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/top-repos.csv): GitHub repositories behind the skills, by stars. Stars are repo-level and never rank individual skills.
+- [rising-stars.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/rankings/rising-stars.csv): best newcomers, first seen under 30 days ago.
+
+## Columns
+
+Seven lists (all except official-vendors and top-repos) share these identity columns, in this order:
+
+- `rank`: 1-based position in this list
+- `skill`: short name as the registry shows it; not unique across vendors or platforms
+- `skill_key`: unique id. `ss:<owner/repo>/<name>` (skills.sh), `ch:<slug>` (ClawHub), `sh:<slug>` (Tencent SkillHub). Same value across all lists and all days
+- `platform`: primary registry: `skills.sh`, `clawhub` or `skillhub-cn`
+- `vendor`: publisher (GitHub owner, ClawHub publisher or SkillHub certified company); may be empty
+- `source_skillssh`: skills.sh source, normally a GitHub `owner/repo`; a bare domain means a vendor-hosted registry
+- `slug_clawhub`: ClawHub slug
+- `url`: skill page on its registry; empty for SkillHub-only skills (no addressable page)
+- `repo_url`: `https://github.com/<owner/repo>` for skills.sh skills hosted on GitHub; empty otherwise (ClawHub and SkillHub publish no repository)
+- `install`: copy-pasteable command. skills.sh: `npx skills add https://github.com/<owner/repo> --skill <name>`; ClawHub: `openclaw skills install @<owner>/<slug>`. Empty when the repo or owner is unknown, and for SkillHub-only skills
+- `match`: how cross-platform rows were joined: `upstream` (exact SkillHub→ClawHub link), `upstream-unresolved`, `single` (one source)
+- `description`, `description_zh`: English / Chinese summary from ClawHub or SkillHub; skills.sh provides none, so most skills.sh rows are empty
+
+Per-list columns after the identity block:
+
+- best-100: `installs_skillssh`, `downloads_clawhub`, `downloads_skillhub_cn` (raw counts); `wis` (0–100); the five dimensions `popularity` (0.30), `momentum` (0.15), `buzz` (0.20), `maintenance` (0.15), `trust` (0.20), each 0–1, empty = not measured (neutral prior 0.3 used); `coverage` A/B/C = number of registries with install data (3/2/1); `anomaly`: non-empty (`identical-counts:<vendor>`) when 3+ skills of one vendor share an identical count, which multiplies `wis` by 0.6
+- top-installs: raw counts as above; `pop_score` (0–1, within-platform install percentile composite); `coverage`
+- trending-7d: `installs_skillssh`, `trending_rank_skillssh` (position on skills.sh trending), `weekly_recent`, `weekly_prev` (installs in the last two weekly buckets), `growth_pct` (week over week, empty when the previous week was the launch week), `data_source`
+- social-buzz: `x_mentions_7d` with `x_truncated` (true = capped at 100), `hn_hits_7d` and `bsky_hits_7d` (LLM-filtered estimates) with `hn_raw_7d` and `bsky_raw_7d` (pre-filter totals), `gh_mentions_7d`, `x_engagement_7d` (likes + reposts), `buzz_score` (0–1), `buzz_shared` (true = mentions may belong to a same-name skill)
+- most-active: `last_update` (ClawHub, YYYY-MM-DD), `versions_clawhub`, `installs_or_downloads` (first available of skills.sh installs, ClawHub downloads, SkillHub downloads), `freshness_score` (0–1), `data_scope`
+- official-100: `verified_by` (`skills.sh`, `clawhub`, `skillhub`, `|`-joined), raw counts, `pop_score`
+- rising-stars: `first_seen_days` (age in days), raw counts, `pop_score`
+- official-vendors: `rank`, `platform`, `vendor`, `skills_count`, `tracked_skills`, `total_installs_or_downloads`, `featured_skill`
+- top-repos: `rank`, `repo` (GitHub `owner/repo`), `stars`, `stars_1d` (change since yesterday), `pushed_at`, `skills_tracked` (skills from this repo in our data), `topics` (`|`-separated)
+
+## Rules
+
+- Never add numbers across platforms. skills.sh, ClawHub and SkillHub count different things (ecosystems, regions, dedup rules); SkillHub counts China-region activity that is additional to, not a mirror of, ClawHub. Present them side by side.
+- A skill absent from a list is not ranked zero; each list is truncated at 100 and only covers entities the list's sources can see (trending-7d and most-active are single-platform by design).
+- skills.sh installs are bundle-level: installing a repo counts once for every skill in it, so sibling skills of one repo cluster together.
+- Social counts are English-dominant estimates for the last 7 calendar days; X is collected only for the top 50 buzz candidates.
+- Attribution when you republish: "Data from Best Skills (https://github.com/LinklyAI/best-skills) by @BlueeonY — CC BY 4.0".
+
+## Optional
+
+- [Methodology](https://github.com/LinklyAI/best-skills/blob/main/docs/methodology.md): data sources, score formulas, known limitations, changelog of column and weight changes
+- [Raw per-platform snapshots](https://github.com/LinklyAI/best-skills/tree/main/data/latest/raw): `skills-sh.csv` (1,800 rows), `clawhub.csv`, `skillhub.csv`, `skillhub-enterprise.csv` (1,000 each), `github-repos.csv` (5,000+ repos, 1.5 MB), `skills-sh-official.csv`, `clawhub-official.csv`, `buzz.csv`, `x-posts.csv`. Use these when the Top 100 is not enough
+- [First-seen index](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/index/first-seen.csv): `key,first_seen` for every entity ever observed (`key` = `skill_key`)
+- [SKILL.md](https://github.com/LinklyAI/best-skills/blob/main/SKILL.md): install this repository as an agent skill: `npx skills add https://github.com/LinklyAI/best-skills --skill best-skills`
+- [Web version](https://linkly.ai/skills): the same lists rendered for humans, by Linkly AI
