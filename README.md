@@ -33,6 +33,7 @@ Every skills registry only sees its own ecosystem. skills.sh counts Claude/Verce
 - **9 rankings**, refreshed daily
 - **Raw numbers preserved** — every CSV keeps per-platform original counts so anyone can verify or re-rank
 - **Never adds apples to oranges** — cross-platform numbers are shown side by side, ranked by within-platform percentile composite (see [methodology](docs/methodology.md))
+- **Judged by [jev](https://openrouter.ai/typesafe/jev-1.13), not keyword counts** — TypeSafe's decision model checks whether each social post is really about the skill, whether a listing is a real, maintained skill, and which category it belongs to; placeholders, deprecated and harmful listings are left out of the rankings, and every probability is published (see [methodology](docs/methodology.md#judgements-jev))
 
 ## How to use the rankings
 
@@ -259,7 +260,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # per-platform original counts, untouched
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # the 9 ranking lists computed from raw/
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv

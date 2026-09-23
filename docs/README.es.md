@@ -33,6 +33,7 @@ Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las insta
 - **9 clasificaciones**, actualizadas a diario
 - **Cifras originales conservadas**: cada CSV mantiene los recuentos originales por plataforma para que cualquiera pueda verificarlos o generar su propia clasificación
 - **Nunca suma magnitudes incomparables**: las cifras entre plataformas se muestran en paralelo y se ordenan con un índice compuesto de percentiles dentro de cada plataforma (consulta la [metodología](methodology.md))
+- **Evaluado por [jev](https://openrouter.ai/typesafe/jev-1.13), no por recuento de palabras clave**: el modelo de decisión de TypeSafe comprueba si cada publicación social trata realmente de la skill, si una entrada es una skill real y mantenida, y a qué categoría pertenece; las entradas de relleno, obsoletas o dañinas quedan fuera de los rankings, y todas las probabilidades se publican (consulta la [metodología](methodology.md#judgements-jev))
 
 ## Clasificaciones
 
@@ -243,7 +244,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # recuentos originales por plataforma, sin modificar
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # las 9 clasificaciones calculadas desde raw/
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv

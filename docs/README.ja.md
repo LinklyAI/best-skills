@@ -33,6 +33,7 @@
 - **9 種類のランキング**を毎日更新
 - **元の数値を保持**——各 CSV にはプラットフォームごとの元データが残り、誰でも検証や再ランキングが可能
 - **比較できない数値は合算しない**——プラットフォーム横断の数値は並べて表示し、各プラットフォーム内のパーセンタイル複合値で順位付け（[方法論](methodology.md)を参照）
+- **キーワード件数ではなく [jev](https://openrouter.ai/typesafe/jev-1.13) が判定**——TypeSafe の判定モデルが、各 SNS 投稿が本当にそのスキルについてのものか、掲載が実際に使える保守中のスキルか、どのカテゴリに属するかを判定。プレースホルダー・非推奨・有害な掲載はランキングから除外し、判定確率はすべて公開（[方法論](methodology.md#judgements-jev)を参照）
 
 ## ランキング
 
@@ -243,7 +244,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # プラットフォームごとの元データ（未加工）
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # raw/ から算出した 9 種類のランキング
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv

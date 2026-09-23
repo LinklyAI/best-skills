@@ -33,6 +33,7 @@
 - **9 个排行榜**，每日刷新
 - **保留原始数据**——每份 CSV 都保存各平台的原始计数，任何人都可以验证或重新排名
 - **绝不混加不可比数据**——跨平台数据并排展示，并按各平台内部的百分位综合得分排名（参见[方法论](methodology.md)）
+- **由 [jev](https://openrouter.ai/typesafe/jev-1.13) 判定，而非关键词计数**——TypeSafe 的判别模型逐条判断社交帖子是否真在谈论该 Skill、条目是否为真实且仍在维护的 Skill、以及所属类别；占位、已弃用和有害的条目不进入排行榜，所有判定概率均公开（参见[方法论](methodology.md#judgements-jev)）
 
 ## 排行榜
 
@@ -243,7 +244,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # 各平台原始计数，未经修改
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # 根据 raw/ 计算出的 9 个排行榜
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv

@@ -33,6 +33,7 @@ Jedes Skills-Verzeichnis sieht nur sein eigenes Ökosystem. skills.sh zählt Ins
 - **9 Ranglisten**, täglich aktualisiert
 - **Originalwerte bleiben erhalten** – jede CSV-Datei enthält die ursprünglichen Zahlen je Plattform, sodass alle Daten überprüft oder neu gewichtet werden können
 - **Nicht vergleichbare Werte werden nie addiert** – plattformübergreifende Zahlen werden nebeneinander gezeigt und anhand eines zusammengesetzten Perzentilwerts innerhalb jeder Plattform eingeordnet (siehe [Methodik](methodology.md))
+- **Von [jev](https://openrouter.ai/typesafe/jev-1.13) beurteilt statt nach Stichwörtern gezählt** – das Entscheidungsmodell von TypeSafe prüft, ob ein Social-Media-Beitrag wirklich vom Skill handelt, ob ein Eintrag ein echter, gepflegter Skill ist und zu welcher Kategorie er gehört; Platzhalter, veraltete und schädliche Einträge kommen nicht in die Rankings, und alle Wahrscheinlichkeiten werden veröffentlicht (siehe [Methodik](methodology.md#judgements-jev))
 
 ## Ranglisten
 
@@ -243,7 +244,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # unveränderte Originalwerte je Plattform
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # die 9 aus raw/ berechneten Ranglisten
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv

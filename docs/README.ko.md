@@ -33,6 +33,7 @@
 - 매일 갱신되는 **9개 순위**
 - **원본 수치 보존** — 모든 CSV에 플랫폼별 원본 집계를 유지해 누구나 검증하거나 다시 순위를 매길 수 있습니다
 - **비교할 수 없는 수치를 합산하지 않음** — 플랫폼 간 수치는 나란히 표시하고, 플랫폼 내부 백분위 종합 점수로 순위를 매깁니다([방법론](methodology.md) 참조)
+- **키워드 집계가 아닌 [jev](https://openrouter.ai/typesafe/jev-1.13) 판정** — TypeSafe의 판정 모델이 각 소셜 게시물이 실제로 해당 스킬에 관한 것인지, 등록 항목이 실제로 유지되는 스킬인지, 어떤 카테고리에 속하는지를 판단합니다. 자리표시자·지원 중단·유해 항목은 순위에서 제외되며 모든 확률값은 공개됩니다([방법론](methodology.md#judgements-jev) 참조)
 
 ## 순위
 
@@ -243,7 +244,7 @@ data/
 ├── YYYY-MM-DD/
 │   ├── raw/                # 플랫폼별 원본 집계, 수정 없음
 │   │   ├── skills-sh.csv · clawhub.csv · skillhub.csv · github-repos.csv
-│   │   └── buzz.csv · x-posts.csv · …
+│   │   └── buzz.csv · x-posts.csv · judgments.csv · …
 │   └── rankings/           # raw/에서 계산한 9개 순위 목록
 │       ├── best-100.csv · top-installs.csv · trending-7d.csv
 │       └── social-buzz.csv · … · rising-stars.csv
