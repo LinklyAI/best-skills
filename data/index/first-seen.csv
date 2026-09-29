@@ -1080,6 +1080,7 @@ sh:anysearch,2026-08-16
 sh:ardot,2026-08-16
 sh:asr-transcribe-local,2026-09-15
 sh:audit-new,2026-08-16
+sh:auto-updater,2026-09-29
 sh:baoyu-infographic,2026-08-16
 sh:baoyu-post-to-wechat,2026-08-16
 sh:baozheng,2026-08-16
@@ -1139,6 +1140,7 @@ sh:chinese-official-writing,2026-08-16
 sh:chongqing-bid-analysis-shibo,2026-08-18
 sh:chongqing-bid-analysis-shibo-aliyun,2026-08-18
 sh:chromadb-memory,2026-08-16
+sh:cic,2026-09-29
 sh:city-weather-poster-generator-showapi,2026-09-05
 sh:classroom-lesson-pack,2026-09-07
 sh:clean-code-review,2026-08-16
@@ -1426,6 +1428,7 @@ sh:memory-manager-v2,2026-08-16
 sh:mermaid-diagram,2026-08-16
 sh:mglc-wx-video-decomposer,2026-09-04
 sh:mineru,2026-08-29
+sh:miniapp-single-canvas-ui-group-generator-showapi,2026-09-29
 sh:minimax-h3-ai-video,2026-09-21
 sh:minimax-xlsx,2026-08-16
 sh:mining-bid-analysis-shibo-aliyun,2026-08-18
@@ -1723,6 +1726,7 @@ sh:whole-network-bid-intelligence-assistant,2026-08-18
 sh:wholesale-bid-analysis-shibo-aliyun,2026-08-18
 sh:word,2026-08-16
 sh:word-cn-format,2026-08-16
+sh:word-docx,2026-09-29
 sh:word-formatter,2026-08-16
 sh:workbuddy-assistant,2026-09-12
 sh:workbuddy-gift-claimer,2026-08-21
@@ -3167,10 +3171,12 @@ ss:apidojo-io/apidojo-skills/discovering-tiktok-creators-by-niche,2026-09-03
 ss:apidojo-io/apidojo-skills/discovering-tiktok-shop-sellers-by-niche,2026-09-03
 ss:apidojo-io/apidojo-skills/discovering-viral-youtube-videos-by-category,2026-09-12
 ss:apidojo-io/apidojo-skills/extracting-google-paa-questions-for-seo,2026-09-03
+ss:apidojo-io/apidojo-skills/extracting-tiktok-comments-for-research,2026-09-29
 ss:apidojo-io/apidojo-skills/extracting-youtube-comments-for-research,2026-09-11
 ss:apidojo-io/apidojo-skills/finding-brand-ambassador-candidates,2026-09-25
 ss:apidojo-io/apidojo-skills/finding-brand-collaborations-on-tiktok,2026-09-04
 ss:apidojo-io/apidojo-skills/finding-data-scientists-on-twitter,2026-09-05
+ss:apidojo-io/apidojo-skills/finding-designers-and-creatives-on-twitter,2026-09-29
 ss:apidojo-io/apidojo-skills/finding-digital-agencies-via-google-search,2026-09-05
 ss:apidojo-io/apidojo-skills/finding-fitness-brands-on-tiktok,2026-09-03
 ss:apidojo-io/apidojo-skills/finding-freelancers-by-skill-on-twitter,2026-09-11
@@ -3210,6 +3216,7 @@ ss:apidojo-io/apidojo-skills/scraping-tweets-from-account,2026-09-03
 ss:apidojo-io/apidojo-skills/scraping-twitter-profile-tweets,2026-09-03
 ss:apidojo-io/apidojo-skills/scraping-twitter-profiles,2026-09-10
 ss:apidojo-io/apidojo-skills/scraping-urban-dictionary-definitions,2026-09-11
+ss:apidojo-io/apidojo-skills/scraping-youtube-channel-info,2026-09-29
 ss:apidojo-io/apidojo-skills/scraping-youtube-comments,2026-09-06
 ss:apidojo-io/apidojo-skills/scraping-youtube-playlist,2026-09-19
 ss:apidojo-io/apidojo-skills/tracking-brand-sentiment-across-platforms,2026-09-04
@@ -3838,6 +3845,7 @@ ss:bmad-code-org/bmad-method/bmad-retrospective,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-review,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-spec,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-sprint-planning,2026-09-06
+ss:bmad-code-org/bmad-method/bmad-ticket,2026-09-29
 ss:bmad-code-org/bmad-method/bmad-ux,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-walkthrough,2026-09-06
 ss:bobmatnyc/claude-mpm-skills/drizzle,2026-09-03
@@ -4374,6 +4382,7 @@ ss:clerk/skills/clerk-tanstack-patterns,2026-08-20
 ss:clerk/skills/clerk-testing,2026-08-16
 ss:clerk/skills/clerk-vue-patterns,2026-08-20
 ss:clerk/skills/clerk-webhooks,2026-08-16
+ss:clevercloud/clever-tools/clever-tools,2026-09-29
 ss:cli.sentry.dev/sentry-cli,2026-08-17
 ss:cli/cli/gh,2026-08-17
 ss:clickhouse/agent-skills/chdb-datastore,2026-09-13
@@ -6882,6 +6891,24 @@ ss:gmgnai/gmgn-skills/gmgn-track,2026-08-26
 ss:gmgnai/gmgn-skills/gmgn-wallet-analysis,2026-09-01
 ss:gntc-labs/skills/vibehost-deploy,2026-08-22
 ss:gogf/skills/goframe-v2,2026-08-18
+ss:goldsky-io/goldsky-agent/auth-setup,2026-09-29
+ss:goldsky-io/goldsky-agent/boost,2026-09-29
+ss:goldsky-io/goldsky-agent/compose,2026-09-29
+ss:goldsky-io/goldsky-agent/compose-doctor,2026-09-29
+ss:goldsky-io/goldsky-agent/datasets,2026-09-29
+ss:goldsky-io/goldsky-agent/edge,2026-09-29
+ss:goldsky-io/goldsky-agent/mirror,2026-09-29
+ss:goldsky-io/goldsky-agent/mirror-doctor,2026-09-29
+ss:goldsky-io/goldsky-agent/onchain-automation,2026-09-29
+ss:goldsky-io/goldsky-agent/secrets,2026-09-29
+ss:goldsky-io/goldsky-agent/subgraph-builder,2026-09-29
+ss:goldsky-io/goldsky-agent/subgraph-doctor,2026-09-29
+ss:goldsky-io/goldsky-agent/subgraph-migrate,2026-09-29
+ss:goldsky-io/goldsky-agent/turbo-builder,2026-09-29
+ss:goldsky-io/goldsky-agent/turbo-doctor,2026-09-29
+ss:goldsky-io/goldsky-agent/turbo-operations,2026-09-29
+ss:goldsky-io/goldsky-agent/turbo-pipelines,2026-09-29
+ss:goldsky-io/goldsky-agent/turbo-transforms,2026-09-29
 ss:google-antigravity/antigravity-sdk-python/google-antigravity-sdk,2026-09-20
 ss:google-deepmind/science-skills/alphagenome-atlas-website-links,2026-09-27
 ss:google-deepmind/science-skills/alphagenome-variant-impact-score,2026-09-27
@@ -6950,6 +6977,7 @@ ss:google/skills/bigquery-basics,2026-08-20
 ss:google/skills/bigquery-bigframes,2026-08-20
 ss:google/skills/bigquery-observability,2026-09-28
 ss:google/skills/bigquery-slot-cost-optimizer,2026-09-28
+ss:google/skills/bigquery-troubleshooting,2026-09-29
 ss:google/skills/bigtable-basics,2026-08-19
 ss:google/skills/cloud-build-basics,2026-08-28
 ss:google/skills/cloud-databases-onboarding,2026-08-28
@@ -8281,6 +8309,7 @@ ss:larksuite/cli/lark-workflow-standup-report,2026-08-16
 ss:larksuite/meegle-cli/meegle,2026-08-17
 ss:latent-spaces/brag/brag,2026-09-17
 ss:latent-spaces/brag/brag-slim,2026-09-26
+ss:launchdarkly/ai-tooling/onboarding,2026-09-29
 ss:laurigates/claude-plugins/helm-release-management,2026-08-26
 ss:laurigates/claude-plugins/uv-advanced-dependencies,2026-09-19
 ss:laurigates/claude-plugins/uv-project-management,2026-09-19
@@ -8368,6 +8397,7 @@ ss:layerai/skills/layer-reference-sets,2026-09-20
 ss:layerai/skills/layer-textures,2026-09-20
 ss:layerai/skills/layer-video,2026-09-20
 ss:layerai/skills/layer-video-timeline,2026-09-20
+ss:layerai/skills/layer-workflow-import,2026-09-29
 ss:layerai/skills/layer-workflows,2026-09-20
 ss:leandrocfe/skills/domain-modeling,2026-09-25
 ss:leandrocfe/skills/to-spec,2026-09-25
@@ -8816,7 +8846,36 @@ ss:max-sixty/worktrunk/wt-switch-create,2026-09-26
 ss:maximebrmd/supabase-axi/supabase-axi,2026-09-01
 ss:maxnorm/magento2-agent-skills/magento-hyva-specialist,2026-08-17
 ss:mbfinotti/advertising-skills/ad-negative-keywords,2026-09-20
+ss:mbfinotti/partnerships-skills/affiliate-commission-structure,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-disclosure-compliance,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-fraud-detection,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-onboarding-sequence,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-payout-audit,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-performance-dashboard,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-program-terms,2026-09-29
+ss:mbfinotti/partnerships-skills/affiliate-recruitment-outreach,2026-09-29
+ss:mbfinotti/partnerships-skills/alliance-prioritization,2026-09-29
+ss:mbfinotti/partnerships-skills/co-selling-strategy,2026-09-29
+ss:mbfinotti/partnerships-skills/influencer-campaign-brief,2026-09-29
+ss:mbfinotti/partnerships-skills/influencer-discovery-brief,2026-09-29
+ss:mbfinotti/partnerships-skills/influencer-measurement-framework,2026-09-29
+ss:mbfinotti/partnerships-skills/influencer-negotiation-playbook,2026-09-29
+ss:mbfinotti/partnerships-skills/influencer-outreach,2026-09-29
+ss:mbfinotti/partnerships-skills/joint-gtm-planning,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-channel-conflict,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-channel-program,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-economics,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-ecosystem,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-ecosystem-expansion,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-enablement,2026-09-29
 ss:mbfinotti/partnerships-skills/partner-marketplace-strategy,2026-09-16
+ss:mbfinotti/partnerships-skills/partner-performance,2026-09-29
+ss:mbfinotti/partnerships-skills/partner-tiering,2026-09-29
+ss:mbfinotti/partnerships-skills/partnerships-career,2026-09-29
+ss:mbfinotti/partnerships-skills/partnerships-hiring,2026-09-29
+ss:mbfinotti/partnerships-skills/partnerships-kickoff,2026-09-29
+ss:mbfinotti/partnerships-skills/referral-abuse-guardrails,2026-09-29
+ss:mbfinotti/partnerships-skills/referral-incentive-design,2026-09-29
 ss:mbfinotti/revops-skills/crm-data-governance,2026-09-28
 ss:mbfinotti/revops-skills/customer-health-score,2026-09-28
 ss:mbfinotti/revops-skills/lead-scoring,2026-09-28
@@ -8948,6 +9007,7 @@ ss:mengto/skills/webgl-laser,2026-08-25
 ss:mengto/skills/write-like-meng-on-x,2026-08-25
 ss:meshy-dev/meshy-3d-agent/meshy-3d-generation,2026-08-21
 ss:metabase/agent-skills/metabase-cli,2026-09-26
+ss:metabase/agent-skills/rde,2026-09-29
 ss:metabase/metabase/add-malli-schemas,2026-09-01
 ss:metabase/metabase/clojure-review,2026-09-01
 ss:metabase/metabase/clojure-write,2026-09-18
@@ -9397,6 +9457,7 @@ ss:n8n-io/skills/n8n-binary-and-data-official,2026-09-25
 ss:n8n-io/skills/n8n-code-nodes-official,2026-08-17
 ss:n8n-io/skills/n8n-credentials-and-security-official,2026-08-17
 ss:n8n-io/skills/n8n-data-tables-official,2026-09-25
+ss:n8n-io/skills/n8n-debugging-official,2026-09-29
 ss:n8n-io/skills/n8n-error-handling-official,2026-08-17
 ss:n8n-io/skills/n8n-expressions-official,2026-08-17
 ss:n8n-io/skills/n8n-node-configuration-official,2026-08-17
@@ -9972,6 +10033,7 @@ ss:oil-oil/codex-deepseek-subagent/codex-deepseek-subagent,2026-09-18
 ss:oil-oil/codex/codex,2026-09-20
 ss:oil-oil/ui-ux-guide/oiloil-ui-ux-guide,2026-08-19
 ss:oil-oil/video-editor/video-editor,2026-09-22
+ss:okooo5km/jev/jev,2026-09-29
 ss:okx/agent-skills/earn-hunter,2026-08-22
 ss:okx/agent-skills/okx-cex-bot,2026-08-22
 ss:okx/agent-skills/okx-cex-earn,2026-08-22
@@ -9992,6 +10054,7 @@ ss:okx/onchainos-skills/okx-dex-market,2026-08-16
 ss:okx/onchainos-skills/okx-growth-competition,2026-08-24
 ss:okx/onchainos-skills/okx-guide,2026-08-16
 ss:olcubo/cubox-cli/cubox,2026-09-20
+ss:omer-metin/skills-for-antigravity/community-strategy,2026-09-29
 ss:omer-metin/skills-for-antigravity/game-design,2026-08-24
 ss:omer-metin/skills-for-antigravity/pixel-art-sprites,2026-08-23
 ss:one-host/flex/component-architecture,2026-09-24
@@ -11330,6 +11393,7 @@ ss:ryan-minato/skills/meta-harness-building,2026-09-15
 ss:ryan-minato/skills/meta-python-defaults,2026-09-15
 ss:ryan-minato/skills/meta-workflow-design,2026-09-15
 ss:rysweet/amplihack/model-evaluation-benchmark,2026-09-15
+ss:ryvn-technologies/skills/use-ryvn,2026-09-29
 ss:s15039733700-cpu/pongfi-skills/pongfi-research,2026-08-25
 ss:s1dashu/ip-as-logo-skill/ip-as-logo,2026-08-19
 ss:saadeghi/daisyui/daisyui,2026-08-23
@@ -11903,6 +11967,7 @@ ss:sentimony/skills/prose-crafting,2026-09-26
 ss:sentimony/skills/review-request,2026-09-22
 ss:sentimony/skills/review-resolution,2026-09-22
 ss:sentimony/skills/scope-triage,2026-09-22
+ss:sentimony/skills/secret-hygiene,2026-09-29
 ss:sentimony/skills/skill-crafting,2026-09-26
 ss:sentimony/skills/subagent-plan-dev,2026-09-22
 ss:sentimony/skills/tdd,2026-09-22
@@ -12655,6 +12720,7 @@ ss:tavily-ai/skills/tavily-research,2026-08-19
 ss:tavily-ai/skills/tavily-search,2026-08-20
 ss:taxueseek/session-digger/session-digger,2026-09-26
 ss:tech-leads-club/agent-skills/not-your-babysitter,2026-09-24
+ss:tech-leads-club/agent-skills/spec-driven-eval,2026-09-29
 ss:tech-leads-club/agent-skills/tlc-spec-driven,2026-09-24
 ss:teeverc/effect-ts/effect-ts,2026-08-21
 ss:temporalio/skill-temporal-developer/temporal-developer,2026-08-17
@@ -12909,6 +12975,7 @@ ss:trailofbits/skills/codeql,2026-08-28
 ss:trailofbits/skills/constant-time-analysis,2026-09-17
 ss:trailofbits/skills/constant-time-testing,2026-09-17
 ss:trailofbits/skills/cosmos-vulnerability-scanner,2026-09-17
+ss:trailofbits/skills/coverage-analysis,2026-09-29
 ss:trailofbits/skills/crypto-protocol-diagram,2026-09-17
 ss:trailofbits/skills/devcontainer-setup,2026-09-17
 ss:trailofbits/skills/diagramming-code,2026-09-17
@@ -12917,6 +12984,7 @@ ss:trailofbits/skills/dimensional-analysis,2026-09-17
 ss:trailofbits/skills/dwarf-expert,2026-09-17
 ss:trailofbits/skills/entry-point-analyzer,2026-09-17
 ss:trailofbits/skills/firebase-apk-scanner,2026-09-17
+ss:trailofbits/skills/fp-check,2026-09-29
 ss:trailofbits/skills/fuzzing-dictionary,2026-09-17
 ss:trailofbits/skills/fuzzing-obstacles,2026-08-19
 ss:trailofbits/skills/genotoxic,2026-09-17
@@ -13710,6 +13778,7 @@ ss:wshobson/agents/changelog-automation,2026-08-23
 ss:wshobson/agents/checkpoint-promotion,2026-08-23
 ss:wshobson/agents/code-review-excellence,2026-08-23
 ss:wshobson/agents/competitive-landscape,2026-08-23
+ss:wshobson/agents/connectivity-triage,2026-09-29
 ss:wshobson/agents/context-driven-development,2026-08-23
 ss:wshobson/agents/cost-optimization,2026-08-23
 ss:wshobson/agents/cqrs-implementation,2026-08-23
@@ -13743,6 +13812,7 @@ ss:wshobson/agents/gitops-workflow,2026-08-19
 ss:wshobson/agents/go-concurrency-patterns,2026-08-23
 ss:wshobson/agents/godot-gdscript-patterns,2026-08-21
 ss:wshobson/agents/grafana-dashboards,2026-08-19
+ss:wshobson/agents/grounded-vault,2026-09-29
 ss:wshobson/agents/grpo-rlvr-training,2026-08-23
 ss:wshobson/agents/hads,2026-08-23
 ss:wshobson/agents/helm-chart-scaffolding,2026-08-23
