@@ -128,7 +128,7 @@ id,title,version,featured,publisher,trust
 @heygen-com/general-video,general-video,1.0.26,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.43,false,heygen-com,official
 @heygen-com/hyperframes-animation,hyperframes-animation,1.0.37,false,heygen-com,official
-@heygen-com/hyperframes-audio,hyperframes-audio,1.0.14,false,heygen-com,official
+@heygen-com/hyperframes-audio,hyperframes-audio,1.0.15,false,heygen-com,official
 @heygen-com/hyperframes-cli,hyperframes-cli,1.0.63,false,heygen-com,official
 @heygen-com/hyperframes-core,hyperframes-core,1.0.42,false,heygen-com,official
 @heygen-com/hyperframes-creative,hyperframes-creative,1.0.14,false,heygen-com,official
@@ -136,7 +136,7 @@ id,title,version,featured,publisher,trust
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.13,false,heygen-com,official
 @heygen-com/hyperframes-studio,hyperframes-studio,1.0.4,false,heygen-com,official
-@heygen-com/media-use,media-use,1.0.76,false,heygen-com,official
+@heygen-com/media-use,media-use,1.0.77,false,heygen-com,official
 @heygen-com/motion-graphics,motion-graphics,1.0.24,false,heygen-com,official
 @heygen-com/music-to-video,music-to-video,1.0.25,false,heygen-com,official
 @heygen-com/pr-to-video,pr-to-video,1.0.49,false,heygen-com,official
