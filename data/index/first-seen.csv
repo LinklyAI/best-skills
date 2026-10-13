@@ -1107,6 +1107,7 @@ sh:auto-updater,2026-09-29
 sh:baoyu-infographic,2026-08-16
 sh:baoyu-post-to-wechat,2026-08-16
 sh:baozheng,2026-08-16
+sh:bazi-master,2026-10-13
 sh:beatra,2026-08-17
 sh:beatra-ai-image-studio,2026-08-17
 sh:beatra-ai-music-creator,2026-08-17
@@ -1187,6 +1188,8 @@ sh:content-deai-engine,2026-08-16
 sh:content-hunter,2026-08-16
 sh:contextweave-interactive-architecture,2026-08-16
 sh:corporate-legal,2026-08-16
+sh:course-narration-studio,2026-10-13
+sh:course-video-studio,2026-10-13
 sh:cover-performance-preflight,2026-08-24
 sh:creator-account-teardown,2026-08-24
 sh:creator-course-outline,2026-09-08
@@ -1262,6 +1265,7 @@ sh:finance-bid-analysis-shibo-aliyun,2026-08-18
 sh:finance-news-pro,2026-08-16
 sh:finance-research-report,2026-08-16
 sh:financial-report-analysis,2026-08-16
+sh:find-cnki-literature,2026-10-13
 sh:find-skill-skillhub,2026-08-16
 sh:find-skills,2026-08-16
 sh:find-skills-3,2026-10-01
@@ -1357,6 +1361,7 @@ sh:interactive-courseware-builder,2026-10-06
 sh:international-organization-bid-analysis-shibo-aliyu,2026-08-18
 sh:ixhlink-skills-image-edit,2026-10-10
 sh:jarvis-voice,2026-08-16
+sh:java-expert,2026-10-13
 sh:jiangai,2026-08-16
 sh:jiangsu-bid-analysis-shibo,2026-08-18
 sh:jiangsu-bid-analysis-shibo-aliyun,2026-08-18
@@ -1467,8 +1472,10 @@ sh:majia-chatcut-koubo,2026-10-04
 sh:make-to-markdown,2026-08-16
 sh:manjuduanjushengcheng,2026-09-16
 sh:manufacturing-bid-analysis-shibo,2026-08-18
+sh:markdown-converter,2026-10-13
 sh:marketplace-main-image-preflight,2026-08-21
 sh:markitdown,2026-09-22
+sh:md-format,2026-10-13
 sh:md-to-wechat,2026-08-16
 sh:medical-health-bid-analysis-aliyun,2026-08-18
 sh:medical-professional-illustration-generator,2026-10-11
@@ -1564,6 +1571,7 @@ sh:ppt-lecture-notes,2026-08-31
 sh:ppt-logic-organizer,2026-10-03
 sh:ppt-maker,2026-08-16
 sh:ppt-master,2026-09-16
+sh:ppt-v2,2026-10-13
 sh:ppt-win32com-editor,2026-08-16
 sh:ppt-workflow,2026-08-16
 sh:pptx,2026-08-16
@@ -1835,6 +1843,7 @@ sh:xiezuowenfengfukedashi,2026-08-26
 sh:xinjiang-bid-analysis-shibo,2026-08-18
 sh:xinjiang-bid-analysis-shibo-aliyun,2026-08-18
 sh:xique-ai,2026-09-02
+sh:xique-bid-review-pay,2026-10-13
 sh:xique-tender-pay,2026-10-09
 sh:xuanzang-skill,2026-08-16
 sh:xueshulunwenyushenchaloudongsaomiao,2026-09-05
@@ -2701,6 +2710,7 @@ ss:albertmartorell1975/android-ai-workflow-foundation/compose-recomposition-perf
 ss:albertmartorell1975/android-ai-workflow-foundation/kotlin-coroutines-structured-concurrency,2026-09-17
 ss:albertmartorell1975/android-ai-workflow-foundation/testing-setup,2026-09-17
 ss:alchaincyf/darwin-skill/darwin-skill,2026-08-24
+ss:alchaincyf/huashu-art-motion/huashu-art-motion,2026-10-13
 ss:alchaincyf/huashu-design/huashu-design,2026-08-16
 ss:alchaincyf/huashu-excel/huashu-excel,2026-08-25
 ss:alchaincyf/huashu-flash/huashu-flash,2026-09-26
@@ -3438,6 +3448,7 @@ ss:apidojo-io/apidojo-skills/monitoring-instagram-hashtag-trends,2026-09-04
 ss:apidojo-io/apidojo-skills/monitoring-tech-acquisition-news-google,2026-09-11
 ss:apidojo-io/apidojo-skills/monitoring-trending-topics-twitter-by-niche,2026-10-04
 ss:apidojo-io/apidojo-skills/researching-internet-slang-and-cultural-trends,2026-09-10
+ss:apidojo-io/apidojo-skills/scraping-google-search-results,2026-10-13
 ss:apidojo-io/apidojo-skills/scraping-instagram-comments,2026-09-03
 ss:apidojo-io/apidojo-skills/scraping-instagram-location-posts,2026-09-03
 ss:apidojo-io/apidojo-skills/scraping-instagram-posts-by-hashtag,2026-10-08
@@ -3805,6 +3816,7 @@ ss:awesome-skills/code-review-skill/code-review-skill,2026-08-20
 ss:awesome-skills/mermaid-syntax-skill/mermaid-syntax,2026-08-19
 ss:awesome-skills/mobile-app-design/mobile app design standards,2026-09-18
 ss:awesomeaicode/ai/coco-skip-qa,2026-08-19
+ss:aws/agent-toolkit-for-aws/agent-advisor,2026-10-13
 ss:aws/agent-toolkit-for-aws/agents-build,2026-09-02
 ss:aws/agent-toolkit-for-aws/amazon-aurora-mysql,2026-08-29
 ss:aws/agent-toolkit-for-aws/amazon-aurora-postgresql,2026-08-18
@@ -3880,9 +3892,11 @@ ss:aws/agent-toolkit-for-aws/enabling-lambda-vpc-internet-access,2026-08-18
 ss:aws/agent-toolkit-for-aws/exploring-data-catalog,2026-08-29
 ss:aws/agent-toolkit-for-aws/exporting-rds-to-s3,2026-08-29
 ss:aws/agent-toolkit-for-aws/finding-data-lake-assets,2026-08-29
+ss:aws/agent-toolkit-for-aws/gcp-to-aws,2026-10-13
 ss:aws/agent-toolkit-for-aws/heroku-to-aws,2026-10-01
 ss:aws/agent-toolkit-for-aws/ingesting-into-data-lake,2026-08-29
 ss:aws/agent-toolkit-for-aws/investigating-incidents-with-aws-devops-agent,2026-09-26
+ss:aws/agent-toolkit-for-aws/knowledge-base-for-startups,2026-10-13
 ss:aws/agent-toolkit-for-aws/launch-with-aws,2026-08-29
 ss:aws/agent-toolkit-for-aws/launching-ec2-instance-with-best-practices,2026-08-29
 ss:aws/agent-toolkit-for-aws/llm-to-bedrock,2026-10-01
@@ -3890,7 +3904,9 @@ ss:aws/agent-toolkit-for-aws/managing-amazon-kinesis-data-streams,2026-10-01
 ss:aws/agent-toolkit-for-aws/managing-amazon-msk,2026-08-29
 ss:aws/agent-toolkit-for-aws/migrate-to-msk,2026-08-29
 ss:aws/agent-toolkit-for-aws/migrating-to-amazon-redshift,2026-08-29
+ss:aws/agent-toolkit-for-aws/operate-on-aws,2026-10-13
 ss:aws/agent-toolkit-for-aws/processing-s3-uploads-with-step-functions,2026-08-29
+ss:aws/agent-toolkit-for-aws/prompt-library-for-startups,2026-10-13
 ss:aws/agent-toolkit-for-aws/querying-aws-cloudwatch,2026-08-29
 ss:aws/agent-toolkit-for-aws/querying-aws-redshift,2026-08-29
 ss:aws/agent-toolkit-for-aws/querying-aws-s3,2026-08-29
@@ -3920,6 +3936,7 @@ ss:aws/agent-toolkit-for-aws/sitetositevpn,2026-08-29
 ss:aws/agent-toolkit-for-aws/start-building-for-startups,2026-10-01
 ss:aws/agent-toolkit-for-aws/storing-and-querying-vectors,2026-08-29
 ss:aws/agent-toolkit-for-aws/testing-mwaa-workflow,2026-10-01
+ss:aws/agent-toolkit-for-aws/tf-best-practices,2026-10-13
 ss:aws/agent-toolkit-for-aws/timestream-influxdb,2026-08-29
 ss:aws/agent-toolkit-for-aws/transitgateway,2026-08-29
 ss:aws/agent-toolkit-for-aws/troubleshooting-application-failures,2026-08-29
@@ -4059,6 +4076,7 @@ ss:bankai-skills/superpowers/youtube-thumbnail-design,2026-09-17
 ss:bartwaardenburg/isagentready-skills/content-semantics,2026-10-07
 ss:barty-bart/motion-graphics/motion-broll,2026-10-10
 ss:barty-bart/motion-graphics/object-separation,2026-10-10
+ss:barty-bart/motion-graphics/sound-effects,2026-10-13
 ss:base44/skills/base44-cli,2026-09-05
 ss:base44/skills/base44-remote-dev,2026-09-02
 ss:base44/skills/base44-sandbox,2026-09-05
@@ -4756,6 +4774,7 @@ ss:chasen-liao/resume-skills/resume-version-manager,2026-08-25
 ss:chasen-liao/resume-skills/resume-workflow,2026-08-27
 ss:chatwoot/cli/chatwoot-cli,2026-10-02
 ss:checklist-design/skills/checklist-design,2026-08-17
+ss:chengjialu8888/human-3.0/human-3-development-assessor,2026-10-13
 ss:cheshiremew/meta-skills/meta-skills,2026-08-24
 ss:chiefgui/skills/react,2026-09-20
 ss:chiefgui/skills/tests,2026-09-20
@@ -5026,6 +5045,7 @@ ss:cloudflare/kumo/kumo-design,2026-08-19
 ss:cloudflare/security-audit-skill/security-audit,2026-08-20
 ss:cloudflare/skills/agents-sdk,2026-08-16
 ss:cloudflare/skills/basin,2026-10-02
+ss:cloudflare/skills/cf-cli,2026-10-13
 ss:cloudflare/skills/cloudflare,2026-08-16
 ss:cloudflare/skills/cloudflare-email-service,2026-08-16
 ss:cloudflare/skills/cloudflare-one,2026-08-16
@@ -5045,6 +5065,7 @@ ss:cloudflare/skills/wrangler,2026-08-16
 ss:cloudflare/vinext/migrate-to-vinext,2026-09-24
 ss:cloudinary-devs/skills/cloudinary-docs,2026-09-17
 ss:cloudinary-devs/skills/cloudinary-transformations,2026-09-17
+ss:cnkang/skills/qdrant-memory,2026-10-13
 ss:cocoindex-io/cocoindex-code/ccc,2026-09-04
 ss:cocoindex-io/cocoindex/cocoindex,2026-08-20
 ss:code-yeongyu/oh-my-openagent/codex-qa,2026-09-18
@@ -6143,6 +6164,7 @@ ss:dotnet/skills/nuget-trusted-publishing,2026-09-12
 ss:dotnet/skills/optimizing-ef-core-queries,2026-08-30
 ss:dotnet/skills/plan-ui-change,2026-09-12
 ss:dotnet/skills/platform-detection,2026-09-12
+ss:dotnet/skills/process-api-net11,2026-10-13
 ss:dotnet/skills/property-patterns,2026-09-12
 ss:dotnet/skills/resolve-project-references,2026-09-12
 ss:dotnet/skills/run-tests,2026-08-30
@@ -7994,6 +8016,7 @@ ss:google-gemini/gemini-skills/gemini-interactions-api,2026-08-16
 ss:google-gemini/gemini-skills/gemini-live-api-dev,2026-08-23
 ss:google-gemini/gemini-skills/gemini-omni-flash-api,2026-10-05
 ss:google-labs-code/stitch-sdk/stitch-sdk-readme,2026-10-12
+ss:google-labs-code/stitch-sdk/stitch-sdk-usage,2026-10-13
 ss:google-labs-code/stitch-skills/design-md,2026-08-16
 ss:google-labs-code/stitch-skills/enhance-prompt,2026-08-16
 ss:google-labs-code/stitch-skills/react-vite-dashboard,2026-08-30
@@ -8079,6 +8102,8 @@ ss:google/skills/gke-ai-troubleshooting-jobset-interruption,2026-08-20
 ss:google/skills/gke-ai-troubleshooting-node-unresponsive-timeout,2026-10-09
 ss:google/skills/gke-ai-troubleshooting-tpu-dynamic-slices-monitoring,2026-08-28
 ss:google/skills/gke-ai-troubleshooting-tpu-metrics-monitoring,2026-08-28
+ss:google/skills/gke-ai-troubleshooting-tpu-mxla-hang,2026-10-13
+ss:google/skills/gke-ai-troubleshooting-tpu-performance-degradation,2026-10-13
 ss:google/skills/gke-ai-troubleshooting-tpu-vbar-oom,2026-08-20
 ss:google/skills/gke-alert-configuration,2026-08-28
 ss:google/skills/gke-app-onboarding,2026-08-24
@@ -8170,6 +8195,7 @@ ss:google/skills/secops-detection-engineering,2026-09-28
 ss:google/skills/secops-hunt,2026-09-28
 ss:google/skills/secops-investigate,2026-09-28
 ss:google/skills/secops-triage,2026-09-28
+ss:google/skills/sign-in-with-google-web,2026-10-13
 ss:google/skills/spanner-basics,2026-08-28
 ss:google/skills/workload-manager-basics,2026-08-19
 ss:googlechrome/modern-web-guidance/chrome-extensions,2026-08-19
@@ -8989,9 +9015,12 @@ ss:jae-labs/skills/thermo-nuclear-code-quality-review,2026-10-12
 ss:jahrome907/minecraft-agent-skills/minecraft-worldedit-ops,2026-10-07
 ss:jakeasmith/omada-controller-skill/omada-controller,2026-08-20
 ss:jakeschincariol/founder-skill/founder-brand,2026-10-11
+ss:jakeschincariol/founder-skill/founder-cfo,2026-10-13
+ss:jakeschincariol/founder-skill/founder-launch,2026-10-13
 ss:jakeschincariol/founder-skill/founder-marketing,2026-10-11
 ss:jakeschincariol/founder-skill/founder-offer,2026-10-11
 ss:jakeschincariol/founder-skill/founder-ops,2026-10-11
+ss:jakeschincariol/founder-skill/founder-plan,2026-10-13
 ss:jakeschincariol/linkedin-agent-skill/li-plan,2026-10-05
 ss:jakeschincariol/replica-skill/replica-backend,2026-10-06
 ss:jakeschincariol/replica-skill/replica-design,2026-10-06
@@ -9899,6 +9928,8 @@ ss:louisblythe/sales-skills/pricing-negotiation,2026-10-03
 ss:lucasgois1/skills/mutation-hardening,2026-10-06
 ss:lucasmarkes/hairline/hairline-create,2026-10-04
 ss:luoluoluo22/jianying-editor-skill/jianying-editor,2026-09-09
+ss:lvlup-sw/exarchos/simple-english,2026-10-13
+ss:lvlup-sw/exarchos/write-pr,2026-10-13
 ss:lvsao/shopify-skill-hub/shopify-product-serp-optimizer,2026-08-26
 ss:lyndonkl/claude/dialectical-mapping-steelmanning,2026-09-15
 ss:lyndonkl/claude/security-threat-model,2026-09-23
@@ -11746,6 +11777,9 @@ ss:oakoss/agent-skills/resend,2026-09-17
 ss:oakoss/agent-skills/tanstack-form,2026-08-29
 ss:oakoss/agent-skills/tiptap,2026-09-17
 ss:oaustegard/claude-skills/asking-questions,2026-09-23
+ss:objectivlabs/reposkillopt/repo-architecture,2026-10-13
+ss:objectivlabs/reposkillopt/repo-orchestration,2026-10-13
+ss:objectivlabs/reposkillopt/repo-skillopt,2026-10-13
 ss:obra/superpowers-skills/brainstorming ideas into designs,2026-10-07
 ss:obra/superpowers-skills/code review reception,2026-10-07
 ss:obra/superpowers-skills/collision-zone thinking,2026-09-17
@@ -13157,6 +13191,7 @@ ss:remotion-dev/skills/remotion-render,2026-08-16
 ss:remotion-dev/skills/remotion-saas,2026-08-16
 ss:remotion-dev/skills/remotion-studio,2026-08-16
 ss:remotion-dev/skills/remotion-upgrade,2026-08-16
+ss:rendercv/rendercv-skill/rendercv,2026-10-13
 ss:renesas/renesas-skills/configure-renesas-debug,2026-10-08
 ss:renezander030/capcut-cli/capcut-edit,2026-09-30
 ss:renfei-design/figma-ai-bridge/content-review,2026-10-01
@@ -14264,6 +14299,17 @@ ss:sh0ckwavezero/ai-agent-skills/jira-mcp,2026-08-21
 ss:sh0ckwavezero/ai-agent-skills/jira-plan,2026-08-21
 ss:sh0ckwavezero/ai-agent-skills/jira-story-point,2026-08-21
 ss:sh0ckwavezero/ai-agent-skills/react-hook-form-zod,2026-08-21
+ss:shadcn-labs/snapcn/design-system,2026-10-13
+ss:shadcn-labs/snapcn/interactivity-best-practices,2026-10-13
+ss:shadcn-labs/snapcn/motion-quality,2026-10-13
+ss:shadcn-labs/snapcn/remotion-explainer-video,2026-10-13
+ss:shadcn-labs/snapcn/remotion-kinetic-typography,2026-10-13
+ss:shadcn-labs/snapcn/remotion-launch-video,2026-10-13
+ss:shadcn-labs/snapcn/remotion-logo-animation,2026-10-13
+ss:shadcn-labs/snapcn/remotion-motion-graphics,2026-10-13
+ss:shadcn-labs/snapcn/remotion-product-demo,2026-10-13
+ss:shadcn-labs/snapcn/snapcn,2026-10-13
+ss:shadcn-labs/snapcn/ux-ui-maxpro,2026-10-13
 ss:shadcn-ui/ui/migrate-radix-to-base,2026-08-16
 ss:shadcn-ui/ui/shadcn,2026-08-16
 ss:shadcn/improve/improve,2026-08-19
@@ -15596,6 +15642,7 @@ ss:uizze.sh/ios-design,2026-09-25
 ss:uizze.sh/ui-taste,2026-09-22
 ss:uizze/uizze/anti-ui-slop,2026-08-29
 ss:uizze/uizze/image-to-ui,2026-10-10
+ss:uizze/uizze/uizze-ui,2026-10-13
 ss:ulpi-io/skills/frontend-design-ui-ux,2026-08-18
 ss:ulpi-io/skills/laravel-filament,2026-08-16
 ss:ulugbekeshnazarov409/mobile-design/mobile-design,2026-09-13
@@ -15801,6 +15848,7 @@ ss:vercel/vercel-plugin/domains,2026-09-26
 ss:vercel/vercel/vercel-cli,2026-08-19
 ss:vercel/workflow/internal-dev-workbench,2026-09-09
 ss:vercel/workflow/migrating-to-workflow-sdk,2026-08-19
+ss:vercel/workflow/workflow,2026-10-13
 ss:veris-ai/plugins/build,2026-10-06
 ss:veris-ai/plugins/fix,2026-10-06
 ss:veris-ai/plugins/setup,2026-10-06
@@ -15835,6 +15883,7 @@ ss:vinvcn/mattpocock-skills-zh-cn/implement,2026-09-04
 ss:vinvcn/mattpocock-skills-zh-cn/improve-codebase-architecture,2026-09-04
 ss:vinvcn/mattpocock-skills-zh-cn/loop-me,2026-09-04
 ss:vinvcn/mattpocock-skills-zh-cn/migrate-to-shoehorn,2026-09-04
+ss:vinvcn/mattpocock-skills-zh-cn/pr,2026-10-13
 ss:vinvcn/mattpocock-skills-zh-cn/prototype,2026-08-30
 ss:vinvcn/mattpocock-skills-zh-cn/research,2026-09-04
 ss:vinvcn/mattpocock-skills-zh-cn/resolving-merge-conflicts,2026-09-04
@@ -16465,6 +16514,7 @@ ss:xyaz1313/xyskill/xy-biz-scan,2026-09-17
 ss:xyaz1313/xyskill/xy-content-scan,2026-09-17
 ss:xyaz1313/xyskill/xy-replica,2026-09-17
 ss:xyoraclenetwork/xyo-skills/xyo-knowledge,2026-10-12
+ss:yahyabedirhan/shipyard/shipyard,2026-10-13
 ss:yaklang/hack-skills/401-403-bypass-techniques,2026-09-03
 ss:yaklang/hack-skills/active-directory-acl-abuse,2026-09-03
 ss:yaklang/hack-skills/active-directory-certificate-services,2026-09-03

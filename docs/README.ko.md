@@ -39,25 +39,25 @@
 
 <!-- RANKINGS:START -->
 
-> 마지막 업데이트: **2026-10-12** (UTC) · 각 목록의 Top 10 미리 보기 — 전체 Top 100은 CSV에서 확인하세요.
+> 마지막 업데이트: **2026-10-13** (UTC) · 각 목록의 Top 10 미리 보기 — 전체 Top 100은 CSV에서 확인하세요.
 
 <details open>
 <summary><b>🏆 Best 100 (설치 가치 점수)</b></summary>
 
 | # | Skill | 공급자 | WIS | 커버리지 |
 | --- | --- | --- | --- | --- |
-| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 80.8 | C |
-| 2 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 75.4 | C |
-| 3 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 74.6 | C |
-| 4 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 67.2 | C |
-| 5 | [remotion-best-practices](https://www.skills.sh/remotion-dev/skills/remotion-best-practices) | [remotion-dev](https://www.skills.sh/remotion-dev) | 66.5 | C |
-| 6 | [nano-banana-pro](https://clawhub.ai/steipete/skills/nano-banana-pro) | [steipete](https://clawhub.ai/steipete) | 66.5 | B |
-| 7 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66 | C |
-| 8 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | [mattpocock](https://www.skills.sh/mattpocock) | 64.3 | C |
-| 9 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 64.1 | B |
-| 10 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 63.7 | C |
+| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 81.3 | C |
+| 2 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 75.9 | C |
+| 3 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 74.7 | C |
+| 4 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | [mattpocock](https://www.skills.sh/mattpocock) | 70.6 | C |
+| 5 | [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines) | [vercel-labs](https://www.skills.sh/vercel-labs) | 66.2 | C |
+| 6 | [remotion-best-practices](https://www.skills.sh/remotion-dev/skills/remotion-best-practices) | [remotion-dev](https://www.skills.sh/remotion-dev) | 66 | C |
+| 7 | [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) | [vercel-labs](https://www.skills.sh/vercel-labs) | 64.3 | C |
+| 8 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | [mattpocock](https://www.skills.sh/mattpocock) | 64.1 | C |
+| 9 | [codebase-design](https://www.skills.sh/mattpocock/skills/codebase-design) | [mattpocock](https://www.skills.sh/mattpocock) | 63 | C |
+| 10 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | [anthropics](https://www.skills.sh/anthropics) | 63 | C |
 
-➡️ 전체 목록: [best-100.csv](../data/2026-10-12/rankings/best-100.csv)
+➡️ 전체 목록: [best-100.csv](../data/2026-10-13/rankings/best-100.csv)
 
 </details>
 
@@ -66,18 +66,18 @@
 
 | # | Skill | skills.sh | ClawHub | SkillHub 중국 |
 | --- | --- | --- | --- | --- |
-| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,798,848 | — | — |
-| 2 | dev-expert | — | — | 2,728,095 |
-| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,332,032 | — | — |
-| 4 | parenting-expert | — | — | 2,035,165 |
-| 5 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 484,117 | 1,369,402 |
-| 6 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 1,140,930 | — | — |
-| 7 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,091,099 | — | — |
-| 8 | tencent-docs | — | — | 1,633,305 |
-| 9 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 1,089,018 | — | — |
-| 10 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 1,062,956 | — | — |
+| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 3,817,669 | — | — |
+| 2 | dev-expert | — | — | 2,932,149 |
+| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,340,213 | — | — |
+| 4 | parenting-expert | — | — | 2,223,162 |
+| 5 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 484,414 | 1,376,859 |
+| 6 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 1,148,058 | — | — |
+| 7 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,102,304 | — | — |
+| 8 | tencent-docs | — | — | 1,664,716 |
+| 9 | [improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture) | 1,095,825 | — | — |
+| 10 | [tdd](https://www.skills.sh/mattpocock/skills/tdd) | 1,070,332 | — | — |
 
-➡️ 전체 목록: [top-installs.csv](../data/2026-10-12/rankings/top-installs.csv)
+➡️ 전체 목록: [top-installs.csv](../data/2026-10-13/rankings/top-installs.csv)
 
 </details>
 
@@ -86,18 +86,18 @@
 
 | # | Skill | 설치 수 | 주간 Δ% |
 | --- | --- | --- | --- |
-| 1 | [ai-image-generation](https://www.skills.sh/magentosh/superpowers/ai-image-generation) | 442,998 | 81.8 |
-| 2 | [ai-video-generation](https://www.skills.sh/magentosh/superpowers/ai-video-generation) | 442,794 | 81.8 |
-| 3 | [twitter-automation](https://www.skills.sh/magentosh/superpowers/twitter-automation) | 442,639 | 81.7 |
-| 4 | [ai-avatar-video](https://www.skills.sh/magentosh/superpowers/ai-avatar-video) | 442,754 | 81.8 |
-| 5 | [ui-taste](https://www.skills.sh/uizze.sh/ui-taste) | 530,306 | — |
-| 6 | [hyperframes-audio](https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio) | 487,046 | 30.4 |
-| 7 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 754,314 | 1 |
-| 8 | [media-use](https://www.skills.sh/heygen-com/hyperframes/media-use) | 818,394 | 30.1 |
-| 9 | [ai-video-generation](https://www.skills.sh/gencraft-labs/skills/ai-video-generation) | 72,602 | — |
-| 10 | [video-edit](https://www.skills.sh/gencraft-labs/skills/video-edit) | 72,959 | — |
+| 1 | [ai-image-generation](https://www.skills.sh/magentosh/superpowers/ai-image-generation) | 471,860 | 44.1 |
+| 2 | [ai-video-generation](https://www.skills.sh/magentosh/superpowers/ai-video-generation) | 471,647 | 44.1 |
+| 3 | [twitter-automation](https://www.skills.sh/magentosh/superpowers/twitter-automation) | 471,487 | 44.1 |
+| 4 | [ai-avatar-video](https://www.skills.sh/magentosh/superpowers/ai-avatar-video) | 471,601 | 44.1 |
+| 5 | [hyperframes-audio](https://www.skills.sh/heygen-com/hyperframes/hyperframes-audio) | 511,072 | 64.5 |
+| 6 | [media-use](https://www.skills.sh/heygen-com/hyperframes/media-use) | 840,914 | 48.2 |
+| 7 | [hyperframes](https://www.skills.sh/heygen-com/hyperframes/hyperframes) | 919,584 | 43.7 |
+| 8 | [hyperframes-cli](https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli) | 961,822 | 52.1 |
+| 9 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 774,468 | -1.7 |
+| 10 | [hyperframes-animation](https://www.skills.sh/heygen-com/hyperframes/hyperframes-animation) | 810,826 | 58.3 |
 
-➡️ 전체 목록: [trending-7d.csv](../data/2026-10-12/rankings/trending-7d.csv)
+➡️ 전체 목록: [trending-7d.csv](../data/2026-10-13/rankings/trending-7d.csv)
 
 </details>
 
@@ -106,18 +106,18 @@
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 69+ | 2 | 4 | 47 |
-| 2 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 67+ | 3 | 26 | 2 |
-| 3 | [nano-banana-pro](https://clawhub.ai/steipete/skills/nano-banana-pro) | 31 | 1 | 13 | 1 |
-| 4 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 77+ | 0 | 8 | 31 |
-| 5 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 42 | 0 | 2 | 234 |
-| 6 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 38 | 0 | 1 | 107 |
-| 7 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 57 | 0 | 2 | 3 |
-| 8 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 3 | 13 | 11 |
-| 9 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 27 | 1 | 5 | 0 |
-| 10 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 6 | 0 | 1 | 183 |
+| 1 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 74+ | 1 | 9 | 38 |
+| 2 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 67+ | 2 | 6 | 50 |
+| 3 | [self-improving](https://clawhub.ai/ivangdavila/skills/self-improving) | 78+ | 6 | 46 | 3 |
+| 4 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 38 | 0 | 2 | 159 |
+| 5 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 34 | 0 | 1 | 109 |
+| 6 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 55 | 0 | 2 | 5 |
+| 7 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 3 | 18 | 8 |
+| 8 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 8 | 0 | 1 | 178 |
+| 9 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 27 | 0 | 5 | 7 |
+| 10 | [codebase-design](https://www.skills.sh/mattpocock/skills/codebase-design) | 6 | 0 | 2 | 13 |
 
-➡️ 전체 목록: [social-buzz.csv](../data/2026-10-12/rankings/social-buzz.csv)
+➡️ 전체 목록: [social-buzz.csv](../data/2026-10-13/rankings/social-buzz.csv)
 
 </details>
 
@@ -126,18 +126,18 @@
 
 | # | Skill | 업데이트 | 버전 수 |
 | --- | --- | --- | --- |
-| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-10-11 | 145 |
+| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-10-12 | 146 |
 | 2 | web-search-plus | 2026-10-10 | 63 |
 | 3 | [planning-with-files](https://clawhub.ai/othmanadi/skills/planning-with-files) | 2026-10-10 | 28 |
-| 4 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 2026-10-04 | 40 |
-| 5 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-10-02 | 182 |
-| 6 | [google-drive](https://clawhub.ai/byungkyu/skills/google-drive) | 2026-10-02 | 23 |
-| 7 | [stripe-api](https://clawhub.ai/byungkyu/skills/stripe-api) | 2026-10-02 | 22 |
-| 8 | [linear-api](https://clawhub.ai/byungkyu/skills/linear-api) | 2026-10-02 | 21 |
-| 9 | google-workspace-admin | 2026-10-02 | 20 |
-| 10 | [salesforce-api](https://clawhub.ai/byungkyu/skills/salesforce-api) | 2026-10-02 | 19 |
+| 4 | homeassistant-skill | 2026-10-12 | 6 |
+| 5 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | 2026-10-04 | 40 |
+| 6 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-10-02 | 182 |
+| 7 | [google-drive](https://clawhub.ai/byungkyu/skills/google-drive) | 2026-10-02 | 23 |
+| 8 | [stripe-api](https://clawhub.ai/byungkyu/skills/stripe-api) | 2026-10-02 | 22 |
+| 9 | [linear-api](https://clawhub.ai/byungkyu/skills/linear-api) | 2026-10-02 | 21 |
+| 10 | google-workspace-admin | 2026-10-02 | 20 |
 
-➡️ 전체 목록: [most-active.csv](../data/2026-10-12/rankings/most-active.csv)
+➡️ 전체 목록: [most-active.csv](../data/2026-10-13/rankings/most-active.csv)
 
 </details>
 
@@ -151,13 +151,13 @@
 | 3 | tencent-docs | 腾讯科技（深圳）有限公司 | skillhub |
 | 4 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | skills.sh |
 | 5 | multi-search-engine | 成都智创未来教育管理合伙企业（有限合伙） | skillhub |
-| 6 | mysteel-datasearch | 上海钢联电子商务股份有限公司 | skillhub |
+| 6 | beatra | 乐萱同行科技（深圳）有限公司 | skillhub |
 | 7 | [github](https://clawhub.ai/steipete/skills/github) | [steipete](https://clawhub.ai/steipete) | clawhub |
-| 8 | beatra | 乐萱同行科技（深圳）有限公司 | skillhub |
+| 8 | mysteel-datasearch | 上海钢联电子商务股份有限公司 | skillhub |
 | 9 | cic | 成都国信公链科技有限公司 | skillhub |
-| 10 | [obsidian](https://clawhub.ai/steipete/skills/obsidian) | [steipete](https://clawhub.ai/steipete) | clawhub |
+| 10 | dev-god | 阿客（北京）科技有限公司 | skillhub |
 
-➡️ 전체 목록: [official-100.csv](../data/2026-10-12/rankings/official-100.csv)
+➡️ 전체 목록: [official-100.csv](../data/2026-10-13/rankings/official-100.csv)
 
 </details>
 
@@ -172,12 +172,12 @@
 | 4 | [skills.sh](https://www.skills.sh) | [anthropics](https://www.skills.sh/anthropics) | 605 | 1,942,412 |
 | 5 | [skills.sh](https://www.skills.sh) | [firebase](https://www.skills.sh/firebase) | 55 | 685,617 |
 | 6 | [skills.sh](https://www.skills.sh) | [firecrawl](https://www.skills.sh/firecrawl) | 286 | 482,310 |
-| 7 | [skills.sh](https://www.skills.sh) | [nvidia](https://www.skills.sh/nvidia) | 1176 | 429,370 |
+| 7 | [skills.sh](https://www.skills.sh) | [nvidia](https://www.skills.sh/nvidia) | 1176 | 429,570 |
 | 8 | [skills.sh](https://www.skills.sh) | [remotion-dev](https://www.skills.sh/remotion-dev) | 19 | 305,359 |
 | 9 | [skills.sh](https://www.skills.sh) | [flutter](https://www.skills.sh/flutter) | 88 | 286,211 |
 | 10 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 
-➡️ 전체 목록: [official-vendors.csv](../data/2026-10-12/rankings/official-vendors.csv)
+➡️ 전체 목록: [official-vendors.csv](../data/2026-10-13/rankings/official-vendors.csv)
 
 </details>
 
@@ -186,18 +186,18 @@
 
 | # | 저장소 | Stars | 최근 푸시 |
 | --- | --- | --- | --- |
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 297,718 | 2026-10-10 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 286,206 | 2026-10-09 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 277,234 | 2026-10-12 |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 180,514 | 2026-10-09 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 161,114 | 2026-10-10 |
-| 6 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 150,232 | 2026-10-11 |
-| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 143,140 | 2026-10-12 |
-| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 134,824 | 2026-10-10 |
-| 9 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 125,353 | 2026-10-11 |
-| 10 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 117,659 | 2026-10-09 |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 298,197 | 2026-10-10 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 287,966 | 2026-10-12 |
+| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 219,243 | 2026-04-20 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 180,735 | 2026-10-09 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 161,884 | 2026-10-13 |
+| 6 | [morluto/rea](https://github.com/morluto/rea) | 156,945 | 2026-10-13 |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 150,436 | 2026-10-13 |
+| 8 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 135,167 | 2026-10-12 |
+| 9 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 125,436 | 2026-10-12 |
+| 10 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 117,757 | 2026-10-09 |
 
-➡️ 전체 목록: [top-repos.csv](../data/2026-10-12/rankings/top-repos.csv)
+➡️ 전체 목록: [top-repos.csv](../data/2026-10-13/rankings/top-repos.csv)
 
 </details>
 
@@ -206,18 +206,18 @@
 
 | # | Skill | 경과 일수 | 인기도 |
 | --- | --- | --- | --- |
-| 1 | parenting-expert | 26 | 0.998 |
-| 2 | cic | 14 | 0.987 |
-| 3 | dev-god | 4 | 0.985 |
-| 4 | luhe-paper-free-pro | 26 | 0.969 |
-| 5 | gongwen-writting-2 | 21 | 0.95 |
-| 6 | [ui-taste](https://www.skills.sh/uizze.sh/ui-taste) | 21 | 0.939 |
-| 7 | gpt-image-2-5-studio | 29 | 0.934 |
-| 8 | minimax-h3-ai-video | 22 | 0.927 |
-| 9 | gh-cli-readonly-agent | 29 | 0.911 |
-| 10 | telehot-tender-review | 12 | 0.894 |
+| 1 | parenting-expert | 27 | 0.998 |
+| 2 | cic | 15 | 0.987 |
+| 3 | dev-god | 5 | 0.986 |
+| 4 | luhe-paper-free-pro | 27 | 0.968 |
+| 5 | gongwen-writting-2 | 22 | 0.952 |
+| 6 | [ui-taste](https://www.skills.sh/uizze.sh/ui-taste) | 22 | 0.936 |
+| 7 | minimax-h3-ai-video | 23 | 0.926 |
+| 8 | course-video-studio | 1 | 0.919 |
+| 9 | telehot-tender-review | 13 | 0.89 |
+| 10 | xique-tender-pay | 5 | 0.886 |
 
-➡️ 전체 목록: [rising-stars.csv](../data/2026-10-12/rankings/rising-stars.csv)
+➡️ 전체 목록: [rising-stars.csv](../data/2026-10-13/rankings/rising-stars.csv)
 
 </details>
 

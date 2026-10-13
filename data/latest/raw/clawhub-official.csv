@@ -128,7 +128,7 @@ id,title,version,featured,publisher,trust
 @heygen-com/general-video,general-video,1.0.26,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.43,false,heygen-com,official
 @heygen-com/hyperframes-animation,hyperframes-animation,1.0.37,false,heygen-com,official
-@heygen-com/hyperframes-audio,hyperframes-audio,1.0.15,false,heygen-com,official
+@heygen-com/hyperframes-audio,hyperframes-audio,1.0.16,false,heygen-com,official
 @heygen-com/hyperframes-cli,hyperframes-cli,1.0.63,false,heygen-com,official
 @heygen-com/hyperframes-core,hyperframes-core,1.0.42,false,heygen-com,official
 @heygen-com/hyperframes-creative,hyperframes-creative,1.0.14,false,heygen-com,official
@@ -877,6 +877,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-solution-deploy,Alibabacloud Solution Deploy,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-sre-toolkit,Alibabacloud Sre Toolkit,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-starops-chat,Alibabacloud Starops Chat,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-support,alibabacloud-support,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-sysom-diagnosis,alibabacloud-sysom-diagnosis,0.0.7,false,sdk-team,official
 @sdk-team/alibabacloud-tablestore-agent-storage,Alibabacloud Tablestore Agent Storage,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-tablestore-openclaw-memory,Alibabacloud Tablestore Openclaw Memory,0.0.1,false,sdk-team,official
