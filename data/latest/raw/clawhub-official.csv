@@ -123,24 +123,24 @@ id,title,version,featured,publisher,trust
 @composio/composio-cli,composio-cli,0.1.0,false,composio,official
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/embedded-captions,embedded-captions,1.0.26,false,heygen-com,official
-@heygen-com/faceless-explainer,faceless-explainer,1.0.47,false,heygen-com,official
+@heygen-com/faceless-explainer,faceless-explainer,1.0.48,false,heygen-com,official
 @heygen-com/figma,figma,1.0.17,false,heygen-com,official
-@heygen-com/general-video,general-video,1.0.27,false,heygen-com,official
-@heygen-com/hyperframes,hyperframes,1.0.44,false,heygen-com,official
+@heygen-com/general-video,general-video,1.0.28,false,heygen-com,official
+@heygen-com/hyperframes,hyperframes,1.0.45,false,heygen-com,official
 @heygen-com/hyperframes-animation,hyperframes-animation,1.0.38,false,heygen-com,official
 @heygen-com/hyperframes-audio,hyperframes-audio,1.0.16,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.64,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.65,false,heygen-com,official
 @heygen-com/hyperframes-core,hyperframes-core,1.0.42,false,heygen-com,official
-@heygen-com/hyperframes-creative,hyperframes-creative,1.0.14,false,heygen-com,official
+@heygen-com/hyperframes-creative,hyperframes-creative,1.0.15,false,heygen-com,official
 @heygen-com/hyperframes-keyframes,HyperFrames Keyframes,1.0.8,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.13,false,heygen-com,official
-@heygen-com/hyperframes-studio,hyperframes-studio,1.0.4,false,heygen-com,official
+@heygen-com/hyperframes-studio,hyperframes-studio,1.0.5,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.83,false,heygen-com,official
 @heygen-com/motion-graphics,motion-graphics,1.0.25,false,heygen-com,official
-@heygen-com/music-to-video,music-to-video,1.0.25,false,heygen-com,official
-@heygen-com/pr-to-video,pr-to-video,1.0.50,false,heygen-com,official
-@heygen-com/product-launch-video,product-launch-video,1.0.53,false,heygen-com,official
+@heygen-com/music-to-video,music-to-video,1.0.26,false,heygen-com,official
+@heygen-com/pr-to-video,pr-to-video,1.0.51,false,heygen-com,official
+@heygen-com/product-launch-video,product-launch-video,1.0.54,false,heygen-com,official
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.15,false,heygen-com,official
 @heygen-com/slideshow,slideshow,1.0.16,false,heygen-com,official
 @heygen-com/talking-head-recut,talking-head-recut,1.0.17,false,heygen-com,official
@@ -646,7 +646,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-cloudfw-vpc-firewall-diagnosis,Alibabacloud Cloudfw Vpc Firewall Diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-cms-alert-rule-create,Alibabacloud Cms Alert Rule Create,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-cms-dataset,Alibabacloud Cms Dataset,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-cms-manage,alibabacloud-cms-manage,1.0.5,false,sdk-team,official
+@sdk-team/alibabacloud-cms-manage,alibabacloud-cms-manage,1.0.6,false,sdk-team,official
 @sdk-team/alibabacloud-compute-provision,Alibabacloud Compute Provision,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-csas-device-health-monitor,alibabacloud-csas-device-health-monitor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-csas-user-device-ops,Alibabacloud Csas User Device Ops,0.0.1,false,sdk-team,official
@@ -739,7 +739,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-lingjun-cluster-scaling,alibabacloud-lingjun-cluster-scaling,0.0.1-beta.3,false,sdk-team,official
 @sdk-team/alibabacloud-lingjun-node-diagnose,alibabacloud-lingjun-node-diagnose,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-lingjun-node-ops,alibabacloud-lingjun-node-ops,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-live-assistant,alibabacloud-live-assistant,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-live-assistant,alibabacloud-live-assistant,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-livedebug,alibabacloud-livedebug,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-liverecord-diagnosis,Alibabacloud Liverecord Diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-loongcollector-ops,alibabacloud-loongcollector-ops,0.0.2,false,sdk-team,official
@@ -917,7 +917,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-yike-cli,alibabacloud-yike-cli,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-yike-storyboard,Alibabacloud Yike Storyboard,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-yunxiao-flow-analysis,Alibabacloud Yunxiao Flow Analysis,0.0.1,false,sdk-team,official
-@shopify/shop,Shop,1.0.5,false,shopify,official
+@shopify/shop,shop,1.1.1,false,shopify,official
 @spotify/save-to-spotify,Save To Spotify,0.2.0,false,spotify,official
 @steipete/1password,1password,1.0.1,false,steipete,official
 @steipete/apple-notes,Apple Notes,1.0.0,false,steipete,official
