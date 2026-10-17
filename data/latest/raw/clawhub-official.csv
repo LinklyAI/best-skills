@@ -129,7 +129,7 @@ id,title,version,featured,publisher,trust
 @heygen-com/hyperframes,hyperframes,1.0.45,false,heygen-com,official
 @heygen-com/hyperframes-animation,hyperframes-animation,1.0.39,false,heygen-com,official
 @heygen-com/hyperframes-audio,hyperframes-audio,1.0.16,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.69,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.70,false,heygen-com,official
 @heygen-com/hyperframes-core,hyperframes-core,1.0.42,false,heygen-com,official
 @heygen-com/hyperframes-creative,hyperframes-creative,1.0.15,false,heygen-com,official
 @heygen-com/hyperframes-keyframes,HyperFrames Keyframes,1.0.8,false,heygen-com,official
