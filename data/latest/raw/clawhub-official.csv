@@ -123,7 +123,7 @@ id,title,version,featured,publisher,trust
 @composio/composio-cli,composio-cli,0.1.0,false,composio,official
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/figma,figma,1.0.18,false,heygen-com,official
-@heygen-com/hyperframes,hyperframes,1.0.49,false,heygen-com,official
+@heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
 @heygen-com/hyperframes-cli,hyperframes-cli,1.0.72,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.14,false,heygen-com,official
@@ -802,7 +802,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-oss-security-incident-forensics,alibabacloud-oss-security-incident-forensics,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-static-website-diagnosis,alibabacloud-oss-static-website-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-transfer-acceleration-diagnosis,alibabacloud-oss-transfer-acceleration-diagnosis,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-oss-transfer-error-code-diagnosis,alibabacloud-oss-transfer-error-code-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-oss-transfer-error-code-diagnosis,alibabacloud-oss-transfer-error-code-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-pai-dlc-job,alibabacloud-pai-dlc-job,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-pai-dlc-job-diagnostics,Alibabacloud Pai Dlc Job Diagnostics,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-pai-dsw-manage,Alibabacloud Pai Dsw Manage,0.0.2,false,sdk-team,official
