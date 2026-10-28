@@ -713,7 +713,9 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-httpdns,Alibabacloud Httpdns,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-iac-code,alibabacloud-iac-code,0.5.0,false,sdk-team,official
 @sdk-team/alibabacloud-icpba-sucessdata-query,Alibabacloud Icpba Sucessdata Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-idaas-ad-ldap-integration,alibabacloud-idaas-ad-ldap-integration,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-identity-setup,alibabacloud-idaas-cloud-identity-setup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ipsec-vpn-negotiation-doctor,alibabacloud-ipsec-vpn-negotiation-doctor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-search,Alibabacloud Iqs Search,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-weather-query,Alibabacloud Iqs Weather Query,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-kafka-capacity-assessment,Alibabacloud Kafka Capacity Assessment,0.0.1,false,sdk-team,official
@@ -799,7 +801,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-oss-ossfs-mount-diagnosis,alibabacloud-oss-ossfs-mount-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-presigned-url-v4-diagnosis,alibabacloud-oss-presigned-url-v4-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-quota-throttling-diagnosis,alibabacloud-oss-quota-throttling-diagnosis,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-oss-security-incident-forensics,alibabacloud-oss-security-incident-forensics,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-oss-security-incident-forensics,alibabacloud-oss-security-incident-forensics,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-oss-static-website-diagnosis,alibabacloud-oss-static-website-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-transfer-acceleration-diagnosis,alibabacloud-oss-transfer-acceleration-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-oss-transfer-error-code-diagnosis,alibabacloud-oss-transfer-error-code-diagnosis,0.0.2,false,sdk-team,official
