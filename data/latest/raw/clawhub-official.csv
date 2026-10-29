@@ -715,6 +715,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-icpba-sucessdata-query,Alibabacloud Icpba Sucessdata Query,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-ad-ldap-integration,alibabacloud-idaas-ad-ldap-integration,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-identity-setup,alibabacloud-idaas-cloud-identity-setup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-idaas-create-saml-idp,alibabacloud-idaas-create-saml-idp,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-ipsec-vpn-negotiation-doctor,alibabacloud-ipsec-vpn-negotiation-doctor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-search,Alibabacloud Iqs Search,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-weather-query,Alibabacloud Iqs Weather Query,0.0.1,false,sdk-team,official
@@ -901,7 +902,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-waf-security-monitor,Alibabacloud Waf Security Monitor,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-web-application-attacks-analysis,alibabacloud-web-application-attacks-analysis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-website-malware-check,alibabacloud-website-malware-check,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-website-probe,alibabacloud-website-probe,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-website-probe,alibabacloud-website-probe,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-workbench-cli,alibabacloud-workbench-cli,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-wuying-console,alibabacloud-wuying-console,0.2.0,false,sdk-team,official
 @sdk-team/alibabacloud-wxz-website-builder,Alibabacloud Wxz Website Builder,0.0.2,false,sdk-team,official
