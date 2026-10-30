@@ -124,9 +124,9 @@ id,title,version,featured,publisher,trust
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/figma,figma,1.0.18,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.72,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.75,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
-@heygen-com/hyperframes-registry,hyperframes-registry,1.0.14,false,heygen-com,official
+@heygen-com/hyperframes-registry,hyperframes-registry,1.0.16,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.86,false,heygen-com,official
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.16,false,heygen-com,official
 @heygen-com/slideshow,slideshow,1.0.18,false,heygen-com,official
@@ -570,7 +570,7 @@ id,title,version,featured,publisher,trust
 @openclaw/slacrawl,Slacrawl,1.0.1,false,openclaw,official
 @opensea/opensea-marketplace,Opensea Skill,2.26.2,false,opensea,official
 @sdk-team/alibabacloud-ack-cli,alibabacloud-ack-cli,0.0.2,false,sdk-team,official
-@sdk-team/alibabacloud-actiontrail-diagnosis,alibabacloud-actiontrail-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-actiontrail-diagnosis,alibabacloud-actiontrail-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-aes-ack-pod-performance-profiling,Alibabacloud Aes Ack Pod Performance Profiling,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-aes-sysom-lingjun-diagnosis,alibabacloud-aes-sysom-lingjun-diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-aes-sysom-os-diagnosis,Alibabacloud Aes Sysom Os Diagnosis,0.0.1,false,sdk-team,official
@@ -587,7 +587,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ai-innovation-lab-skill,Alibabacloud Ai Innovation Lab Skill,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-aidbs-dgate-skill,alibabacloud-aidbs-dgate-skill,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-aisc-skill-inspection,alibabacloud-aisc-skill-inspection,0.0.2,false,sdk-team,official
-@sdk-team/alibabacloud-ak-leak-incident-response,alibabacloud-ak-leak-incident-response,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ak-leak-incident-response,alibabacloud-ak-leak-incident-response,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-alb-ingress-doctor,alibabacloud-alb-ingress-doctor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-alert-intent-router,Alibabacloud Alert Intent Router,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-alinux-sysom-inspection,alibabacloud-alinux-sysom-inspection,0.0.5,false,sdk-team,official
@@ -613,8 +613,8 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-cas-ssl-cert-deploy,alibabacloud-cas-ssl-cert-deploy,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-cas-ssl-cert-purchase,alibabacloud-cas-ssl-cert-purchase,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-cas-ssl-common-tools,alibabacloud-cas-ssl-common-tools,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-cdn-refresh-preload,alibabacloud-cdn-refresh-preload,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-cdn-traffic-anomaly,alibabacloud-cdn-traffic-anomaly,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-cdn-refresh-preload,alibabacloud-cdn-refresh-preload,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-cdn-traffic-anomaly,alibabacloud-cdn-traffic-anomaly,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-cfw-acl-diagnosis,Alibabacloud Cfw Acl Diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-cfw-exposure-detection,Alibabacloud Cfw Exposure Detection,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-cfw-internet-firewall-protect,alibabacloud-cfw-internet-firewall-protect,0.0.2,false,sdk-team,official
@@ -649,7 +649,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-dataworks-metadata,Alibabacloud Dataworks Metadata,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataworks-semantic,alibabacloud-dataworks-semantic,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataworks-workspace-manage,Alibabacloud Dataworks Workspace Manage,0.0.2,false,sdk-team,official
-@sdk-team/alibabacloud-db-cost-diagnosis,alibabacloud-db-cost-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-db-cost-diagnosis,alibabacloud-db-cost-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ddos-native-intercept-query,Alibabacloud Ddos Native Intercept Query,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ddos-origin-exposure-detector,alibabacloud-ddos-origin-exposure-detector,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ddos-security-monitor,Alibabacloud Ddos Security Monitor,0.0.1,false,sdk-team,official
@@ -683,7 +683,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ecs-linux-os-troubleshooting,alibabacloud-ecs-linux-os-troubleshooting,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-patch-management,Alibabacloud Ecs Patch Management,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-reboot-or-crash-diagnosis,Alibabacloud Ecs Reboot Or Crash Diagnosis,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-ecs-vpc-publicnetwork-troubleshoot,alibabacloud-ecs-vpc-publicnetwork-troubleshoot,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-vpc-publicnetwork-troubleshoot,alibabacloud-ecs-vpc-publicnetwork-troubleshoot,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-windows-os-troubleshooting,alibabacloud-ecs-windows-os-troubleshooting,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ehpc-instant-job-skill,Alibabacloud Ehpc Instant Job Skill,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-elasticsearch-instance-diagnose,Alibabacloud Elasticsearch Instance Diagnose,0.0.1,false,sdk-team,official
@@ -715,6 +715,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-icpba-sucessdata-query,Alibabacloud Icpba Sucessdata Query,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-ad-ldap-integration,alibabacloud-idaas-ad-ldap-integration,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-identity-setup,alibabacloud-idaas-cloud-identity-setup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-idaas-cloud-role-management,alibabacloud-idaas-cloud-role-management,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-create-saml-idp,alibabacloud-idaas-create-saml-idp,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-ipsec-vpn-negotiation-doctor,alibabacloud-ipsec-vpn-negotiation-doctor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-search,Alibabacloud Iqs Search,0.0.3,false,sdk-team,official
@@ -739,7 +740,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-maxframe-video-frame-pipeline,Alibabacloud Maxframe Video Frame Pipeline,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-mcp-connector,alibabacloud-mcp-connector,1.0.0,false,sdk-team,official
 @sdk-team/alibabacloud-mcp-core-script-generate,Alibabacloud Mcp Core Script Generate,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-media-diagnostics,alibabacloud-media-diagnostics,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-media-diagnostics,alibabacloud-media-diagnostics,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-migrate,Alibabacloud Migrate,0.0.1-beta.2,false,sdk-team,official
 @sdk-team/alibabacloud-migration-cas-cutover-review,alibabacloud-migration-cas-cutover-review,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-migration-db-evaluation-collector,alibabacloud-migration-db-evaluation-collector,0.0.1,false,sdk-team,official
@@ -831,7 +832,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-pts-pilot,Alibabacloud Pts Pilot,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-pts-reporter,Alibabacloud Pts Reporter,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-pts-task,Alibabacloud Pts Task,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-qianwenai-support,alibabacloud-qianwenai-support,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-qianwenai-support,alibabacloud-qianwenai-support,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-quickbi-smartq,alibabacloud-quickbi-smartq,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ram-permission-diagnose,Alibabacloud Ram Permission Diagnose,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-rds-copilot,alibabacloud-rds-copilot,0.0.5,false,sdk-team,official
