@@ -124,11 +124,12 @@ id,title,version,featured,publisher,trust
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/figma,figma,1.0.18,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.75,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.77,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.16,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.86,false,heygen-com,official
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.16,false,heygen-com,official
+@heygen-com/reverse-any-video,reverse-any-video,1.0.0,false,heygen-com,official
 @heygen-com/slideshow,slideshow,1.0.18,false,heygen-com,official
 @heygen-com/website-to-video,Website To Video,1.0.7,false,heygen-com,official
 @huggingface/hf-cli,Hugging Face CLI,1.20.1,false,huggingface,official
@@ -753,7 +754,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-migration-mas-solution,Alibabacloud Migration Mas Solution,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-migration-sdm-sql-trans,Alibabacloud Migration Sdm Sql Trans,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-milvus-manage,Alibabacloud Milvus Manage,0.0.3,false,sdk-team,official
-@sdk-team/alibabacloud-mining-attack-diagnosis,alibabacloud-mining-attack-diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-mining-attack-diagnosis,alibabacloud-mining-attack-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-mongodb-health-inspect,Alibabacloud Mongodb Health Inspect,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-mongodb-instances-manage,Alibabacloud Mongodb Instances Manage,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-mse-nacos-inspection,Alibabacloud Mse Nacos Inspection,0.0.1,false,sdk-team,official
@@ -819,7 +820,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-pai-resource-group-management,Alibabacloud Pai Resource Group Management,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-pai-workspace-manage,Alibabacloud Pai Workspace Manage,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-parse-x,alibabacloud-parse-x,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-pcap-analyzer,alibabacloud-pcap-analyzer,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-pcap-analyzer,alibabacloud-pcap-analyzer,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-pds-intelligent-workspace,alibabacloud-pds-intelligent-workspace,0.0.7,false,sdk-team,official
 @sdk-team/alibabacloud-pds-multimodal-search,Alibabacloud Pds Multimodal Search,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-polardb-ai-assistant,Alibabacloud Polardb Ai Assistant,0.0.3,false,sdk-team,official
