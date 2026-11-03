@@ -124,11 +124,12 @@ id,title,version,featured,publisher,trust
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/figma,figma,1.0.18,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.78,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.79,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.16,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.86,false,heygen-com,official
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.16,false,heygen-com,official
+@heygen-com/reverse-any-video,reverse-any-video,1.0.2,false,heygen-com,official
 @heygen-com/slideshow,slideshow,1.0.18,false,heygen-com,official
 @heygen-com/website-to-video,Website To Video,1.0.7,false,heygen-com,official
 @huggingface/hf-cli,Hugging Face CLI,1.20.1,false,huggingface,official
@@ -716,7 +717,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-idaas-ad-ldap-integration,alibabacloud-idaas-ad-ldap-integration,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-identity-setup,alibabacloud-idaas-cloud-identity-setup,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-role-management,alibabacloud-idaas-cloud-role-management,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-idaas-create-saml-idp,alibabacloud-idaas-create-saml-idp,0.0.1-beta.1,false,sdk-team,official
+@sdk-team/alibabacloud-idaas-create-saml-idp,alibabacloud-idaas-create-saml-idp,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ipsec-vpn-negotiation-doctor,alibabacloud-ipsec-vpn-negotiation-doctor,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-search,Alibabacloud Iqs Search,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-iqs-weather-query,Alibabacloud Iqs Weather Query,0.0.1,false,sdk-team,official
@@ -861,7 +862,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-sls-alerting,alibabacloud-sls-alerting,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-sls-dashboard,alibabacloud-sls-dashboard,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-sls-data-agent,Alibabacloud Sls Data Agent,0.0.1,false,sdk-team,official
-@sdk-team/alibabacloud-sls-data-agent-qa,alibabacloud-sls-data-agent-qa,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-sls-data-agent-qa,alibabacloud-sls-data-agent-qa,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-sls-index-config-management,alibabacloud-sls-index-config-management,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-sls-query,Alibabacloud Sls Query,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-sls-sdk-guidance,Alibabacloud Sls Sdk Guidance,0.0.1,false,sdk-team,official
