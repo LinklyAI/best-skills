@@ -55,25 +55,25 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 <!-- RANKINGS:START -->
 
-> Last updated: **2026-11-06** (UTC) · Top 10 preview per list — full Top 100 in the CSVs.
+> Last updated: **2026-11-07** (UTC) · Top 10 preview per list — full Top 100 in the CSVs.
 
 <details open>
 <summary><b>🏆 Best 100 (Worth-Installing Score)</b></summary>
 
 | # | Skill | Vendor | WIS | Cov |
 | --- | --- | --- | --- | --- |
-| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 81.4 | C |
-| 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 77.7 | C |
-| 3 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 75.9 | C |
+| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | [vercel-labs](https://www.skills.sh/vercel-labs) | 81.7 | C |
+| 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | [anthropics](https://www.skills.sh/anthropics) | 77.8 | C |
+| 3 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | [vercel-labs](https://www.skills.sh/vercel-labs) | 75.3 | C |
 | 4 | [microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry) | [microsoft](https://www.skills.sh/microsoft) | 67.2 | C |
-| 5 | [azure-prepare](https://www.skills.sh/microsoft/azure-skills/azure-prepare) | [microsoft](https://www.skills.sh/microsoft) | 67.1 | C |
-| 6 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 67.1 | C |
-| 7 | [azure-diagnostics](https://www.skills.sh/microsoft/azure-skills/azure-diagnostics) | [microsoft](https://www.skills.sh/microsoft) | 67 | C |
-| 8 | [azure-validate](https://www.skills.sh/microsoft/azure-skills/azure-validate) | [microsoft](https://www.skills.sh/microsoft) | 66.9 | C |
-| 9 | [ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation) | [101-skills](https://www.skills.sh/101-skills) | 66.8 | C |
-| 10 | [azure-deploy](https://www.skills.sh/microsoft/azure-skills/azure-deploy) | [microsoft](https://www.skills.sh/microsoft) | 66.8 | C |
+| 5 | [azure-diagnostics](https://www.skills.sh/microsoft/azure-skills/azure-diagnostics) | [microsoft](https://www.skills.sh/microsoft) | 67 | C |
+| 6 | [azure-prepare](https://www.skills.sh/microsoft/azure-skills/azure-prepare) | [microsoft](https://www.skills.sh/microsoft) | 67 | C |
+| 7 | [azure-ai](https://www.skills.sh/microsoft/azure-skills/azure-ai) | [microsoft](https://www.skills.sh/microsoft) | 67 | C |
+| 8 | [azure-deploy](https://www.skills.sh/microsoft/azure-skills/azure-deploy) | [microsoft](https://www.skills.sh/microsoft) | 66.7 | C |
+| 9 | [azure-validate](https://www.skills.sh/microsoft/azure-skills/azure-validate) | [microsoft](https://www.skills.sh/microsoft) | 66.7 | C |
+| 10 | [azure-resource-lookup](https://www.skills.sh/microsoft/azure-skills/azure-resource-lookup) | [microsoft](https://www.skills.sh/microsoft) | 66.7 | C |
 
-➡️ Full list: [best-100.csv](data/2026-11-06/rankings/best-100.csv)
+➡️ Full list: [best-100.csv](data/2026-11-07/rankings/best-100.csv)
 
 </details>
 
@@ -82,18 +82,18 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Skill | skills.sh | ClawHub | SkillHub CN |
 | --- | --- | --- | --- | --- |
-| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 4,227,364 | — | — |
-| 2 | dev-god | — | — | 11,269,937 |
-| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,503,474 | — | — |
-| 4 | multi-search-engine | — | — | 10,771,377 |
-| 5 | [hyperframes-cli](https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli) | 1,437,580 | — | — |
-| 6 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,399,067 | — | — |
-| 7 | dev-expert-pro | — | — | 6,270,782 |
-| 8 | [hyperframes](https://www.skills.sh/heygen-com/hyperframes/hyperframes) | 1,398,972 | — | — |
-| 9 | dev-expert | — | — | 6,010,940 |
-| 10 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 490,753 | 1,606,807 |
+| 1 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 4,242,989 | — | — |
+| 2 | dev-god | — | — | 11,291,352 |
+| 3 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 1,509,435 | — | — |
+| 4 | multi-search-engine | — | — | 10,797,466 |
+| 5 | [hyperframes-cli](https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli) | 1,451,652 | — | — |
+| 6 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,416,798 | — | — |
+| 7 | dev-expert-pro | — | — | 6,274,815 |
+| 8 | [hyperframes](https://www.skills.sh/heygen-com/hyperframes/hyperframes) | 1,413,368 | — | — |
+| 9 | dev-expert | — | — | 6,019,288 |
+| 10 | [self-improving-agent](https://clawhub.ai/pskoett/skills/self-improving-agent) | — | 491,052 | 1,615,347 |
 
-➡️ Full list: [top-installs.csv](data/2026-11-06/rankings/top-installs.csv)
+➡️ Full list: [top-installs.csv](data/2026-11-07/rankings/top-installs.csv)
 
 </details>
 
@@ -102,18 +102,18 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Skill | Installs | Weekly Δ% |
 | --- | --- | --- | --- |
-| 1 | [ai-image-generation](https://www.skills.sh/skills-shell/superpowers/ai-image-generation) | 688,591 | 60 |
-| 2 | [ai-video-generation](https://www.skills.sh/skills-shell/superpowers/ai-video-generation) | 688,543 | 60 |
-| 3 | [twitter-automation](https://www.skills.sh/skills-shell/superpowers/twitter-automation) | 688,475 | 60 |
-| 4 | [ai-avatar-video](https://www.skills.sh/skills-shell/superpowers/ai-avatar-video) | 688,188 | 60 |
-| 5 | [ui-taste](https://www.skills.sh/uizze.sh/ui-taste) | 1,002,922 | 87.2 |
-| 6 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 1,253,403 | 0 |
-| 7 | [hyperframes](https://www.skills.sh/heygen-com/hyperframes/hyperframes) | 1,398,972 | -22.4 |
-| 8 | [media-use](https://www.skills.sh/heygen-com/hyperframes/media-use) | 1,309,958 | -16.7 |
-| 9 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,399,067 | 10.3 |
-| 10 | [hyperframes-cli](https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli) | 1,437,580 | -13.2 |
+| 1 | [ai-image-generation](https://www.skills.sh/skills-shell/superpowers/ai-image-generation) | 717,245 | 60 |
+| 2 | [ai-video-generation](https://www.skills.sh/skills-shell/superpowers/ai-video-generation) | 717,177 | 60 |
+| 3 | [twitter-automation](https://www.skills.sh/skills-shell/superpowers/twitter-automation) | 717,107 | 60 |
+| 4 | [ai-avatar-video](https://www.skills.sh/skills-shell/superpowers/ai-avatar-video) | 716,820 | 60 |
+| 5 | [design-mobile-apps](https://www.skills.sh/designed-by-ai/skills/design-mobile-apps) | 1,273,941 | 0 |
+| 6 | [ui-taste](https://www.skills.sh/uizze.sh/ui-taste) | 1,023,281 | 87.2 |
+| 7 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 1,416,798 | 10.3 |
+| 8 | [find-skills](https://www.skills.sh/vercel-labs/skills/find-skills) | 4,242,989 | -5.2 |
+| 9 | [hyperframes](https://www.skills.sh/heygen-com/hyperframes/hyperframes) | 1,413,368 | -22.4 |
+| 10 | [hyperframes-cli](https://www.skills.sh/heygen-com/hyperframes/hyperframes-cli) | 1,451,652 | -13.2 |
 
-➡️ Full list: [trending-7d.csv](data/2026-11-06/rankings/trending-7d.csv)
+➡️ Full list: [trending-7d.csv](data/2026-11-07/rankings/trending-7d.csv)
 
 </details>
 
@@ -122,18 +122,18 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Skill | X | HN | Bluesky | GitHub |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 64+ | 3 | 12 | 47 |
-| 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 58+ | 1 | 8 | 103 |
-| 3 | self-improving | 68+ | 4 | 19 | 2 |
-| 4 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 81 | 1 | 6 | 1 |
-| 5 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 29 | 1 | 2 | 14 |
-| 6 | [nano-banana-pro](https://clawhub.ai/steipete/skills/nano-banana-pro) | 14 | 2 | 2 | 35 |
-| 7 | [ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation) | 17 | 5 | 48 | 1 |
-| 8 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 83+ | 0 | 11 | 36 |
-| 9 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 61 | 0 | 3 | 168 |
-| 10 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 4 | 17 | 8 |
+| 1 | [agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser) | 70+ | 3 | 9 | 49 |
+| 2 | [frontend-design](https://www.skills.sh/anthropics/skills/frontend-design) | 64+ | 1 | 5 | 92 |
+| 3 | [proactive-agent](https://clawhub.ai/halthelobster/skills/proactive-agent) | 86+ | 1 | 6 | 1 |
+| 4 | self-improving | 64+ | 2 | 32 | 2 |
+| 5 | [nano-banana-pro](https://clawhub.ai/steipete/skills/nano-banana-pro) | 19 | 2 | 3 | 36 |
+| 6 | [grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs) | 30 | 1 | 2 | 15 |
+| 7 | [grill-me](https://www.skills.sh/mattpocock/skills/grill-me) | 84+ | 0 | 11 | 30 |
+| 8 | [skill-creator](https://www.skills.sh/anthropics/skills/skill-creator) | 69 | 0 | 4 | 181 |
+| 9 | [browser-use](https://www.skills.sh/browser-use/browser-use/browser-use) | — | 1 | 15 | 9 |
+| 10 | [ai-image-generation](https://www.skills.sh/101-skills/superpowers/ai-image-generation) | 18 | 5 | 56 | 0 |
 
-➡️ Full list: [social-buzz.csv](data/2026-11-06/rankings/social-buzz.csv)
+➡️ Full list: [social-buzz.csv](data/2026-11-07/rankings/social-buzz.csv)
 
 </details>
 
@@ -142,9 +142,9 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Skill | Updated | Versions |
 | --- | --- | --- | --- |
-| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-11-05 | 164 |
-| 2 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-11-04 | 190 |
-| 3 | [getnote](https://clawhub.ai/iswalle/skills/getnote) | 2026-11-04 | 51 |
+| 1 | [chinese-official-writing](https://clawhub.ai/gongyu0918-debug/skills/chinese-official-writing) | 2026-11-06 | 165 |
+| 2 | [getnote](https://clawhub.ai/iswalle/skills/getnote) | 2026-11-06 | 52 |
+| 3 | [api-gateway](https://clawhub.ai/byungkyu/skills/api-gateway) | 2026-11-04 | 190 |
 | 4 | [ai-persona-os](https://clawhub.ai/jeffjhunter/skills/ai-persona-os) | 2026-11-04 | 23 |
 | 5 | scrapling-official | 2026-11-05 | 17 |
 | 6 | tencent-cos-skill | 2026-11-04 | 16 |
@@ -153,7 +153,7 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 | 9 | image-generation-cellcog | 2026-11-01 | 19 |
 | 10 | creative-writing-cellcog | 2026-11-01 | 17 |
 
-➡️ Full list: [most-active.csv](data/2026-11-06/rankings/most-active.csv)
+➡️ Full list: [most-active.csv](data/2026-11-07/rankings/most-active.csv)
 
 </details>
 
@@ -173,7 +173,7 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 | 9 | cic | 成都国信公链科技有限公司 | skillhub |
 | 10 | [obsidian](https://clawhub.ai/steipete/skills/obsidian) | [steipete](https://clawhub.ai/steipete) | clawhub |
 
-➡️ Full list: [official-100.csv](data/2026-11-06/rankings/official-100.csv)
+➡️ Full list: [official-100.csv](data/2026-11-07/rankings/official-100.csv)
 
 </details>
 
@@ -188,12 +188,12 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 | 4 | [skills.sh](https://www.skills.sh) | [anthropics](https://www.skills.sh/anthropics) | 605 | 1,942,412 |
 | 5 | [skills.sh](https://www.skills.sh) | [firebase](https://www.skills.sh/firebase) | 55 | 685,617 |
 | 6 | [skills.sh](https://www.skills.sh) | [firecrawl](https://www.skills.sh/firecrawl) | 286 | 482,310 |
-| 7 | [skills.sh](https://www.skills.sh) | [nvidia](https://www.skills.sh/nvidia) | 1287 | 438,507 |
+| 7 | [skills.sh](https://www.skills.sh) | [nvidia](https://www.skills.sh/nvidia) | 1287 | 439,583 |
 | 8 | [skills.sh](https://www.skills.sh) | [remotion-dev](https://www.skills.sh/remotion-dev) | 19 | 305,359 |
 | 9 | [skills.sh](https://www.skills.sh) | [flutter](https://www.skills.sh/flutter) | 88 | 286,211 |
 | 10 | [skills.sh](https://www.skills.sh) | [expo](https://www.skills.sh/expo) | 18 | 283,306 |
 
-➡️ Full list: [official-vendors.csv](data/2026-11-06/rankings/official-vendors.csv)
+➡️ Full list: [official-vendors.csv](data/2026-11-07/rankings/official-vendors.csv)
 
 </details>
 
@@ -202,18 +202,18 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Repository | Stars | Pushed |
 | --- | --- | --- | --- |
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | 315,211 | 2026-11-05 |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | 313,012 | 2026-11-03 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 187,758 | 2026-10-28 |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 185,235 | 2026-10-29 |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 154,673 | 2026-11-06 |
-| 6 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 145,707 | 2026-11-05 |
-| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 143,347 | 2026-11-06 |
-| 8 | [garrytan/gstack](https://github.com/garrytan/gstack) | 139,933 | 2026-11-06 |
-| 9 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,448 | 2026-11-05 |
-| 10 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 120,134 | 2026-11-05 |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | 316,713 | 2026-11-05 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | 313,606 | 2026-11-03 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 298,591 | 2026-11-06 |
+| 4 | [anthropics/skills](https://github.com/anthropics/skills) | 188,171 | 2026-11-06 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 185,854 | 2026-10-29 |
+| 6 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 154,804 | 2026-11-06 |
+| 7 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 146,162 | 2026-11-05 |
+| 8 | [vercel/next.js](https://github.com/vercel/next.js) | 143,371 | 2026-11-07 |
+| 9 | [garrytan/gstack](https://github.com/garrytan/gstack) | 140,456 | 2026-11-07 |
+| 10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 127,523 | 2026-11-06 |
 
-➡️ Full list: [top-repos.csv](data/2026-11-06/rankings/top-repos.csv)
+➡️ Full list: [top-repos.csv](data/2026-11-07/rankings/top-repos.csv)
 
 </details>
 
@@ -222,18 +222,18 @@ npx skills add https://github.com/LinklyAI/best-skills --skill best-skills
 
 | # | Skill | Age (days) | Popularity |
 | --- | --- | --- | --- |
-| 1 | dev-god | 29 | 0.999 |
-| 2 | dev-expert-pro | 21 | 0.997 |
-| 3 | aigccerts | 20 | 0.995 |
-| 4 | xique-tender-pay | 29 | 0.901 |
-| 5 | course-video-studio | 25 | 0.881 |
-| 6 | skill-creator | 24 | 0.86 |
-| 7 | course-narration-studio | 25 | 0.856 |
-| 8 | slide-narration-studio | 22 | 0.831 |
-| 9 | [uizze-ui](https://www.skills.sh/uizze/uizze/uizze-ui) | 25 | 0.8 |
-| 10 | micro-lesson-maker | 22 | 0.798 |
+| 1 | dev-expert-pro | 22 | 0.997 |
+| 2 | aigccerts | 21 | 0.995 |
+| 3 | course-video-studio | 26 | 0.881 |
+| 4 | skill-creator | 25 | 0.862 |
+| 5 | course-narration-studio | 26 | 0.852 |
+| 6 | slide-narration-studio | 23 | 0.83 |
+| 7 | [uizze-ui](https://www.skills.sh/uizze/uizze/uizze-ui) | 26 | 0.8 |
+| 8 | micro-lesson-maker | 23 | 0.798 |
+| 9 | xique-bid-review-pay | 26 | 0.788 |
+| 10 | dknownai-guard | 16 | 0.779 |
 
-➡️ Full list: [rising-stars.csv](data/2026-11-06/rankings/rising-stars.csv)
+➡️ Full list: [rising-stars.csv](data/2026-11-07/rankings/rising-stars.csv)
 
 </details>
 
