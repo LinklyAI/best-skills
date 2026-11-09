@@ -131,7 +131,7 @@ id,title,version,featured,publisher,trust
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.16,false,heygen-com,official
 @heygen-com/reverse-any-video,reverse-any-video,1.0.15,false,heygen-com,official
 @heygen-com/slideshow,slideshow,1.0.20,false,heygen-com,official
-@heygen-com/style-sampling,style-sampling,1.0.10,false,heygen-com,official
+@heygen-com/style-sampling,style-sampling,1.0.11,false,heygen-com,official
 @heygen-com/website-to-video,Website To Video,1.0.7,false,heygen-com,official
 @huggingface/hf-cli,Hugging Face CLI,1.20.1,false,huggingface,official
 @huggingface/hf-mem,Hugging Face Memory Estimator,1.0.10,false,huggingface,official
