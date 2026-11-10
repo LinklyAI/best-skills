@@ -20,6 +20,7 @@ ch:agent,2026-08-16
 ch:agent-analytics,2026-08-16
 ch:agent-autonomy-kit,2026-08-16
 ch:agent-autopilot,2026-08-16
+ch:agent-bom-registry,2026-11-10
 ch:agent-bom-runtime,2026-11-04
 ch:agent-browser-2,2026-08-16
 ch:agent-browser-3,2026-08-16
@@ -1431,6 +1432,7 @@ sh:information-transmission-bid-analysis-shibo-aliyun,2026-08-18
 sh:inner-mongolia-bid-analysis-shibo,2026-08-18
 sh:inner-mongolia-bid-analysis-shibo-aliyun,2026-08-18
 sh:interactive-courseware-builder,2026-10-06
+sh:interactive-courseware-designer,2026-11-10
 sh:international-organization-bid-analysis-shibo-aliyu,2026-08-18
 sh:ip-character-consistency-studio,2026-11-02
 sh:ixhlink-skills-image-edit,2026-10-10
@@ -1660,6 +1662,10 @@ sh:pentest,2026-09-06
 sh:perfectly-replicate-writing-skills,2026-08-16
 sh:perler-beads-pattern-generation-showapi,2026-09-19
 sh:personalized-song-maker,2026-08-20
+sh:pgy-blogger-detail,2026-11-10
+sh:pgy-blogger-search,2026-11-10
+sh:pgy-note-collect,2026-11-10
+sh:pgy-note-search,2026-11-10
 sh:photo-singing-video,2026-08-19
 sh:pii-redact,2026-10-14
 sh:playwright-cli-openclaw,2026-08-16
@@ -1731,6 +1737,7 @@ sh:repair-services-bid-analysis-shibo,2026-08-16
 sh:repair-services-bid-analysis-shibo-aliyun,2026-08-18
 sh:resident-services-bid-analysis-shibo-aliyun,2026-08-18
 sh:retail-bid-analysis-shibo-aliyun,2026-08-18
+sh:retailmaster,2026-11-10
 sh:rosemond-contract-compliance,2026-09-30
 sh:rosemond-contract-compliance1,2026-10-28
 sh:rosemond-pest-diagnosis,2026-10-28
@@ -1760,6 +1767,7 @@ sh:seedance2-skill,2026-08-16
 sh:seedream-image-gen,2026-08-16
 sh:seewo-easinote-assistant-skill,2026-10-28
 sh:self-dev-web-scraper,2026-10-20
+sh:self-ent-edu-mind-mapping,2026-11-10
 sh:self-evolution-v2,2026-08-16
 sh:self-improving,2026-09-26
 sh:self-improving-100,2026-09-26
@@ -1872,6 +1880,7 @@ sh:teacher-lesson-planner,2026-10-27
 sh:teacher-prep,2026-09-06
 sh:teacher-prep-skill,2026-10-10
 sh:teaching-plan-writer,2026-09-03
+sh:teaching-presentation,2026-11-10
 sh:telehot-bid-compliance-check,2026-09-11
 sh:telehot-skill-custom,2026-09-20
 sh:telehot-tender-review,2026-10-01
@@ -1956,6 +1965,7 @@ sh:wb-profile,2026-11-05
 sh:wb-search,2026-11-05
 sh:web-animation-design,2026-08-16
 sh:web-development,2026-08-16
+sh:web-hot,2026-11-10
 sh:web-search,2026-10-01
 sh:web-tools-guide,2026-08-16
 sh:wechat-ai-publisher,2026-08-16
@@ -2052,6 +2062,7 @@ sh:zhongguozhuanli-zhuanxiecailiaojiedushenchazhengce,2026-08-27
 sh:zhongkui-skill,2026-08-16
 sh:zhuangji-assistant-skill,2026-09-24
 sh:zhuangqiancha,2026-08-17
+sh:zhuli02,2026-11-10
 sh:zlbx-bidding,2026-09-02
 sh:zlbx-bidding-payskill,2026-09-03
 sh:zotero,2026-08-16
@@ -2059,6 +2070,7 @@ sh:zy930511,2026-09-02
 sh:zy9305151,2026-09-05
 sh:zzu-college-playbook,2026-09-15
 ss:0xbadc0ffee/safari-shot/safari-shot,2026-11-05
+ss:0xdesign/design-plugin/design-lab,2026-11-10
 ss:0xhubed/agent-trading-arena/risk-management,2026-08-25
 ss:0xmulight/bsc-mint-preflight/bsc-mint-preflight,2026-11-04
 ss:0xs4n4tg/kinetograph/kinetograph,2026-10-28
@@ -2533,6 +2545,7 @@ ss:affaan-m/ecc/inventory-demand-planning,2026-08-16
 ss:affaan-m/ecc/investor-materials,2026-08-16
 ss:affaan-m/ecc/investor-outreach,2026-08-16
 ss:affaan-m/ecc/ios-icon-gen,2026-08-16
+ss:affaan-m/ecc/issue-review,2026-11-10
 ss:affaan-m/ecc/iterative-retrieval,2026-08-16
 ss:affaan-m/ecc/ito-baskets,2026-08-18
 ss:affaan-m/ecc/ito-compute,2026-08-18
@@ -2572,6 +2585,7 @@ ss:affaan-m/ecc/mcp-server-patterns,2026-08-16
 ss:affaan-m/ecc/messages-ops,2026-08-16
 ss:affaan-m/ecc/ml-adoption-playbook,2026-08-16
 ss:affaan-m/ecc/mle-workflow,2026-08-16
+ss:affaan-m/ecc/module-governance,2026-11-10
 ss:affaan-m/ecc/module-regression,2026-10-12
 ss:affaan-m/ecc/motion-advanced,2026-08-16
 ss:affaan-m/ecc/motion-foundations,2026-08-16
@@ -2686,6 +2700,7 @@ ss:affaan-m/ecc/test-collaboration,2026-10-12
 ss:affaan-m/ecc/tinystruct-patterns,2026-08-16
 ss:affaan-m/ecc/token-budget-advisor,2026-08-16
 ss:affaan-m/ecc/token-card,2026-10-10
+ss:affaan-m/ecc/typescript-patterns,2026-11-10
 ss:affaan-m/ecc/ui-demo,2026-08-18
 ss:affaan-m/ecc/ui-to-vue,2026-08-16
 ss:affaan-m/ecc/uncloud,2026-08-16
@@ -5445,6 +5460,7 @@ ss:cdeistopened/content-os/x-posting,2026-11-07
 ss:cdeistopened/content-os/youtube-clip-extractor,2026-11-07
 ss:cdn-cmm-ai-open.chanmama.com/cmm-api,2026-08-17
 ss:cdn-cmm-ai-test.cds8.cn/cmm-api,2026-09-01
+ss:cdsassj00/vibe-webeffect/vibe-webeffect,2026-11-10
 ss:cedmandocdoc/awesome-skills/building-tests,2026-10-21
 ss:cedmandocdoc/awesome-skills/managing-context-sessions,2026-09-27
 ss:celigo/ai/building-apis,2026-09-05
@@ -6037,6 +6053,7 @@ ss:codewithmukesh/dotnet-claude-kit/arch-check,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/architecture-advisor,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/aspire,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/authentication,2026-09-02
+ss:codewithmukesh/dotnet-claude-kit/avalonia,2026-11-10
 ss:codewithmukesh/dotnet-claude-kit/build-fix,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/caching,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/checkpoint,2026-09-02
@@ -6044,11 +6061,13 @@ ss:codewithmukesh/dotnet-claude-kit/ci-cd,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/clean-architecture,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/code-review,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/configuration,2026-09-13
+ss:codewithmukesh/dotnet-claude-kit/console-cli,2026-11-10
 ss:codewithmukesh/dotnet-claude-kit/container-publish,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/convention-learner,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/ddd,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/de-sloppify,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/dependency-injection,2026-09-02
+ss:codewithmukesh/dotnet-claude-kit/desktop-mvvm,2026-11-10
 ss:codewithmukesh/dotnet-claude-kit/docker,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/dotnet-init,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/ef-core,2026-09-13
@@ -6061,6 +6080,7 @@ ss:codewithmukesh/dotnet-claude-kit/messaging,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/migrate,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/minimal-api,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/modern-csharp,2026-09-02
+ss:codewithmukesh/dotnet-claude-kit/native-aot,2026-11-10
 ss:codewithmukesh/dotnet-claude-kit/openapi,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/opentelemetry,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/outdated,2026-09-13
@@ -6075,6 +6095,7 @@ ss:codewithmukesh/dotnet-claude-kit/serilog,2026-09-13
 ss:codewithmukesh/dotnet-claude-kit/spec,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/tdd,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/testing,2026-09-13
+ss:codewithmukesh/dotnet-claude-kit/token-report,2026-11-10
 ss:codewithmukesh/dotnet-claude-kit/verify,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/vertical-slice,2026-09-02
 ss:codewithmukesh/dotnet-claude-kit/workflow-mastery,2026-09-13
@@ -7104,6 +7125,7 @@ ss:djlex83/solidworks-automation-skill/solidworks-automation,2026-08-23
 ss:dmmulroy/.dotfiles/bro,2026-11-06
 ss:dmmulroy/anti-slop/install-anti-slop,2026-08-16
 ss:dmmulroy/skills/effect-service-design,2026-11-09
+ss:dmno-dev/varlock/varlock,2026-11-10
 ss:dmoka/skills/mutation-testing,2026-11-03
 ss:docker/skills/docker-build-strategies,2026-09-26
 ss:docker/skills/docker-compose-patterns,2026-09-26
@@ -7133,6 +7155,7 @@ ss:docs.stripe.com/stripe-apps,2026-08-16
 ss:docs.stripe.com/stripe-directory,2026-08-16
 ss:docs.stripe.com/stripe-docs,2026-08-16
 ss:docs.stripe.com/stripe-pay,2026-09-15
+ss:dodaios/ste80-humanizer/ste80-humanizer,2026-11-10
 ss:dodopayments/skills/billing-sdk,2026-09-15
 ss:dodopayments/skills/checkout-integration,2026-09-15
 ss:dodopayments/skills/credit-based-billing,2026-09-15
@@ -7232,6 +7255,7 @@ ss:dotnet/skills/csharp-scripts,2026-09-12
 ss:dotnet/skills/detect-static-dependencies,2026-09-10
 ss:dotnet/skills/directory-build-organization,2026-09-10
 ss:dotnet/skills/dotnet-aot-compat,2026-09-12
+ss:dotnet/skills/dotnet-breaking-changes,2026-11-10
 ss:dotnet/skills/dotnet-maui-doctor,2026-09-12
 ss:dotnet/skills/dotnet-pinvoke,2026-09-12
 ss:dotnet/skills/dotnet-trace-collect,2026-09-12
@@ -7630,6 +7654,7 @@ ss:elastic/agent-skills/kibana-anomaly-detection,2026-08-27
 ss:elastic/agent-skills/kibana-audit,2026-08-31
 ss:elastic/agent-skills/kibana-cases,2026-11-03
 ss:elastic/agent-skills/kibana-connectors,2026-08-23
+ss:elastic/agent-skills/kibana-context-engine,2026-11-10
 ss:elastic/agent-skills/kibana-dashboards,2026-08-31
 ss:elastic/agent-skills/kibana-streams,2026-08-27
 ss:elastic/agent-skills/kibana-vega,2026-08-27
@@ -7649,6 +7674,7 @@ ss:elastic/agent-skills/observability-onboarding,2026-09-07
 ss:elastic/agent-skills/observability-service-health,2026-08-27
 ss:elastic/agent-skills/observability-service-reliability,2026-09-07
 ss:elastic/agent-skills/observability-sre-triage,2026-09-07
+ss:elastic/agent-skills/security-alert-analysis,2026-11-10
 ss:elastic/agent-skills/security-alert-triage,2026-08-27
 ss:elastic/agent-skills/security-case-management,2026-08-27
 ss:elastic/agent-skills/security-detection-rule-management,2026-08-27
@@ -8415,6 +8441,7 @@ ss:flaviocopes/fstack/fstack-simplify,2026-08-27
 ss:flaviogragnolati/ai-workflow/q-core-contract,2026-10-27
 ss:flornkm/shadow-plugin/smooth-shadow-ring,2026-09-15
 ss:flowcerta/flowcerta-skills/flowcerta-govern,2026-10-08
+ss:flowkit-labs/skills/doany-website-builder,2026-11-10
 ss:flowkit-labs/skills/reddit-automation,2026-08-17
 ss:flowritescode/fwc-swiftui-skills/swiftui-liquid-glass,2026-10-06
 ss:floyymp/claude-skills/audit-setup,2026-10-08
@@ -8929,6 +8956,15 @@ ss:gencraft-labs/skills/ai-video-generation,2026-10-08
 ss:gencraft-labs/skills/image-to-video,2026-10-08
 ss:gencraft-labs/skills/video-edit,2026-10-08
 ss:generativeagents/training-claude-code/explaining-code,2026-08-31
+ss:geniussports/core/agentify-repo,2026-11-10
+ss:geniussports/core/continue-agent-harness,2026-11-10
+ss:geniussports/core/finalize-agent-harness,2026-11-10
+ss:geniussports/core/flyte-v1-to-v2-migration,2026-11-10
+ss:geniussports/core/flyte-v2-idiomatic-refactor,2026-11-10
+ss:geniussports/core/jira-ticket-to-mr,2026-11-10
+ss:geniussports/core/promote-skill,2026-11-10
+ss:geniussports/core/propose-agent-harness,2026-11-10
+ss:geniussports/core/ship-mr,2026-11-10
 ss:genjutsu.athevon.dev/genjutsu,2026-10-02
 ss:genkit-ai/skills/developing-genkit-js,2026-08-16
 ss:genmedia-labs/skills/ai-image-generation,2026-08-17
@@ -10449,6 +10485,7 @@ ss:iart-ai/explainer-video-skills/diagram-animation,2026-10-23
 ss:iart-ai/explainer-video-skills/explainer-video,2026-08-19
 ss:iart-ai/explainer-video-skills/isometric-animation,2026-08-19
 ss:iart-ai/explainer-video-skills/whiteboard-animation,2026-10-23
+ss:iart-ai/explainer-video-skills/wrapped-video,2026-11-10
 ss:iart-ai/freelance-motion-skills/brand-motion-guidelines,2026-10-23
 ss:iart-ai/freelance-motion-skills/client-revisions,2026-10-23
 ss:iart-ai/freelance-motion-skills/creative-brief,2026-10-23
@@ -13421,6 +13458,7 @@ ss:modular/skills/serve-model,2026-08-20
 ss:module-federation/agent-skills/mf,2026-08-27
 ss:moeadham/secure-secret-drop/secure-secret-drop,2026-10-01
 ss:mofirojean/angular-ui-skills/ui-craft,2026-08-19
+ss:moh4696/cinematic-skill/cinematic-film,2026-11-10
 ss:moh4696/open-3d-skills/alpha-cutout,2026-11-07
 ss:moh4696/open-3d-skills/cursor-rig,2026-11-07
 ss:moh4696/open-3d-skills/scroll-film,2026-11-07
@@ -15716,6 +15754,7 @@ ss:plannotator/effective-html/design-artifact,2026-08-23
 ss:plannotator/effective-html/html,2026-09-11
 ss:plannotator/effective-html/html-diagram,2026-08-22
 ss:plannotator/effective-html/html-plan,2026-09-11
+ss:plannotator/effective-html/html-prototype,2026-11-10
 ss:plastic-labs/honcho/honcho-memory,2026-10-15
 ss:plastic-labs/honcho/verify,2026-10-15
 ss:playableintelligence/game-creator/game-qa,2026-11-09
@@ -15923,6 +15962,7 @@ ss:prisma/skills/prisma-mongodb-upgrade,2026-08-16
 ss:prisma/skills/prisma-orm-setup,2026-09-30
 ss:prisma/skills/prisma-postgres,2026-08-16
 ss:prisma/skills/prisma-postgres-setup,2026-08-16
+ss:prisma/skills/prisma-postgres-upgrade,2026-11-10
 ss:prisma/skills/prisma-upgrade-v7,2026-08-16
 ss:processonai/processon-skills/processon-diagram-generator,2026-10-04
 ss:product-on-purpose/pm-skills/deliver-acceptance-criteria,2026-09-15
@@ -16507,6 +16547,7 @@ ss:robinberaud/hermes-skills/powerpoint,2026-08-23
 ss:robinberaud/hermes-skills/seo-optimizer,2026-08-23
 ss:robinberaud/hermes-skills/systematic-debugging,2026-08-23
 ss:robinebers/attentionmachine-skills/attention-machine,2026-10-18
+ss:roble3/cc-blender-skill/animation-quality-gate,2026-11-10
 ss:roble3/cc-blender-skill/atlas-uv-fitting,2026-10-02
 ss:roble3/cc-blender-skill/blender-animation,2026-09-02
 ss:roble3/cc-blender-skill/blender-cameras,2026-09-06
@@ -18044,14 +18085,20 @@ ss:skills.crunchyroll.tools/writing-technical-design-docs,2026-09-30
 ss:skills.sh/advanced-evaluation,2026-10-12
 ss:skills.sh/ai-check,2026-10-12
 ss:skills.sh/ask-docs,2026-08-26
+ss:skills.sh/assess-linear-ticket,2026-11-10
+ss:skills.sh/assess-security-ticket,2026-11-10
 ss:skills.sh/assess-ticket,2026-11-04
 ss:skills.sh/assistant-tool-evaluation,2026-08-26
+ss:skills.sh/asterix-figma-access,2026-11-10
+ss:skills.sh/asterix-github-access,2026-11-10
 ss:skills.sh/bdi-mental-states,2026-10-12
 ss:skills.sh/career-workspace,2026-08-26
 ss:skills.sh/clean-user-facing-text,2026-10-12
 ss:skills.sh/composio-cli,2026-08-26
 ss:skills.sh/context-engineering-collection,2026-10-12
 ss:skills.sh/context-fundamentals,2026-10-12
+ss:skills.sh/dependabot-security-tickets,2026-11-10
+ss:skills.sh/dependency-pr-approver,2026-11-10
 ss:skills.sh/design-agent,2026-08-26
 ss:skills.sh/design-system-migration,2026-10-25
 ss:skills.sh/design-task,2026-08-26
@@ -18087,8 +18134,15 @@ ss:skills.sh/interview-stage,2026-08-26
 ss:skills.sh/interview-system-admin,2026-08-26
 ss:skills.sh/kb-retriever,2026-10-12
 ss:skills.sh/kobra-design-eng,2026-10-25
+ss:skills.sh/linear-ticket-implementer,2026-11-10
 ss:skills.sh/neon-postgres,2026-09-20
+ss:skills.sh/obelix-dependabot-pr-recovery,2026-11-10
+ss:skills.sh/obelix-dependabot-security-tickets,2026-11-10
+ss:skills.sh/panoramix,2026-11-10
+ss:skills.sh/pr-rule-proposer,2026-11-10
 ss:skills.sh/refresh-obsidian-dashboard,2026-08-26
+ss:skills.sh/report-blocker,2026-11-10
+ss:skills.sh/request-code-review,2026-11-10
 ss:skills.sh/right-size,2026-11-09
 ss:skills.sh/right-size-setup,2026-11-09
 ss:skills.sh/ron-ai-film-workflow,2026-09-11
@@ -18096,6 +18150,8 @@ ss:skills.sh/shared-storage-routing,2026-08-26
 ss:skills.sh/skill-creator,2026-08-26
 ss:skills.sh/skill-installer,2026-08-26
 ss:skills.sh/ui-sound-design,2026-10-25
+ss:skills.sh/watch-subscriptions,2026-11-10
+ss:skills.sh/write-rfc,2026-11-10
 ss:skills.torob.dev/torob-access-log-query,2026-09-05
 ss:skills.torob.dev/torob-agent-browser-policy,2026-09-05
 ss:skills.torob.dev/torob-ai-sub-image-generation,2026-09-05
@@ -19704,6 +19760,10 @@ ss:vectorize-io/hindsight/hindsight-local,2026-10-02
 ss:veedstudio/open-edit/open-edit,2026-09-27
 ss:vercel-labs/agent-browser/agent-browser,2026-08-16
 ss:vercel-labs/agent-desktop/agent-desktop,2026-11-01
+ss:vercel-labs/agent-desktop/agent-desktop-ffi,2026-11-10
+ss:vercel-labs/agent-desktop/agent-desktop-linux,2026-11-10
+ss:vercel-labs/agent-desktop/agent-desktop-windows,2026-11-10
+ss:vercel-labs/agent-desktop/jev-desktop,2026-11-10
 ss:vercel-labs/agent-eval/frontend-design,2026-08-25
 ss:vercel-labs/agent-skills/deploy-to-vercel,2026-08-16
 ss:vercel-labs/agent-skills/vercel-cli-with-tokens,2026-08-16
