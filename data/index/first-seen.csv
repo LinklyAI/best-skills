@@ -1263,6 +1263,7 @@ sh:datafenxi,2026-08-16
 sh:dbskill-dontbesilent,2026-09-24
 sh:dcd-comments,2026-11-12
 sh:dcd-detail,2026-11-12
+sh:dcd-hot,2026-11-16
 sh:dcd-stats,2026-11-12
 sh:deep-skill-finder,2026-08-16
 sh:demo-material-generation,2026-10-01
@@ -1303,6 +1304,7 @@ sh:dy-comments,2026-10-30
 sh:dy-danmu,2026-11-15
 sh:dy-profile,2026-10-30
 sh:dy-search,2026-10-30
+sh:dy-sub-comments,2026-11-16
 sh:dying-disk-recorvey,2026-09-26
 sh:earnings-review,2026-09-16
 sh:eastmoney-tools,2026-10-10
@@ -1457,6 +1459,7 @@ sh:industry-research-analyst,2026-08-16
 sh:information-transmission-bid-analysis-shibo-aliyun,2026-08-18
 sh:inner-mongolia-bid-analysis-shibo,2026-08-18
 sh:inner-mongolia-bid-analysis-shibo-aliyun,2026-08-18
+sh:ins,2026-11-16
 sh:interactive-courseware-builder,2026-10-06
 sh:interactive-courseware-designer,2026-11-10
 sh:international-organization-bid-analysis-shibo-aliyu,2026-08-18
@@ -1562,6 +1565,7 @@ sh:lingyi-wx-video-script-creator-ultra,2026-08-20
 sh:lingyi-wx-viral-script-generator,2026-08-16
 sh:lingyi-xhs-seeding-campaign,2026-09-10
 sh:lingyi-yunying-diaoyan-baogao,2026-08-16
+sh:linkedin-maxhub,2026-11-16
 sh:linkfox-amazon-alexa-search,2026-08-24
 sh:linkfox-amazon-reviews-list,2026-08-16
 sh:literature-search,2026-08-16
@@ -1902,6 +1906,7 @@ sh:svg-draw,2026-08-16
 sh:swelist,2026-08-16
 sh:taitoubiao-proposal-smart-assistant,2026-08-18
 sh:talking-avatar-video,2026-09-03
+sh:talking-pet-video,2026-11-16
 sh:taobao-main-video-maker,2026-08-22
 sh:taobao-shop-data,2026-11-01
 sh:task-status,2026-09-11
@@ -1966,9 +1971,11 @@ sh:transportation-bid-analysis-shibo-aliyun,2026-08-18
 sh:travel-cn,2026-08-16
 sh:travelassistant,2026-10-04
 sh:tshirt-design-showapi,2026-09-12
+sh:tt-hot,2026-11-16
 sh:tubescribe,2026-08-16
 sh:tupian,2026-10-04
 sh:tweet-writer,2026-08-16
+sh:twitter-maxhub,2026-11-16
 sh:ui-design,2026-08-16
 sh:ui-design-guide,2026-08-16
 sh:ui-new,2026-08-16
@@ -2023,6 +2030,7 @@ sh:wechat-cover-maker,2026-08-20
 sh:wechat-cover-studio,2026-08-25
 sh:wechat-desktop-claw-automatic-control,2026-09-25
 sh:wechat-global-authoring-assistant,2026-08-26
+sh:wechat-intelligence,2026-11-16
 sh:wechat-miniapp-zh,2026-10-21
 sh:wechat-miniprogram-toolkit,2026-09-17
 sh:wechat-moments-poster-maker,2026-11-11
@@ -2069,6 +2077,7 @@ sh:wx-search,2026-11-13
 sh:wxa-skills-generate,2026-08-16
 sh:wxpublic-fetch,2026-08-16
 sh:xhs-api,2026-11-15
+sh:xhs-hot,2026-11-16
 sh:xhs-shop-data,2026-11-01
 sh:xia345-ai-daily-subscription,2026-10-29
 sh:xiaobaogongai-contract-drafting,2026-09-25
@@ -2091,6 +2100,7 @@ sh:xique-tender-pay,2026-10-09
 sh:xuanzang-skill,2026-08-16
 sh:xueshulunwenyushenchaloudongsaomiao,2026-09-05
 sh:ydxc0511,2026-09-06
+sh:youtube-maxhub,2026-11-16
 sh:yq-ppt-master,2026-10-05
 sh:yt-dlp-download-skill,2026-10-03
 sh:yt-dlp-downloader,2026-08-16
@@ -2199,6 +2209,7 @@ ss:77hub/cli-skills/qiqi-business-foundations,2026-08-20
 ss:77hub/cli-skills/qiqi-cli,2026-08-20
 ss:77hub/cli-skills/qiqi-cli-installation,2026-08-20
 ss:77hub/cli-skills/qiqi-project,2026-08-20
+ss:8090-inc/software-factory-plugin/software-factory,2026-11-16
 ss:89jobrien/steve/action-item-organizer,2026-10-08
 ss:89jobrien/steve/ai-code-cleanup,2026-10-08
 ss:89jobrien/steve/brainstorming,2026-10-08
@@ -4481,6 +4492,7 @@ ss:assistant-ui/skills/thread-list,2026-08-16
 ss:assistant-ui/skills/tools,2026-08-16
 ss:assistant-ui/skills/update,2026-08-16
 ss:ast-grep/agent-skill/ast-grep,2026-08-31
+ss:astral-sh/agent-plugins/uv,2026-11-16
 ss:astral-sh/claude-code-plugins/ruff,2026-09-13
 ss:astral-sh/claude-code-plugins/ty,2026-09-13
 ss:astral-sh/claude-code-plugins/uv,2026-08-20
@@ -4520,6 +4532,7 @@ ss:athevon/genjutsu/swiftui-graphics,2026-08-25
 ss:athevon/genjutsu/swiftui-motion,2026-08-25
 ss:athevon/genjutsu/threejs-r3f,2026-08-25
 ss:athevon/genjutsu/ui-ux-pro-max,2026-08-25
+ss:atl-paas/net/pr-risk-assessment,2026-11-16
 ss:atlascloudai/atlas-cloud-skills/universal-video-prompt-skill,2026-11-03
 ss:atlassian/atlassian-mcp-server/capture-tasks-from-meeting-notes,2026-10-21
 ss:atlassian/atlassian-mcp-server/triage-issue,2026-09-14
@@ -4583,6 +4596,7 @@ ss:aws/agent-toolkit-for-aws/amazon-documentdb,2026-08-29
 ss:aws/agent-toolkit-for-aws/amazon-dynamodb,2026-08-29
 ss:aws/agent-toolkit-for-aws/amazon-ec2-image-builder,2026-08-29
 ss:aws/agent-toolkit-for-aws/amazon-elasticache,2026-08-29
+ss:aws/agent-toolkit-for-aws/amazon-eventbridge-event-bus,2026-11-16
 ss:aws/agent-toolkit-for-aws/amazon-keyspaces,2026-08-29
 ss:aws/agent-toolkit-for-aws/amazon-neptune,2026-10-01
 ss:aws/agent-toolkit-for-aws/amazon-opensearch-service,2026-08-29
@@ -4604,13 +4618,16 @@ ss:aws/agent-toolkit-for-aws/aws-compute,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-containers,2026-08-18
 ss:aws/agent-toolkit-for-aws/aws-database,2026-08-18
 ss:aws/agent-toolkit-for-aws/aws-deployment,2026-08-29
+ss:aws/agent-toolkit-for-aws/aws-emulator,2026-11-16
 ss:aws/agent-toolkit-for-aws/aws-fault-injection-service,2026-10-01
 ss:aws/agent-toolkit-for-aws/aws-iam,2026-08-18
+ss:aws/agent-toolkit-for-aws/aws-investigation,2026-11-16
 ss:aws/agent-toolkit-for-aws/aws-lambda-durable-functions,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-lambda-managed-instances,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-lambda-microvms,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-lambda-web-functions,2026-10-17
 ss:aws/agent-toolkit-for-aws/aws-marketplace-metering,2026-10-01
+ss:aws/agent-toolkit-for-aws/aws-media-services,2026-11-16
 ss:aws/agent-toolkit-for-aws/aws-messaging-and-streaming,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-network-monitoring,2026-08-29
 ss:aws/agent-toolkit-for-aws/aws-networking,2026-08-18
@@ -4641,6 +4658,7 @@ ss:aws/agent-toolkit-for-aws/creating-production-vpc-multi-az,2026-08-18
 ss:aws/agent-toolkit-for-aws/creating-secrets-using-best-practices,2026-08-18
 ss:aws/agent-toolkit-for-aws/debugging-lambda-timeouts,2026-08-29
 ss:aws/agent-toolkit-for-aws/debugging-mwaa-workflow,2026-10-01
+ss:aws/agent-toolkit-for-aws/deploying-containers-to-amazon-lightsail,2026-11-16
 ss:aws/agent-toolkit-for-aws/deploying-custom-domain-rest-api,2026-08-29
 ss:aws/agent-toolkit-for-aws/developing-applications-on-managed-service-for-apache-flink,2026-08-29
 ss:aws/agent-toolkit-for-aws/diff-scanning-with-aws-security-agent,2026-09-26
@@ -4660,12 +4678,15 @@ ss:aws/agent-toolkit-for-aws/launching-ec2-instance-with-best-practices,2026-08-
 ss:aws/agent-toolkit-for-aws/llm-to-bedrock,2026-10-01
 ss:aws/agent-toolkit-for-aws/managing-amazon-kinesis-data-streams,2026-10-01
 ss:aws/agent-toolkit-for-aws/managing-amazon-msk,2026-08-29
+ss:aws/agent-toolkit-for-aws/managing-data-asset-access,2026-11-16
+ss:aws/agent-toolkit-for-aws/managing-data-catalog,2026-11-16
 ss:aws/agent-toolkit-for-aws/migrate-to-msk,2026-08-29
 ss:aws/agent-toolkit-for-aws/migrating-hive-tables-to-s3-tables,2026-11-05
 ss:aws/agent-toolkit-for-aws/migrating-to-amazon-redshift,2026-08-29
 ss:aws/agent-toolkit-for-aws/operate-on-aws,2026-10-13
 ss:aws/agent-toolkit-for-aws/processing-s3-uploads-with-step-functions,2026-08-29
 ss:aws/agent-toolkit-for-aws/prompt-library-for-startups,2026-10-13
+ss:aws/agent-toolkit-for-aws/querying-aws-athena,2026-11-16
 ss:aws/agent-toolkit-for-aws/querying-aws-cloudwatch,2026-08-29
 ss:aws/agent-toolkit-for-aws/querying-aws-redshift,2026-08-29
 ss:aws/agent-toolkit-for-aws/querying-aws-s3,2026-08-29
@@ -5154,6 +5175,7 @@ ss:bmad-code-org/bmad-method/bmad-deep-recon,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-eval,2026-10-07
 ss:bmad-code-org/bmad-method/bmad-facilitate,2026-11-07
 ss:bmad-code-org/bmad-method/bmad-forge-idea,2026-09-06
+ss:bmad-code-org/bmad-method/bmad-founder-agent-advisor,2026-11-16
 ss:bmad-code-org/bmad-method/bmad-ingest,2026-11-03
 ss:bmad-code-org/bmad-method/bmad-party-mode,2026-09-06
 ss:bmad-code-org/bmad-method/bmad-prd,2026-09-06
@@ -5651,6 +5673,7 @@ ss:capire/skills/cap-upgrade,2026-09-01
 ss:capsrock/bauhaus-design-skill/bauhaus-design,2026-10-03
 ss:cardputerzero/skill/cardputer-zero-application,2026-11-15
 ss:carmahhawwari/ui-design-brain/ui-design-brain,2026-09-13
+ss:carolinacherry/claude-first-customer-finder-skill/first-customer-finder,2026-11-16
 ss:carousell/md-agent-skill/mudah-cli,2026-08-20
 ss:caru-ini/stack-diagram/stack-diagram,2026-11-02
 ss:catalyst-cooperative/agent-skills/datapackage,2026-08-16
@@ -6537,6 +6560,8 @@ ss:coralogix/cx-cli/cx-infra,2026-08-17
 ss:coralogix/cx-cli/cx-observability-setup,2026-08-17
 ss:coralogix/cx-cli/cx-olly,2026-08-17
 ss:coralogix/cx-cli/cx-platform-admin,2026-08-17
+ss:coralogix/cx-cli/cx-profiling,2026-11-16
+ss:coralogix/cx-cli/cx-rum-setup,2026-11-16
 ss:coralogix/cx-cli/cx-search-dashboard,2026-08-17
 ss:coralogix/cx-cli/cx-service-catalog,2026-08-17
 ss:coralogix/cx-cli/cx-slos,2026-08-17
@@ -7366,6 +7391,7 @@ ss:digitalsamba/claude-code-video-toolkit/remotion,2026-10-23
 ss:digitalsamba/claude-code-video-toolkit/remotion-best-practices,2026-10-23
 ss:digitalsamba/claude-code-video-toolkit/video-design,2026-11-12
 ss:digitalsamba/claude-code-video-toolkit/video_toolkit,2026-10-23
+ss:digitalsamba/claude-code-video-toolkit/youtube-stats,2026-11-16
 ss:dillydog580/animate-roblox-characters/animate-roblox-characters,2026-11-14
 ss:dimillian/skills/ios-debugger-agent,2026-08-18
 ss:dimillian/skills/swift-concurrency-expert,2026-08-22
@@ -8130,6 +8156,7 @@ ss:emilkowalski/skills/animate-expo,2026-08-19
 ss:emilkowalski/skills/animation-performance,2026-10-12
 ss:emilkowalski/skills/animation-vocabulary,2026-08-16
 ss:emilkowalski/skills/apple-design,2026-08-16
+ss:emilkowalski/skills/ask-emil,2026-11-16
 ss:emilkowalski/skills/ask-sonner,2026-08-16
 ss:emilkowalski/skills/break-ui,2026-10-03
 ss:emilkowalski/skills/choreograph,2026-11-05
@@ -11402,6 +11429,7 @@ ss:jeffallan/claude-skills/fastapi-expert,2026-08-27
 ss:jeffallan/claude-skills/feature-forge,2026-08-31
 ss:jeffallan/claude-skills/fine-tuning-expert,2026-08-31
 ss:jeffallan/claude-skills/flutter-expert,2026-08-31
+ss:jeffallan/claude-skills/fullstack-guardian,2026-11-16
 ss:jeffallan/claude-skills/game-developer,2026-08-31
 ss:jeffallan/claude-skills/golang-pro,2026-08-19
 ss:jeffallan/claude-skills/graphql-architect,2026-08-31
@@ -11429,6 +11457,7 @@ ss:jeffallan/claude-skills/react-expert,2026-08-31
 ss:jeffallan/claude-skills/react-native-expert,2026-08-31
 ss:jeffallan/claude-skills/rust-engineer,2026-08-26
 ss:jeffallan/claude-skills/salesforce-developer,2026-08-31
+ss:jeffallan/claude-skills/secure-code-guardian,2026-11-16
 ss:jeffallan/claude-skills/security-reviewer,2026-09-09
 ss:jeffallan/claude-skills/shopify-expert,2026-08-31
 ss:jeffallan/claude-skills/spark-engineer,2026-08-31
@@ -14027,6 +14056,7 @@ ss:modelscope.cn/youtube-collect-buheliwa,2026-09-24
 ss:modelstudioai/cli/bailian-cli,2026-08-16
 ss:modelstudioai/cli/bailian-finetune,2026-08-16
 ss:modelstudioai/cli/bailian-gen,2026-08-16
+ss:modelstudioai/cli/bailian-knowledge,2026-11-16
 ss:modelstudioai/cli/bailian-managed-agent,2026-08-16
 ss:modelstudioai/cli/bailian-memory,2026-10-21
 ss:modelstudioai/cli/bailian-protocol,2026-08-16
@@ -15685,6 +15715,7 @@ ss:openmontageinc/openmontage/media-use,2026-11-09
 ss:openmontageinc/openmontage/motion-graphics,2026-11-09
 ss:openmontageinc/openmontage/provider-model-refresh,2026-11-09
 ss:openmontageinc/openmontage/sound-effects,2026-11-09
+ss:openmontageinc/openmontage/svg-character-animation,2026-11-16
 ss:openmontageinc/openmontage/synthetic-screen-recording,2026-11-09
 ss:openmontageinc/openmontage/threejs-fundamentals,2026-11-09
 ss:openmontageinc/openmontage/threejs-lighting,2026-11-09
@@ -15692,6 +15723,7 @@ ss:openmontageinc/openmontage/threejs-textures,2026-11-09
 ss:openmontageinc/openmontage/vercel-composition-patterns,2026-11-09
 ss:openmontageinc/openmontage/vercel-react-best-practices,2026-11-09
 ss:openmontageinc/openmontage/video-download,2026-11-09
+ss:openmontageinc/openmontage/video-edit,2026-11-16
 ss:openmontageinc/openmontage/web-design-guidelines,2026-11-09
 ss:openrouterteam/skills/openrouter-analytics,2026-10-25
 ss:openrouterteam/skills/openrouter-generations,2026-09-13

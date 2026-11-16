@@ -124,7 +124,7 @@ id,title,version,featured,publisher,trust
 @cua/driver,Cua Driver,0.11.0,false,cua,official
 @heygen-com/figma,figma,1.0.21,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.91,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.93,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
 @heygen-com/hyperframes-registry,hyperframes-registry,1.0.18,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.86,false,heygen-com,official
