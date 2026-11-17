@@ -122,16 +122,16 @@ id,title,version,featured,publisher,trust
 @aws/waf,waf,b4416dddac9b6a0cc5412136e6dbf8f07ffdb31c,false,aws,official
 @composio/composio-cli,composio-cli,0.1.0,false,composio,official
 @cua/driver,Cua Driver,0.11.0,false,cua,official
-@heygen-com/figma,figma,1.0.21,false,heygen-com,official
+@heygen-com/figma,figma,1.0.22,false,heygen-com,official
 @heygen-com/hyperframes,hyperframes,1.0.50,false,heygen-com,official
-@heygen-com/hyperframes-cli,hyperframes-cli,1.0.93,false,heygen-com,official
+@heygen-com/hyperframes-cli,hyperframes-cli,1.0.95,false,heygen-com,official
 @heygen-com/hyperframes-media,Hyperframes Media,1.0.7,false,heygen-com,official
-@heygen-com/hyperframes-registry,hyperframes-registry,1.0.18,false,heygen-com,official
+@heygen-com/hyperframes-registry,hyperframes-registry,1.0.20,false,heygen-com,official
 @heygen-com/media-use,media-use,1.0.86,false,heygen-com,official
 @heygen-com/remotion-to-hyperframes,remotion-to-hyperframes,1.0.16,false,heygen-com,official
-@heygen-com/reverse-any-video,reverse-any-video,1.0.18,false,heygen-com,official
-@heygen-com/slideshow,slideshow,1.0.20,false,heygen-com,official
-@heygen-com/style-sampling,style-sampling,1.0.12,false,heygen-com,official
+@heygen-com/reverse-any-video,reverse-any-video,1.0.19,false,heygen-com,official
+@heygen-com/slideshow,slideshow,1.0.21,false,heygen-com,official
+@heygen-com/style-sampling,style-sampling,1.0.14,false,heygen-com,official
 @heygen-com/website-to-video,Website To Video,1.0.7,false,heygen-com,official
 @huggingface/hf-cli,Hugging Face CLI,1.20.1,false,huggingface,official
 @huggingface/hf-mem,Hugging Face Memory Estimator,1.0.10,false,huggingface,official
@@ -467,7 +467,6 @@ id,title,version,featured,publisher,trust
 @nvidia/ovnewton-usage,using-ovnewton,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/paidf-cosmos-predict,paidf-cosmos-predict,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/physical-ai-defect-image-generation,physical-ai-defect-image-generation,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
-@nvidia/physical-ai-infrastructure-setup-and-resilient-scaling,physical-ai-infrastructure-setup-and-resilient-scaling,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/physical-ai-neural-reconstruction,physical-ai-neural-reconstruction,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/physical-ai-physics-selection,physical-ai-physics-selection,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/physical-ai-video-data-augmentation,physical-ai-video-data-augmentation,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
@@ -582,7 +581,7 @@ id,title,version,featured,publisher,trust
 @nvidia/warp-compile-time-optimizer,warp-compile-time-optimizer,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/warp-debug-gradients,warp-debug-gradients,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
 @nvidia/warp-eval,warp-eval,894f2d7dfee49085e84e21c1aad2513bc44a5b6d,false,nvidia,official
-@opensea/opensea-marketplace,OpenSea Skill,2.31.1,false,opensea,official
+@opensea/opensea-marketplace,OpenSea Skill,2.32.0,false,opensea,official
 @sdk-team/alibabacloud-ack-cli,alibabacloud-ack-cli,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-actiontrail-diagnosis,alibabacloud-actiontrail-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-aes-ack-pod-performance-profiling,Alibabacloud Aes Ack Pod Performance Profiling,0.0.1,false,sdk-team,official
@@ -697,6 +696,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ecs-health-inspection,Alibabacloud Ecs Health Inspection,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-install-extension,Alibabacloud Ecs Install Extension,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-linux-os-troubleshooting,alibabacloud-ecs-linux-os-troubleshooting,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-memory-oom-remediation,alibabacloud-ecs-memory-oom-remediation,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-patch-management,Alibabacloud Ecs Patch Management,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-reboot-or-crash-diagnosis,Alibabacloud Ecs Reboot Or Crash Diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-vpc-publicnetwork-troubleshoot,alibabacloud-ecs-vpc-publicnetwork-troubleshoot,0.0.3,false,sdk-team,official
