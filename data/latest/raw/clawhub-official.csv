@@ -171,53 +171,55 @@ id,title,version,featured,publisher,trust
 @mvanhorn/supabase-db,Supabase DB,1.2.1,false,mvanhorn,official
 @mvanhorn/tesla,Tesla,1.3.1,false,mvanhorn,official
 @mvanhorn/xai,xAI,1.3.1,false,mvanhorn,official
-@nvidia/accelerated-computing-cudf,accelerated-computing-cudf,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/ambient-healthcare-agent-with-nemotron-voice-agent,ambient-healthcare-agent-with-nemotron-voice-agent,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/amc-run-rtsp-calibration,amc-run-rtsp-calibration,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/amc-run-sample-calibration,amc-run-sample-calibration,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/amc-run-video-calibration,amc-run-video-calibration,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/amc-setup-calibration-stack,amc-setup-calibration-stack,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-boltz2-nim,boltz2-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-codonfm-embed,CodonFM Embeddings,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-codonfm-finetune,CodonFM Fine-tuning,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-codonfm-score,CodonFM Variant Scoring,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-codonfm-setup,CodonFM Setup,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-complexa-evaluate-pdbs,complexa-evaluate-pdbs,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-complexa-sweep,complexa-sweep,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-complexa-target,complexa-target,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-cuequivariance,cuequivariance,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-cuequivariance-jax,cuequivariance-jax,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-cuequivariance-torch,cuequivariance-torch,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-diffdock-nim,diffdock-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-drug-discovery-pipeline,drug-discovery-pipeline,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-evo2-nim,evo2-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-genmol-nim,genmol-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-genomics-workflow-acceleration,genomics-workflow-acceleration,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-add-cmim-pretrain,kermt-add-cmim-pretrain,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-continue-pretrain,kermt-continue-pretrain,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-embed,kermt-embed,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-finetune,kermt-finetune,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-infer,kermt-infer,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-monitor,kermt-monitor,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-pretrain-scratch,kermt-pretrain-scratch,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-kermt-setup,kermt-setup,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-molmim-nim,molmim-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-msa-search-nim,msa-search-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-msa-structure-prediction-pipeline,msa-structure-prediction-pipeline,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-nvmolkit-usage,nvmolkit-usage,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-openfold2-nim,openfold2-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-openfold3-nim,openfold3-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-parabricks,parabricks,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-proteinmpnn-nim,proteinmpnn-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-rfd4-proteina-nim,RFD4-Proteina NIM,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/bionemo-rfdiffusion-nim,rfdiffusion-nim,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-anomalygen,cdf-anomalygen,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-augmentation,cdf-augmentation,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-auto-labeling,cdf-auto-labeling,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-autonomous-vehicle-dataset-generation,cdf-autonomous-vehicle-dataset-generation,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-curation-and-retrieval,cdf-curation-and-retrieval,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-defect-image-generation,CDF Orchestration — SMT Defect Image Generation,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
-@nvidia/cdf-event-video-generation,CDF Orchestration — Event Video Generation,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
+@nvidia/accelerated-computing-cudf,accelerated-computing-cudf,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/ambient-healthcare-agent-with-nemotron-voice-agent,ambient-healthcare-agent-with-nemotron-voice-agent,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/amc-run-rtsp-calibration,amc-run-rtsp-calibration,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/amc-run-sample-calibration,amc-run-sample-calibration,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/amc-run-video-calibration,amc-run-video-calibration,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/amc-setup-calibration-stack,amc-setup-calibration-stack,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bioir-bench-perf-oss,bench-perf-oss,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bioir-model-onboard,model-onboard,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-boltz2-nim,boltz2-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-codonfm-embed,CodonFM Embeddings,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-codonfm-finetune,CodonFM Fine-tuning,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-codonfm-score,CodonFM Variant Scoring,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-codonfm-setup,CodonFM Setup,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-complexa-evaluate-pdbs,complexa-evaluate-pdbs,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-complexa-sweep,complexa-sweep,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-complexa-target,complexa-target,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-cuequivariance,cuequivariance,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-cuequivariance-jax,cuequivariance-jax,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-cuequivariance-torch,cuequivariance-torch,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-diffdock-nim,diffdock-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-drug-discovery-pipeline,drug-discovery-pipeline,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-evo2-nim,evo2-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-genmol-nim,genmol-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-genomics-workflow-acceleration,genomics-workflow-acceleration,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-add-cmim-pretrain,kermt-add-cmim-pretrain,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-continue-pretrain,kermt-continue-pretrain,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-embed,kermt-embed,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-finetune,kermt-finetune,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-infer,kermt-infer,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-monitor,kermt-monitor,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-pretrain-scratch,kermt-pretrain-scratch,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-kermt-setup,kermt-setup,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-molmim-nim,molmim-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-msa-search-nim,msa-search-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-msa-structure-prediction-pipeline,msa-structure-prediction-pipeline,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-nvmolkit-usage,nvmolkit-usage,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-openfold2-nim,openfold2-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-openfold3-nim,openfold3-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-parabricks,parabricks,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-proteinmpnn-nim,proteinmpnn-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-rfd4-proteina-nim,RFD4-Proteina NIM,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/bionemo-rfdiffusion-nim,rfdiffusion-nim,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-anomalygen,cdf-anomalygen,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-augmentation,cdf-augmentation,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-auto-labeling,cdf-auto-labeling,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-autonomous-vehicle-dataset-generation,cdf-autonomous-vehicle-dataset-generation,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-curation-and-retrieval,cdf-curation-and-retrieval,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-defect-image-generation,CDF Orchestration — SMT Defect Image Generation,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
+@nvidia/cdf-event-video-generation,CDF Orchestration — Event Video Generation,f41ce9991ce9b45b19cf4b4fda1d1a066b45dd14,false,nvidia,official
 @nvidia/cdf-image-attribute-augmentation,CDF Orchestration — Image Attribute Augmentation,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
 @nvidia/cdf-orchestration-preflight,CDF Orchestration Preflight,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
 @nvidia/cdf-orchestration-setup,CDF Orchestration Environment Setup,b0694f6d55b4037ffd414aba5759b59f38380c5e,false,nvidia,official
