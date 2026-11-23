@@ -26,6 +26,8 @@
   <a href="https://linkly.ai/skills">ライブのインタラクティブランキングを見る →</a>
 </p>
 
+[Linkly AI](https://linkly.ai) のチームが制作しています。Linkly AI は、Claude Code や Codex などの AI エージェントがパソコン内のファイルを検索して読めるようにする無料のデスクトップアプリです。
+
 ## このプロジェクトの目的
 
 各 Skills レジストリが把握できるのは、それぞれのエコシステムだけです。skills.sh は Claude/Vercel CLI のインストール数、ClawHub は OpenClaw のダウンロード数、Tencent SkillHub は中国でのインストール数を集計していますが、いずれもソーシャルでの話題性は捉えていません。**Best Skills はこれらの視点を統合し、エコシステム横断の全体像を提供します**。Skill ごとに、世界のインストール数、中国でのインストール数、ソーシャルでの言及数を並べて確認できます。このようなランキングはほかにありません。
