@@ -26,6 +26,8 @@
   <a href="https://linkly.ai/skills">探索实时交互榜单 →</a>
 </p>
 
+由 [Linkly AI](https://linkly.ai) 团队制作。Linkly AI 是免费的桌面应用，让 Claude Code、Codex 等 AI Agent 搜索和阅读你电脑上的文件。
+
 ## 为什么创建这个项目
 
 每个 Skills 注册平台只能看到自己的生态。skills.sh 统计 Claude/Vercel CLI 安装量，ClawHub 统计 OpenClaw 下载量，腾讯 SkillHub 统计中国区安装量——而它们都无法反映社交热度。**Best Skills 将这些视角合并成一个跨生态全景**：你可以并排查看每个 Skill 的全球安装量、中国区安装量和社交提及量。没有其他排行榜能做到这一点。

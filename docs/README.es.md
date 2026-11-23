@@ -26,6 +26,8 @@ Se actualiza a diario — ⭐ **Star** para ver los cambios, o sigue a [**@Bluee
   <a href="https://linkly.ai/skills">Explora las clasificaciones interactivas en vivo →</a>
 </p>
 
+Creado por el equipo de [Linkly AI](https://linkly.ai), una aplicación de escritorio gratuita que permite a Claude Code, Codex y otros agentes de IA buscar y leer los archivos de tu ordenador.
+
 ## Por qué existe este proyecto
 
 Cada registro de Skills solo ve su propio ecosistema. skills.sh cuenta las instalaciones de Claude/Vercel CLI, ClawHub cuenta las descargas de OpenClaw y Tencent SkillHub cuenta las instalaciones en China; ninguno refleja la repercusión social. **Best Skills combina todas estas perspectivas en una visión común entre ecosistemas**: para cada Skill puedes consultar en paralelo las instalaciones globales, las instalaciones en China y las menciones sociales. Ninguna otra clasificación ofrece esto.

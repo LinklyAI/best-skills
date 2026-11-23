@@ -26,6 +26,8 @@ Täglich aktualisiert – ⭐ **Star** für die Änderungen, oder [**@BlueeonY**
   <a href="https://linkly.ai/skills">Interaktive Live-Ranglisten entdecken →</a>
 </p>
 
+Vom Team hinter [Linkly AI](https://linkly.ai), einer kostenlosen Desktop-App, mit der Claude Code, Codex und andere KI-Agenten die Dateien auf deinem Computer durchsuchen und lesen können.
+
 ## Warum es dieses Projekt gibt
 
 Jedes Skills-Verzeichnis sieht nur sein eigenes Ökosystem. skills.sh zählt Installationen über die Claude/Vercel CLI, ClawHub zählt OpenClaw-Downloads und Tencent SkillHub zählt Installationen in China – soziale Resonanz erfasst keines davon. **Best Skills verbindet all diese Perspektiven zu einem ökosystemübergreifenden Gesamtbild**: Für jeden Skill werden globale Installationen, Installationen in China und Erwähnungen in sozialen Medien nebeneinander dargestellt. Keine andere Rangliste bietet das.

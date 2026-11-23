@@ -26,6 +26,8 @@ Rankings shift daily — ⭐ **Star** for updates, or follow [**@BlueeonY**](htt
   <a href="https://linkly.ai/skills">Explore the live, interactive rankings →</a>
 </p>
 
+Built by the team behind [Linkly AI](https://linkly.ai), a free desktop app that lets Claude Code, Codex and other AI agents search and read the files on your computer.
+
 ## Why this exists
 
 Every skills registry only sees its own ecosystem. skills.sh counts Claude/Vercel CLI installs, ClawHub counts OpenClaw downloads, Tencent SkillHub counts installs from China — and none of them see social buzz. **Best Skills merges all of these views into one cross-ecosystem picture**: for each skill you can see global installs, China installs, and social mentions side by side. No other ranking does this.
