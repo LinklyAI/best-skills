@@ -60,7 +60,7 @@ jobs:
           repository: LinklyAI/best-skills-runner
           path: runner
 
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         with:
           package_json_file: runner/package.json
       - uses: actions/setup-node@v5
