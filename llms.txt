@@ -111,6 +111,13 @@ The same seven lists END with two more columns (added in v1.5, after every per-l
 - `category`: one of SkillHub's categories — `ai-agent`, `dev-programming`, `it-ops-security`, `data-analysis`, `knowledge-management`, `office-efficiency`, `content-creation`, `design-media`, `business-ops`, `professional`, `education`, `life-service` — or `other`, as judged by the jev model; empty when the model was not confident. For skills.sh skills it is judged from the name and repository alone
 - `flags`: `coercive` when the skill's description pressures agents into using it ("You MUST use this…"); empty otherwise. Skills flagged `not-a-skill`, `deprecated` or `harmful` never appear in a ranking — see `raw/judgments.csv`
 
+Folded lists (best-100, top-installs, trending-7d, official-100, rising-stars) END with two more columns after `category` and `flags` (added in v1.6):
+
+- `group_size`: number of skills this row stands for; 1 = a skill on its own. Same-repo skills.sh skills whose installs in the latest week are within 10% of each other are folded into one row (skills.sh counts installs per repository), led by the best-ranked of them
+- `group_members`: `|`-separated `skill` names of the folded skills, without the lead; each is `ss:<source_skillssh>/<name>` as a `skill_key`. Empty when `group_size` is 1
+
+best-100, top-installs, official-100 and top-repos END with `rank_change_7d` (added in v1.6, after every other column): `+3` = three places higher than 7 days earlier, `-5` = five lower, `0` = unchanged, `new` = not on that list 7 days earlier, empty = no comparable list (folded lists are only compared with folded lists). A folded row keeps its history when another member leads the bundle.
+
 Per-list columns after the identity block:
 
 - best-100: `installs_skillssh`, `downloads_clawhub`, `downloads_skillhub_cn` (raw counts); `wis` (0–100); the five dimensions `popularity` (weight 0.30), `momentum` (0.15), `buzz` (0.20), `maintenance` (0.15), `trust` (0.20), each 0–1, empty = not measured (neutral prior 0.3 used); `coverage` A/B/C = number of registries with install data (3/2/1); `anomaly`: non-empty (`identical-counts:<vendor>`) when 3+ skills of one vendor share an identical count, which multiplies `wis` by 0.6
