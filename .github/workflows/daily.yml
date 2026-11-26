@@ -118,11 +118,29 @@ jobs:
       # The exit code only covers validation errors and "every collector failed".
       # A circuit-broken platform, an exhausted X quota or an unreachable LLM all
       # degrade silently and still exit 0 — so surface the log lines too.
+      # Grouped so one platform failing for every target reads as one problem:
+      # all ERROR lines first (they decide whether the day shipped), then a count
+      # of WARN lines per tag, then the first WARN of each tag as a sample.
       - name: Extract WARN/ERROR lines
         if: always()
         id: diag
         run: |
-          LOG=$(grep -E '\] (WARN|ERROR) ' "$RUNNER_TEMP/run.log" 2>/dev/null | head -40 || true)
+          RUN_LOG="$RUNNER_TEMP/run.log"
+          ERRORS=$(grep -E '\] ERROR ' "$RUN_LOG" 2>/dev/null | cut -c1-400 || true)
+          WARN_COUNTS=$(grep -E '\] WARN ' "$RUN_LOG" 2>/dev/null \
+            | sed -E 's/^\[[^]]*\] \[([^]]+)\] WARN .*/\1/' | sort | uniq -c | sort -rn \
+            | awk '{printf "  %s: %d warning(s)\n", $2, $1}' || true)
+          WARN_SAMPLES=$(grep -E '\] WARN ' "$RUN_LOG" 2>/dev/null \
+            | awk 'match($0, /\] \[[^]]+\] WARN /) { t = substr($0, RSTART, RLENGTH); if (!(t in seen)) { seen[t] = 1; print } }' \
+            | cut -c1-400 || true)
+          LOG=""
+          if [ -n "$ERRORS" ]; then
+            LOG="Errors:"$'\n'"$ERRORS"
+          fi
+          if [ -n "$WARN_COUNTS" ]; then
+            if [ -n "$LOG" ]; then LOG="$LOG"$'\n\n'; fi
+            LOG="${LOG}Warnings by source:"$'\n'"$WARN_COUNTS"$'\n\n'"First warning per source:"$'\n'"$WARN_SAMPLES"
+          fi
           if [ -n "$LOG" ]; then echo "has=1" >> "$GITHUB_OUTPUT"; else echo "has=0" >> "$GITHUB_OUTPUT"; fi
           {
             echo 'lines<<__DIAG_EOF__'
