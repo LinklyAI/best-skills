@@ -89,6 +89,16 @@ All under `https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/late
 - [x-posts.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/raw/x-posts.csv) (1,500+ rows): the X posts behind those counts — `skill_key` (short name), `tweet_url`, `created_at`, `lang`, `favorites`, `retweets`, `relevance` (0–1, jev's probability that the post is about the skill; empty when unchecked). Links and engagement only, no post text.
 - [judgments.csv](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/latest/raw/judgments.csv) (2,800+ rows, from v1.5): one row per entity, by `skill_key` (the full id) — `category`, `category_p`, `p_skill` (is a real skill), `p_deprecated`, `p_coercive` (description pressures agents into using it), `p_harmful`, `flags`, `model` (dated jev version), `judged_on`, `content_hash`. Probabilities are 0–1; the quality ones are empty for skills without a description (all of skills.sh). A verdict is reused until the skill's listing changes, so `judged_on` can be older than the file's date.
 
+## Skill files
+
+One JSON file per skill that appears in any skill list, at `https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/skills/<path>.json`, rebuilt daily. `<path>` is the `skill_key` without its prefix for skills.sh (`mattpocock/skills/grill-me`), `clawhub/<slug>` for ClawHub, `skillhub/<slug>` for SkillHub. [index.json](https://raw.githubusercontent.com/LinklyAI/best-skills/main/data/skills/index.json) lists every file with `path`, `name`, `platform`, `date` (last data date; older than today means the skill left every list and the file stopped updating) and `rank` (Best 100).
+
+- Identity and links: `key`, `name`, `platform`, `owner`, `authorName`, `repo`, `repoUrl`, `url`, `install`, `installAll` (whole repo), `description`, `descriptionZh`, `category`, `flags`, `official`, `github` (`stars`, `pushedAt`).
+- Numbers: `totalKind` (`installs` on skills.sh, `downloads` elsewhere); `stats` — `total`, `week` and `prevWeek` (growth of the cumulative count over the last 7 days and the 7 before), `avg30` and `avgPrev30` (average daily growth), `shape` (`accelerating` ≥ 1.25× the previous 30 days, `steady` ≥ 0.8×, `slowing` ≥ 0.2×, `stalled` below, `new` under 60 days of history), `rank` and `rank7d` (Best 100), `best100Days`, `days`; `series` — `[date, cumulative, best100Rank]` per day, `null` when unknown.
+- `peers`: up to 4 skills of the same repo (skills.sh) or owner (ClawHub), skills this one calls first (`depends`), then by cumulative count.
+- `source`: read from SKILL.md by code — `hash`, `updatedAt` (last change), `invocation` (`manual` when the skill can only be started by the user), `depends`, `scripts`.
+- `about`: explanatory text written by a model (`model`) from SKILL.md, in `en` and `zh` — `tagline`, `summary`, `problem`, `fit`, `unfit`, `steps`. Rewritten only when SKILL.md changes (`hash`, `writtenOn`). Absent when no SKILL.md could be read (SkillHub, skills.sh entries hosted on a domain, ambiguous ClawHub slugs).
+
 ## Columns
 
 Seven lists (all except official-vendors and top-repos) share these identity columns, in this order:
@@ -136,7 +146,7 @@ Per-list columns after the identity block:
 - A skill absent from a list is not ranked zero; each list is truncated at 100 and only covers entities the list's sources can see (trending-7d and most-active are single-platform by design).
 - skills.sh installs are bundle-level: installing a repo counts once for every skill in it, so sibling skills of one repo cluster together.
 - Social counts are English-dominant estimates for the last 7 calendar days; X is collected only for the top 50 buzz candidates.
-- `category`, `flags` and every relevance filter are judgements by a model (jev), not facts reported by a platform. Say so when you rely on them; the probabilities behind them are in `raw/judgments.csv` and `raw/x-posts.csv`.
+- `category`, `flags` and every relevance filter are judgements by a model (jev), not facts reported by a platform; the `about` text in skill files is written by a model too. Say so when you rely on them; the probabilities behind them are in `raw/judgments.csv` and `raw/x-posts.csv`.
 - Attribution when you republish: "Data from Best Skills (https://github.com/LinklyAI/best-skills) by @BlueeonY — CC BY 4.0".
 
 ## Optional
