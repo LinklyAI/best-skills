@@ -114,7 +114,7 @@ The same seven lists END with two more columns (added in v1.5, after every per-l
 Folded lists (best-100, top-installs, trending-7d, official-100, rising-stars) END with two more columns after `category` and `flags` (added in v1.6):
 
 - `group_size`: number of skills this row stands for; 1 = a skill on its own. Same-repo skills.sh skills whose installs in the latest week are within 10% of each other are folded into one row (skills.sh counts installs per repository), led by the best-ranked of them
-- `group_members`: `|`-separated `skill` names of the folded skills, without the lead; each is `ss:<source_skillssh>/<name>` as a `skill_key`. Empty when `group_size` is 1
+- `group_members`: `|`-separated `skill` names of the folded skills, most cumulative installs first, without the shown skill; each is `ss:<source_skillssh>/<name>` as a `skill_key`. Empty when `group_size` is 1
 
 best-100, top-installs, official-100 and top-repos END with `rank_change_7d` (added in v1.6, after every other column): `+3` = three places higher than 7 days earlier, `-5` = five lower, `0` = unchanged, `new` = not on that list 7 days earlier, empty = no comparable list (folded lists are only compared with folded lists). A folded row keeps its history when another member leads the bundle.
 
