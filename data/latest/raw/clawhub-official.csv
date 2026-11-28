@@ -179,7 +179,6 @@ id,title,version,featured,publisher,trust
 @nvidia/amc-run-rtsp-calibration,amc-run-rtsp-calibration,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/amc-run-sample-calibration,amc-run-sample-calibration,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/amc-run-video-calibration,amc-run-video-calibration,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/amc-setup-calibration-stack,amc-setup-calibration-stack,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/bioir-bench-perf-oss,bench-perf-oss,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/bioir-make-data-pipeline,make-data-pipeline,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/bioir-model-onboard,model-onboard,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
@@ -384,9 +383,7 @@ id,title,version,featured,publisher,trust
 @nvidia/nemo-fabric-build-adapter,NVIDIA NeMo Fabric Adapter Builder,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-fabric-integrate,nemo-fabric-integrate,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-gym-reward-profiling,NeMo Gym Reward Profiling,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/nemo-mbridge-mlm-bridge-training,nemo-mbridge-mlm-bridge-training,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-mbridge-perf-activation-recompute,nemo-mbridge-perf-activation-recompute,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/nemo-mbridge-perf-cuda-graphs,nemo-mbridge-perf-cuda-graphs,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-mbridge-perf-expert-parallel-overlap,nemo-mbridge-perf-expert-parallel-overlap,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-mbridge-perf-megatron-fsdp,nemo-mbridge-perf-megatron-fsdp,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-mbridge-perf-moe-comm-overlap,nemo-mbridge-perf-moe-comm-overlap,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
@@ -398,7 +395,6 @@ id,title,version,featured,publisher,trust
 @nvidia/nemo-relay-get-started,nemo-relay-get-started,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-relay-install,nemo-relay-install,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-relay-instrument-calls,nemo-relay-instrument-calls,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/nemo-relay-instrument-context-isolation,nemo-relay-instrument-context-isolation,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-relay-instrument-typed-wrappers,nemo-relay-instrument-typed-wrappers,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-relay-migrate-from-flow,nemo-relay-migrate-from-flow,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemo-relay-plugin-adaptive-tuning,nemo-relay-plugin-adaptive-tuning,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
@@ -408,7 +404,6 @@ id,title,version,featured,publisher,trust
 @nvidia/nemo-retriever-mcp,nemo-retriever-mcp,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemoclaw-user-guide,nemoclaw-user-guide,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemotron-asr-finetune,nemotron-asr-finetune,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/nemotron-retrieval-recipes,nemotron-retrieval-recipes,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemotron-speech,nemotron-speech,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/nemotron-voice-agent-builder,nemotron-voice-agent-builder,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/newton-performance,newton-performance,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
@@ -560,7 +555,6 @@ id,title,version,featured,publisher,trust
 @nvidia/tilegym-converting-cutile-to-triton,tilegym-converting-cutile-to-triton,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/tilegym-cutile-python,tilegym-cutile-python,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/tilegym-improve-cutile-kernel-perf,tilegym-improve-cutile-kernel-perf,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
-@nvidia/tilegym-monkey-patch-kernels-to-transformers,tilegym-monkey-patch-kernels-to-transformers,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/triton-onnx-model-repository,triton-onnx-model-repository,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/triton-pytorch-model-repository,triton-pytorch-model-repository,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
 @nvidia/trtllm-serve-config-guide,trtllm-serve-config-guide,f889e8524935fc52c1a6cd91b600c42d536fdde7,false,nvidia,official
@@ -650,6 +644,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-data-agent-skill,Alibabacloud Data Agent Skill,1.8.5,false,sdk-team,official
 @sdk-team/alibabacloud-datahub-manage,Alibabacloud Datahub Manage,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataphin-skills,alibabacloud-dataphin-skills,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-dataworks-context-graph,alibabacloud-dataworks-context-graph,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataworks-data-agent,alibabacloud-dataworks-data-agent,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataworks-data-governance,Alibabacloud Dataworks Data Governance,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-dataworks-data-ops,Alibabacloud Dataworks Data Ops,0.0.2,false,sdk-team,official
@@ -666,6 +661,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ddoscoo-domain-configuration-backup,Alibabacloud Ddoscoo Domain Configuration Backup,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ddoscoo-intercept-query,Alibabacloud Ddoscoo Intercept Query,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ddoscoo-port-configuration-backup,alibabacloud-ddoscoo-port-configuration-backup,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-developer-docs,alibabacloud-developer-docs,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-devops,alibabacloud-devops,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-dlf-manage,Alibabacloud Dlf Manage,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-dms-data-agent-platform-setup,Alibabacloud Dms Data Agent Platform Setup,0.0.2,false,sdk-team,official
@@ -684,10 +680,12 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ebs-disk-snapshot-management,alibabacloud-ebs-disk-snapshot-management,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ebs-usage-summary,alibabacloud-ebs-usage-summary,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-account-and-service-process,alibabacloud-ecs-account-and-service-process,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-boot-and-login-repair,alibabacloud-ecs-boot-and-login-repair,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-code-deploy,alibabacloud-ecs-code-deploy,1.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-diagnose,alibabacloud-ecs-diagnose,0.0.5,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-disaster-recovery-image,Alibabacloud Ecs Disaster Recovery Image,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-disaster-recovery-snapshot,Alibabacloud Ecs Disaster Recovery Snapshot,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-disk-io-and-data-protection,alibabacloud-ecs-disk-io-and-data-protection,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-gpu-diagnosis,alibabacloud-ecs-gpu-diagnosis,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-health-inspection,Alibabacloud Ecs Health Inspection,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-install-extension,Alibabacloud Ecs Install Extension,0.0.2,false,sdk-team,official
@@ -695,6 +693,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-ecs-memory-oom-remediation,alibabacloud-ecs-memory-oom-remediation,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-patch-management,Alibabacloud Ecs Patch Management,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-reboot-or-crash-diagnosis,Alibabacloud Ecs Reboot Or Crash Diagnosis,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-ecs-server-migration-on-cloud,alibabacloud-ecs-server-migration-on-cloud,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-snapshot-and-backup,alibabacloud-ecs-snapshot-and-backup,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-vpc-publicnetwork-troubleshoot,alibabacloud-ecs-vpc-publicnetwork-troubleshoot,0.0.3,false,sdk-team,official
 @sdk-team/alibabacloud-ecs-windows-os-troubleshooting,alibabacloud-ecs-windows-os-troubleshooting,0.0.1,false,sdk-team,official
@@ -728,6 +727,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-httpdns,Alibabacloud Httpdns,0.0.1-beta.1,false,sdk-team,official
 @sdk-team/alibabacloud-iac-code,alibabacloud-iac-code,0.5.0,false,sdk-team,official
 @sdk-team/alibabacloud-icpba-sucessdata-query,Alibabacloud Icpba Sucessdata Query,0.0.1,false,sdk-team,official
+@sdk-team/alibabacloud-idaas-ack-m2m-federated-credential,alibabacloud-idaas-ack-m2m-federated-credential,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-ad-ldap-integration,alibabacloud-idaas-ad-ldap-integration,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-identity-setup,alibabacloud-idaas-cloud-identity-setup,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-idaas-cloud-role-management,alibabacloud-idaas-cloud-role-management,0.0.1,false,sdk-team,official
@@ -751,7 +751,7 @@ id,title,version,featured,publisher,trust
 @sdk-team/alibabacloud-lingjun-node-diagnose,alibabacloud-lingjun-node-diagnose,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-lingjun-node-ops,alibabacloud-lingjun-node-ops,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-live-assistant,alibabacloud-live-assistant,0.0.2,false,sdk-team,official
-@sdk-team/alibabacloud-livedebug,alibabacloud-livedebug,0.0.2,false,sdk-team,official
+@sdk-team/alibabacloud-livedebug,alibabacloud-livedebug,0.0.4,false,sdk-team,official
 @sdk-team/alibabacloud-liverecord-diagnosis,Alibabacloud Liverecord Diagnosis,0.0.1,false,sdk-team,official
 @sdk-team/alibabacloud-loongcollector-ops,alibabacloud-loongcollector-ops,0.0.2,false,sdk-team,official
 @sdk-team/alibabacloud-maxcompute-cli,alibabacloud-maxcompute-cli,0.0.1,false,sdk-team,official
